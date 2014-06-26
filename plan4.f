@@ -1,13 +1,13 @@
 c-----------------------------------------------------------------------
       subroutine plan4
-
-C     Splitting scheme A.G. Tomboulides et al.
-c     Journal of Sci.Comp.,Vol. 12, No. 2, 1998
-c
+C> \brief Pn-Pn driver
+C>     Splitting scheme A.G. Tomboulides et al.
+C>     Journal of Sci.Comp.,Vol. 12, No. 2, 1998
+C
 C     NOTE: QTL denotes the so called thermal
-c           divergence and has to be provided
-c           by an external subroutine e.g qthermal
-c
+C           divergence and has to be provided
+C           by an external subroutine e.g qthermal
+C
       INCLUDE 'SIZE'
       INCLUDE 'INPUT'
       INCLUDE 'GEOM'
@@ -133,8 +133,7 @@ c     Calculate Divergence difference norms
 
 c-----------------------------------------------------------------------
       subroutine crespsp (respr)
-
-C     Compute startresidual/right-hand-side in the pressure
+C>    \brief Compute startresidual/right-hand-side in the pressure
 
       INCLUDE 'SIZE'
       INCLUDE 'TOTAL'
@@ -253,8 +252,7 @@ C     (only if all Dirichlet b.c.)
       END
 c----------------------------------------------------------------------
       subroutine cresvsp (resv1,resv2,resv3,h1,h2)
-
-C     Compute the residual for the velocity
+C>    \brief Compute the residual for the velocity
 
       INCLUDE 'SIZE'
       INCLUDE 'TOTAL'

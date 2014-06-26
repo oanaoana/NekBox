@@ -72,8 +72,8 @@ c=======================================================================
       subroutine axhelm (au,u,helm1,helm2,imesh,isd)
 C------------------------------------------------------------------
 C
-C     Compute the (Helmholtz) matrix-vector product,
-C     AU = helm1*[A]u + helm2*[B]u, for NEL elements.
+C>    \brief Compute the (Helmholtz) matrix-vector product,
+C>    AU = helm1*[A]u + helm2*[B]u, for NEL elements.
 C
 C------------------------------------------------------------------
       INCLUDE 'SIZE'
@@ -88,9 +88,10 @@ C
       COMMON /FASTAX/ WDDX(LX1,LX1),WDDYT(LY1,LY1),WDDZT(LZ1,LZ1)
       COMMON /FASTMD/ IFDFRM(LELT), IFFAST(LELT), IFH2, IFSOLV
       LOGICAL IFDFRM, IFFAST, IFH2, IFSOLV
-C
+
+C> \param[out] AU = helm1*[A]u + helm2*[B]u
       REAL           AU    (LX1,LY1,LZ1,1)
-     $ ,             U     (LX1,LY1,LZ1,1)
+      REAL           U     (LX1,LY1,LZ1,1)
      $ ,             HELM1 (LX1,LY1,LZ1,1)
      $ ,             HELM2 (LX1,LY1,LZ1,1)
       COMMON /CTMP1/ DUDR  (LX1,LY1,LZ1)
