@@ -813,16 +813,15 @@ C
 C
       return
       END
-C
+
+C>    @brief Helmholtz operator OUT = (H1*A + H2*B) * INP
+C>    where A, B are stifness and mass matrices
       subroutine ophx (out1,out2,out3,inp1,inp2,inp3,h1,h2)
-C----------------------------------------------------------------------
-C
-C     OUT = (H1*A+H2*B) * INP  
-C
-C----------------------------------------------------------------------
+
       include 'SIZE'
       include 'INPUT'
       include 'SOLN'
+
       REAL OUT1 (LX1,LY1,LZ1,1)
       REAL OUT2 (LX1,LY1,LZ1,1)
       REAL OUT3 (LX1,LY1,LZ1,1)
@@ -2754,7 +2753,8 @@ c     write(6,*) istep,' ifld:',ifield,intype,sv,sb
 C
       return
       END
-C
+
+C>    @brief 3-vector addition a = a + b
       subroutine opadd2 (a1,a2,a3,b1,b2,b3)
       include 'SIZE'
       REAL A1(1),A2(1),A3(1),B1(1),B2(1),B3(1)
@@ -2764,7 +2764,8 @@ C
       IF(NDIM.EQ.3)CALL ADD2(A3,B3,NTOT1)
       return
       END
-C
+
+C>    @brief 3-vector subtraction a = a - b
       subroutine opsub2 (a1,a2,a3,b1,b2,b3)
       include 'SIZE'
       REAL A1(1),A2(1),A3(1),B1(1),B2(1),B3(1)
@@ -2774,6 +2775,7 @@ C
       IF(NDIM.EQ.3)CALL SUB2(A3,B3,NTOT1)
       return
       END
+
 C
       subroutine opsub3 (a1,a2,a3,b1,b2,b3,c1,c2,c3)
       include 'SIZE'
@@ -2822,7 +2824,8 @@ C
       ENDIF
       return
       END
-C
+
+C>    @brief Vector product (a1,a2,a3) .* c
       subroutine opcolv (a1,a2,a3,c)
       include 'SIZE'
       REAL A1(1),A2(1),A3(1),C(1)

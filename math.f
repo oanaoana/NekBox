@@ -1,6 +1,12 @@
 c-----------------------------------------------------------------------
+C>    @brief Set A(1:N) = ' '
       SUBROUTINE BLANK(A,N)
+      implicit none
+
+C>    @brief length N
       CHARACTER*1 A(1)
+
+      integer N, i 
       CHARACTER*1 BLNK
       SAVE        BLNK
       DATA        BLNK /' '/
@@ -11,12 +17,15 @@ C
       RETURN
       END
 c-----------------------------------------------------------------------
+C>    @brief Square the vector: A.^2
       SUBROUTINE VSQ (A,N)
-      DIMENSION  A(1)
-C
-      include 'OPCTR'
-C
+
+      integer I, N
+C>    length N
+      REAL A(1)
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -28,18 +37,20 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I = 1, N
  100     A(I) = A(I)**2
       RETURN
       END
 c-----------------------------------------------------------------------
+C>    @brief Root the vector: A.^0.5
       SUBROUTINE VSQRT(A,N)
+
+C>    length N 
       DIMENSION  A(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -51,18 +62,20 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I = 1, N
  100     A(I) = SQRT(A(I))
       RETURN
       END
 c-----------------------------------------------------------------------
+C>    @brief Invert a vector: A = 1./B (out-of-place)
       subroutine invers2(a,b,n)
+
+C>    length N
       REAL A(1),B(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -74,19 +87,21 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=1./B(I)
  100  CONTINUE
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Invert a vector: A = 1./A (in-place)
       subroutine invcol1(a,n)
+
+C>    length N
       REAL A(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -98,26 +113,26 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=1./A(I)
  100  CONTINUE
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Scale vector by an inverse: A = A./B (in-place)
       subroutine invcol2(a,b,n)
-C
+
+C>    length N
       REAL A(1),B(1)
+
+#ifndef NOTIMER
       include 'CTIMER'
       include 'OPCTR'
-C
-#ifndef NOTIMER
       if (icalld.eq.0) tinvc=0.0
       icalld=icalld+1
       ninvc=icalld
       etime1=dnekclock()
-C
-C
 C
       if (isclld.eq.0) then
           isclld=1
@@ -130,29 +145,33 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=A(I)/B(I)
  100  CONTINUE
+
 #ifndef NOTIMER
       tinvc=tinvc+(dnekclock()-etime1)
 #endif
+
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Scale vector by an inverse: A = B./C (out-of-place)
       subroutine invcol3(a,b,c,n)
+
+C>    length N
       REAL A(1),B(1),C(1)
-C
+
+#ifndef NOTIMER
       include 'OPCTR'
       include 'CTIMER'
 
-#ifndef NOTIMER
       if (icalld.eq.0) tinv3=0.0
       icalld=icalld+1
       ninv3=icalld
       etime1=dnekclock()
-C
-C
+
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -164,22 +183,25 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=B(I)/C(I)
  100  CONTINUE
+
 #ifndef NOTIMER
       tinv3=tinv3+(dnekclock()-etime1)
 #endif
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Multiply three vectors: A = B.*C.*D (out-of-place)
       subroutine col4(a,b,c,d,n)
+
+C>    length N
       REAL A(1),B(1),C(1),D(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -191,19 +213,22 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=B(I)*C(I)*D(I)
   100 CONTINUE
+
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Add product of two vectors A = A + B.*C
       subroutine Xaddcol3(a,b,c,n)
+
+C>    length N
       REAL A(1),B(1),C(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -222,12 +247,14 @@ C
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Add product of three vectors A = A + B.*C.*D
       subroutine addcol4(a,b,c,d,n)
+
+C>    length N
       REAL A(1),B(1),C(1),D(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -239,19 +266,22 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=A(I)+B(I)*C(I)*D(I)
   100 CONTINUE
+
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief subtract two products of vectors: A = B.*C - D.*E
       subroutine ascol5 (a,b,c,d,e,n)
+
+C>    length N
       REAL A(1),B(1),C(1),D(1),E(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -263,19 +293,22 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I) = B(I)*C(I)-D(I)*E(I)
  100  CONTINUE
+
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Subtract two vectors: A = A - B (in-place)
       subroutine sub2(a,b,n)
+
+C>    length N
       REAL A(1),B(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -287,19 +320,22 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=A(I)-B(I)
  100  CONTINUE
+
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief subtract two vectors: A = B - C (out-of-place)
       subroutine sub3(a,b,c,n)
+
+C>    length N
       REAL A(1),B(1),C(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -311,19 +347,21 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=B(I)-C(I)
  100  CONTINUE
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Subtract product of vectors: A = A - B.*C
       subroutine subcol3(a,b,c,n)
+
+C>    length N
       REAL A(1),B(1),C(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -335,19 +373,22 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=A(I)-B(I)*C(I)
   100 CONTINUE
+
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Subtract product of three vectors: A = A - B.*C.*D
       subroutine subcol4(a,b,c,d,n)
+
+C>    length N
       REAL A(1),B(1),C(1),D(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -359,10 +400,11 @@ C
       ncall(myrout) = ncall(myrout) + 1
       dcount      =      dcount + (isbcnt)
 #endif
-C
+
       DO 100 I=1,N
          A(I)=A(I)-B(I)*C(I)*D(I)
   100 CONTINUE
+
       return
       END
 c-----------------------------------------------------------------------
@@ -456,6 +498,7 @@ C
       return
       END
 c-----------------------------------------------------------------------
+C>    @brief Negate a vector: A = -A
       subroutine chsign(a,n)
       REAL A(1)
 C
@@ -802,11 +845,14 @@ c-----------------------------------------------------------------------
       return
       end
 c-----------------------------------------------------------------------
+C>    @brief Product of two vectors: A = B.*C (out-of-place)
       subroutine col3(a,b,c,n)
+
+C>    length N
       real a(1),b(1),c(1)
-      include 'OPCTR'
 
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1
@@ -898,12 +944,14 @@ c-----------------------------------------------------------------------
       return
       end
 c-----------------------------------------------------------------------
+C>    @brief Add vector to scaled vector: A = C1 * A + B (in-place)
       subroutine add2s1(a,b,c1,n)
+
+C>    length N
       real a(1),b(1)
-C
-      include 'OPCTR'
-C
+
 #ifndef NOTIMER
+      include 'OPCTR'
       if (isclld.eq.0) then
           isclld=1
           nrout=nrout+1

@@ -1,13 +1,16 @@
+C>    @file plan4.f
+C>    @brief Driver for Pn-Pn solver
+C>
+C>    This file contains high-level routines for computing the 
+C>    right hand sides for the Helmholtz and Poisson solves in the
+C>    P(N)-P(N) formalism (colocation). 
+
 c-----------------------------------------------------------------------
+C>    @brief Pn-Pn driver
+C> 
+C>    First, ...
       subroutine plan4
-C> \brief Pn-Pn driver
-C>     Splitting scheme A.G. Tomboulides et al.
-C>     Journal of Sci.Comp.,Vol. 12, No. 2, 1998
-C
-C     NOTE: QTL denotes the so called thermal
-C           divergence and has to be provided
-C           by an external subroutine e.g qthermal
-C
+
       INCLUDE 'SIZE'
       INCLUDE 'INPUT'
       INCLUDE 'GEOM'
@@ -16,6 +19,16 @@ C
       INCLUDE 'TSTEP'
       INCLUDE 'ORTHOP'
       INCLUDE 'CTIMER'
+
+C     Splitting scheme A.G. Tomboulides et al.
+C     Journal of Sci.Comp.,Vol. 12, No. 2, 1998
+C
+C     NOTE: QTL denotes the so called thermal
+C           divergence and has to be provided
+C           by an external subroutine e.g qthermal
+C
+
+
 C
       COMMON /SCRNS/ RES1  (LX1,LY1,LZ1,LELV)
      $ ,             RES2  (LX1,LY1,LZ1,LELV)
@@ -133,8 +146,19 @@ c     Calculate Divergence difference norms
 
 c-----------------------------------------------------------------------
       subroutine crespsp (respr)
-C>    \brief Compute startresidual/right-hand-side in the pressure
-
+C>    \brief Compute residual (RHS) for the pressure Poisson equation
+C>
+C>    \details \f$ R = \vec{F_b} 
+C>    - \nabla \times \nabla \times \vec{v} 
+C>    - \nabla \left(P + \frac{1}{3} H_1 \nabla \cdot Q \right) \f$
+C> 
+C>    where \f$ F_b \f$ is the boundary force, 
+C>    \f$ A \f$ is the stiffness matrix, 
+C>    \f$ B \f$ is the mass matrix, 
+C>    \f$ \vec{v} \f$ is the velocity, 
+C>    \f$ P \f$ is the pressure, and
+C>    \f$ \nabla \cdot Q \f$ is the "thermal divergence"
+ 
       INCLUDE 'SIZE'
       INCLUDE 'TOTAL'
 
@@ -157,6 +181,7 @@ c
       NFACES = 2*NDIM
 
 c     -mu*curl(curl(v))
+C     wa = bm1 .* curl(curl(vext))
       call op_curl (ta1,ta2,ta3,vext(1,1),vext(1,2),vext(1,3),
      &              .true.,w1,w2)
       if(IFAXIS) then  
@@ -170,6 +195,7 @@ c     -mu*curl(curl(v))
       endif
       call opcolv   (wa1,wa2,wa3,bm1)
 c
+C     wa = (vdiff ./ vtrans) .* wa - 4./3. grad(QTL)
       call opgrad   (ta1,ta2,ta3,QTL)
       if(IFAXIS) then  
          CALL COL2  (ta2, OMASK,ntot1)
@@ -251,17 +277,30 @@ C     (only if all Dirichlet b.c.)
       return
       END
 c----------------------------------------------------------------------
+C>    \brief Compute the residual (RHS) for the velocity Helmholtz equation
+C>    \details \f$ \vec{R} = \vec{F_b} 
+C>    - (H_1 A + H_2 B) \vec{v} 
+C>    - \nabla \left(P + \frac{1}{3} H_1 \nabla \cdot Q \right) \f$
+C> 
+C>    where \f$ F_b \f$ is the boundary force, 
+C>    \f$ A \f$ is the stiffness matrix, 
+C>    \f$ B \f$ is the mass matrix, 
+C>    \f$ \vec{v} \f$ is the velocity, 
+C>    \f$ P \f$ is the pressure, and
+C>    \f$ \nabla \cdot Q \f$ is the "thermal divergence"
       subroutine cresvsp (resv1,resv2,resv3,h1,h2)
-C>    \brief Compute the residual for the velocity
 
       INCLUDE 'SIZE'
       INCLUDE 'TOTAL'
 
+C>   @param[out] RHS (or resv)
       real resv1(lx1,ly1,lz1,lelv)
      $   , resv2(lx1,ly1,lz1,lelv)
      $   , resv3(lx1,ly1,lz1,lelv)
-     $   , h1   (lx1,ly1,lz1,lelv)
-     $   , h2   (lx1,ly1,lz1,lelv)
+C>   @param[out] vdiff (or H1)
+      real h1   (lx1,ly1,lz1,lelv)
+C>   @param[out] vtrans (or H2)
+      real h2   (lx1,ly1,lz1,lelv)
 
       COMMON /SCRUZ/ TA1   (LX1,LY1,LZ1,LELV)
      $ ,             TA2   (LX1,LY1,LZ1,LELV)
@@ -271,27 +310,37 @@ C>    \brief Compute the residual for the velocity
       NTOT = NX1*NY1*NZ1*NELV
       INTYPE = -1
 
+C     Grab variable properties for Helmholtz operator (H1*A + H2*B)
       CALL SETHLM  (H1,H2,INTYPE)
 
+C     Apply Helmholtz operator to V
       CALL OPHX    (RESV1,RESV2,RESV3,VX,VY,VZ,H1,H2)
+C     Negate RHS: RESV = - RESV
       CALL OPCHSGN (RESV1,RESV2,RESV3)
 
+C     ta4 = pr -(ta4 - vdiff .* qtl)/3
       scale = -1./3.
       call col3    (ta4,vdiff,qtl,ntot)
       call add2s1  (ta4,pr,scale,ntot)    
+
+C     (ta1,ta2,ta3) = Gradient(ta4) 
       call opgrad  (ta1,ta2,ta3,TA4)
+
       if(IFAXIS) then
          CALL COL2 (TA2, OMASK,NTOT)
          CALL COL2 (TA3, OMASK,NTOT)
       endif
-c
+
+C     resv = resv - ta + bf
+C     resv = bf - (H1*A+H2*B)V - Gradient(pr - (ta4 - vdiff.*qtl)/3) 
       call opsub2  (resv1,resv2,resv3,ta1,ta2,ta3)
       call opadd2  (resv1,resv2,resv3,bfx,bfy,bfz)
-C
+
       return
       end
 
 c-----------------------------------------------------------------------
+C>    @brief Compute \f$ (w1,w2,w3) = \nabla \times (u1, u2, u3) \f$
       subroutine op_curl(w1,w2,w3,u1,u2,u3,ifavg,work1,work2)
 c
       include 'SIZE'
@@ -299,9 +348,14 @@ c
 c
       real duax(lx1), ta(lx1,ly1,lz1,lelv)
 
+C>    Input vector field
+      real u1(1),u2(1),u3(1)
+C>    Output vector field
+      real w1(1),w2(1),w3(1)
+C>    Average at the boundary?
       logical ifavg
-c
-      real w1(1),w2(1),w3(1),work1(1),work2(1),u1(1),u2(1),u3(1)
+C>    Scratch space of size ntot = nx1*ny1*nz1*nelv
+      real work1(1),work2(1)
 c
       ntot  = nx1*ny1*nz1*nelv
       nxyz  = nx1*ny1*nz1
@@ -362,9 +416,18 @@ c
       end
 
 c-----------------------------------------------------------------------
+C>    @brief Compute (a1,a2[,a3]) += (b1,b2[,b3]) * c
       subroutine opadd2cm (a1,a2,a3,b1,b2,b3,c)
+
       INCLUDE 'SIZE'
-      REAL A1(1),A2(1),A3(1),B1(1),B2(1),B3(1),C
+
+C>    length ntot = nx1*ny1*nz1*nelv
+      REAL A1(1),A2(1),A3(1),B1(1),B2(1),B3(1)
+C>    scaler
+      REAL C
+
+      integer i
+
       NTOT1=NX1*NY1*NZ1*NELV
       if (ndim.eq.3) then
          do i=1,ntot1
