@@ -12,7 +12,8 @@ module ctimer
 
 
   integer, save :: nproj = 0, nhconj = 0
-  integer :: nmxmf,nmxms,ndsum,naxhm,ncopy,ninvc,ninv3
+  integer, save :: naxhm = 0
+  integer :: nmxmf,nmxms,ndsum,ncopy,ninvc,ninv3
   integer :: nsolv,ngsum,ndsnd,ndadd,ncdtp,nmltd,nprep &
   ,npres,nhmhz,ngop ,ngop1,ndott,nbsol,nbso2 &
   ,nsett,nslvb,nusbc,nddsl,ncrsl,ndsmx,ndsmn &

@@ -47,6 +47,12 @@ subroutine plan4()
   REAL(DP) :: DIV1, DIV2, DIF1, DIF2, QTL1, QTL2
   real(DP) :: tolspl
   real(DP), external :: glsum
+  real(DP), save ::  time_setup = 0._dp
+  real(DP), save ::  time_resp = 0._dp
+  real(DP), save ::  time_solp = 0._dp
+  real(DP), save ::  time_resv = 0._dp
+  real(DP), save ::  time_solv = 0._dp
+  real(DP), save ::  time_else = 0._dp
 
   integer :: intype, ntot1 
 
@@ -75,6 +81,7 @@ subroutine plan4()
   allocate(vext(lx1*ly1*lz1*lelv,3))
 
   ! Time-advance velocity with AB(k)
+  time_setup = time_setup - dnekclock()
   CALL V_EXTRAP(vext)
 
   ! compute explicit contributions (bf{x,y,z}) with BDF(k)
@@ -90,6 +97,7 @@ subroutine plan4()
 
   ! mask Dirichlet boundaries
   CALL BCDIRVC  (VX,VY,VZ,v1mask,v2mask,v3mask)
+  time_setup = time_setup + dnekclock()
 
 !     first, compute pressure
 #ifndef NOTIMER
@@ -100,10 +108,13 @@ subroutine plan4()
 #endif
 
   allocate(RESPR(LX2,LY2,LZ2,LELV))
+  time_resp = time_resp - dnekclock()
   call crespsp  (respr, vext)
+  time_resp = time_resp + dnekclock()
   deallocate(vext)
 
   allocate(h1(lx1,ly1,lz1,lelv), h2(lx1,ly1,lz1,lelv))
+  time_solp = time_solp - dnekclock()
   h1 = 1._dp / vtrans(:,:,:,:,1)
   h2 = 0._dp
   call ctolspl  (tolspl,respr)
@@ -116,6 +127,7 @@ subroutine plan4()
   pr = pr + dpr
   deallocate(dpr)
   call ortho   (pr)
+  time_solp = time_solp + dnekclock()
 #ifndef NOTIMER
   tpres=tpres+(dnekclock()-etime1)
 #endif
@@ -124,13 +136,14 @@ subroutine plan4()
   allocate(RES1(lx1,ly1,lz1,lelv), &
            RES2(LX1,LY1,LZ1,LELV), &
            RES3(LX1,LY1,LZ1,LELV)  )
-
+  time_resv = time_resv - dnekclock()
   call cresvsp (res1,res2,res3,h1,h2)
+  time_resv = time_resv + dnekclock()
 
   allocate(DV1 (LX1,LY1,LZ1,LELV), &
            DV2 (LX1,LY1,LZ1,LELV), &
            DV3 (LX1,LY1,LZ1,LELV)  )
-
+  time_solv = time_solv - dnekclock()
   !>!< \note These three calls are task-parallel
   call hsolve('VELX', dv1, res1, h1, h2, v1mask, vmult, imesh, tolhv, nmxh, 1, &
               vx_apx, binvm1)
@@ -138,8 +151,10 @@ subroutine plan4()
               vy_apx, binvm1)
   call hsolve('VELZ', dv3, res3, h1, h2, v3mask, vmult, imesh, tolhv, nmxh, 3, &
               vz_apx, binvm1)
+  time_solv = time_solv + dnekclock()
   deallocate(res1, res2, res3, h1, h2)
 
+  time_else = time_else - dnekclock()
   vx = vx + dv1; vy = vy + dv2; vz = vz + dv3
 
 !    if (ifexplvis) call redo_split_vis
@@ -184,6 +199,9 @@ subroutine plan4()
       IF (DIF2 > 0.1) WRITE(6,'(15X,A)') &
       'WARNING: DIV(V)-QTL too large!'
   ENDIF 
+  time_else = time_else + dnekclock()
+  
+  if (nid == 0) write(*,'(A6,6F6.2)') "TIME2", time_setup, time_resp, time_solp, time_resv, time_solv, time_else 
    
   return
 end subroutine plan4

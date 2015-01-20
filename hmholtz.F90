@@ -115,9 +115,8 @@ subroutine axhelm (au,u,helm1,helm2,imesh,isd)
   NXYZ=NX1*NY1*NZ1
   NTOT=NXYZ*NEL
 
-  if (icalld == 0) taxhm=0.0
-  icalld=icalld+1
-  naxhm=icalld
+  if (naxhm == 0) taxhm=0.0
+  naxhm=naxhm + 1
   etime1=dnekclock()
 
   IF ( .NOT. IFSOLV) CALL SETFAST(HELM1,HELM2,IMESH)

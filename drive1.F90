@@ -283,9 +283,15 @@ end subroutine nek_solve
 !! Includes the primary Pn/Pn vs Pn/Pn-2 branch
 subroutine nek_advance
   use input, only : iftran, ifsplit, ifheat, ifflow, param
+  use kinds, only : DP
+  use ctimer, only : dnekclock
+  use parallel, only : nid
   implicit none
 
   integer :: igeom
+  real(DP), save :: heat_time = 0._dp, flow_time = 0._dp, convect_time = 0._dp
+  real(DP), save :: prop_time = 0._dp
+
 
   call nekgsync
   IF (IFTRAN) CALL SETTIME
@@ -296,13 +302,23 @@ subroutine nek_advance
   if (ifsplit) then   ! PN/PN formulation
 
       igeom = 1
+      heat_time = heat_time - dnekclock()
       if (ifheat)          call heat     (igeom)
+      heat_time = heat_time + dnekclock()
+      prop_time = prop_time - dnekclock()
       call setprop
+      prop_time = prop_time + dnekclock()
       !call qthermal
       igeom = 1
+      flow_time = flow_time - dnekclock()
       if (ifflow)          call fluid    (igeom)
+      flow_time = flow_time + dnekclock()
       if (param(103) > 0) call q_filter(param(103))
+      convect_time = convect_time - dnekclock()
       call setup_convect (2) ! Save convective velocity _after_ filter
+      convect_time = convect_time + dnekclock()
+
+      if (nid == 0) write(*,'(A6,4F6.2)') "TIMES", heat_time, prop_time, flow_time, convect_time
 
   else                ! PN-2/PN-2 formulation
     write(*,*) "Oops! Pn-2/Pn-2"
