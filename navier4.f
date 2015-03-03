@@ -460,7 +460,8 @@ C
 c-----------------------------------------------------------------------
 c     THE ROUTINES BELOW ARE THE NEW Helmholtz projectors
 c-----------------------------------------------------------------------
-      subroutine projh(r,h1,h2,bi,vml,vmk,approx,napprox,wl,ws,name4)
+      subroutine projh(r,h1,h2,bi,vml,vmk,
+     $                 approx,h_approx,napprox,wl,ws,name4)
 C
 C     Orthogonalize the rhs wrt previous rhs's for which we already
 C     know the soln.
@@ -486,6 +487,7 @@ C
       real bi(1)
       real wl(1),ws(1)
       real approx(lt,0:1)
+      real h_approx(1)
       integer napprox(2)
       character*4 name4
 c
@@ -539,7 +541,8 @@ c
       return
       end
 c-----------------------------------------------------------------------
-      subroutine gensh(v1,h1,h2,vml,vmk,approx,napprox,wl,ws,name4)
+      subroutine gensh(v1,h1,h2,vml,vmk,
+     $                 approx,h_approx,napprox,wl,ws,name4)
 c
 c     Reconstruct the solution to the original problem by adding back
 c     the previous solutions
@@ -556,6 +559,7 @@ c
       real v1(1),h1(1),h2(1),vml(1),vmk(1)
       real wl(1),ws(1)
       real approx(lt,0:1)
+      real h_approx(1)
       integer napprox(2)
       character*4 name4
 c
@@ -790,7 +794,7 @@ c
       end
 c-----------------------------------------------------------------------
       subroutine hsolve(name,u,r,h1,h2,vmk,vml,imsh,tol,maxit,isd
-     $                 ,approx,napprox,bi)
+     $                 ,approx,h_approx,napprox,bi)
 c
 c     Either std. Helmholtz solve, or a projection + Helmholtz solve
 c
@@ -810,6 +814,7 @@ c
       REAL           vml  (LX1,LY1,LZ1,1)
       REAL           bi   (LX1,LY1,LZ1,1)
       REAL           approx (1)
+      REAL           h_approx (1)
       integer        napprox(1)
       common /ctmp2/ w1   (lx1,ly1,lz1,lelt)
       common /ctmp3/ w2   (2+2*mxprev)
@@ -840,9 +845,11 @@ c
 
          call col2   (r,vmk,n)
          call dssum  (r,nx1,ny1,nz1)
-         call projh  (r,h1,h2,bi,vml,vmk,approx,napprox,w1,w2,name)
+         call projh  (r,h1,h2,bi,vml,vmk,
+     $                 approx,h_approx,napprox,w1,w2,name)
          call hmhzpf (name,u,r,h1,h2,vmk,vml,imsh,tol,maxit,isd,bi)
-         call gensh  (u,h1,h2,vml,vmk,approx,napprox,w1,w2,name)
+         call gensh  (u,h1,h2,vml,vmk,
+     $                 approx,h_approx,napprox,w1,w2,name)
 
       endif
 
