@@ -1,0 +1,12 @@
+<map id="findpt_area" name="findpt_area">
+<area shape="rect" id="node2" href="$findpts__el__2_8c.html#acff1f41c6406b048943b33e32ddd2fe8" title="newton_area" alt="" coords="168,81,273,108"/>
+<area shape="rect" id="node8" href="$findpts__el__2_8c.html#a735a0b2429ead065a716620560bdefce" title="reject_prior_step_q" alt="" coords="148,132,293,159"/>
+<area shape="rect" id="node9" href="$tensor_8h.html#a9ce8ec26cbf5009547e22bf7da4e337c" title="tensor_i1" alt="" coords="180,183,261,209"/>
+<area shape="rect" id="node10" href="$tensor_8h.html#a0502ce18a8e7c9843bbcc5ca5be6ac41" title="tensor_ig1" alt="" coords="176,233,265,260"/>
+<area shape="rect" id="node11" href="$tensor_8h.html#a668a47aca721428547c6c6ba41e44b64" title="tensor_mxm" alt="" coords="171,284,270,311"/>
+<area shape="rect" id="node3" href="$findpts__el__2_8c.html#a96e49fc418f078d65322249f5db6484c" title="lin_solve_2" alt="" coords="360,5,453,32"/>
+<area shape="rect" id="node4" href="$findpts__el__2_8c.html#aba221836cfcda61c89c2f0036a0c924b" title="edge_index" alt="" coords="359,56,455,83"/>
+<area shape="rect" id="node6" href="$findpts__el__2_8c.html#a237c5a006fc05851f3b65c787fcc8f25" title="plus_1_mod_2" alt="" coords="349,107,464,133"/>
+<area shape="rect" id="node7" href="$findpts__el__2_8c.html#ab1e1697a00c290763fcf744b73cf3b03" title="num_constrained" alt="" coords="341,157,472,184"/>
+<area shape="rect" id="node5" href="$findpts__el__2_8c.html#adedc72c5a31511f6a6d6df1fcfbd279e" title="which_bit" alt="" coords="520,56,600,83"/>
+</map>

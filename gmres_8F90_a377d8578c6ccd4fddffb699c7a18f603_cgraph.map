@@ -1,0 +1,51 @@
+<map id="hmh_gmres" name="hmh_gmres">
+<area shape="rect" id="node2" href="$gmres_8F90.html#abb09784e907975584f1a8f4dbf282a79" title="w = A*x for pressure iteration " alt="" coords="425,360,464,387"/>
+<area shape="rect" id="node4" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="1104,639,1233,665"/>
+<area shape="rect" id="node13" href="$hmholtz_8F90.html#a1d25ae22b38fb86936fcd9c68dab702f" title="Check that the tolerances are not too small for the CG&#45;solver. Important when calling the CG&#45;solver (..." alt="" coords="409,208,480,235"/>
+<area shape="rect" id="node14" href="$comm__mpi_8F90.html#a3f652605d55796462e959d17b5a9612b" title="Global vector commutative operation. " alt="" coords="655,461,702,488"/>
+<area shape="rect" id="node26" href="$classhsmg__routines.html#abaa25315b11254629ed79c12c169c52f" title="Solve preconditioner: z = M rhs, where . " alt="" coords="149,862,304,903"/>
+<area shape="rect" id="node38" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="895,1283,941,1309"/>
+<area shape="rect" id="node46" href="$navier1_8F90.html#a4905d51f51b57bfec184a6b44f858bdb" title="Orthogonalize the residual in the pressure solver with respect to (1,1,...,1)T (only if all Dirichlet..." alt="" coords="199,1333,254,1360"/>
+<area shape="rect" id="node3" href="$hmholtz_8F90.html#aa576b5bd623cce50fd6323db12ba5376" title="Compute the (Helmholtz) matrix&#45;vector product, AU = helm1*[A]u + helm2*[B]u, for NEL elements..." alt="" coords="645,309,712,336"/>
+<area shape="rect" id="node10" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="887,1080,949,1107"/>
+<area shape="rect" id="node6" href="$hmholtz_8F90.html#a0f322d39d4bdffa3f9ba901f72d4a1d0" title="Set logicals for fast evaluation of A*x. " alt="" coords="886,360,950,387"/>
+<area shape="rect" id="node7" href="$mxm__wrapper_8F90.html#ab9ec2260a10061af6ce1c52f3c8a41da" title="Compute matrix&#45;matrix product C = A*B. " alt="" coords="893,56,943,83"/>
+<area shape="rect" id="node5" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1324,639,1412,665"/>
+<area shape="rect" id="node8" href="$mxm__bgq_8F90.html#a8faaef428336095704ece51624bbfe92" title="mxm_bgq_8" alt="" coords="1119,56,1218,83"/>
+<area shape="rect" id="node9" href="$mxm__bgq_8F90.html#a27529ace9834454b8906f29e02718629" title="mxm_bgq_12" alt="" coords="1115,5,1222,32"/>
+<area shape="rect" id="node11" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="1127,1029,1210,1056"/>
+<area shape="rect" id="node12" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="1321,1029,1415,1056"/>
+<area shape="rect" id="node15" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="892,563,944,589"/>
+<area shape="rect" id="node16" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="894,1181,942,1208"/>
+<area shape="rect" id="node21" href="$mpi__dummy_8F90.html#acd9229b5fb6a4d16f9917a5b5c2f0909" title="mpi_allreduce" alt="" coords="863,157,973,184"/>
+<area shape="rect" id="node17" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="1133,1181,1204,1208"/>
+<area shape="rect" id="node18" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="1115,1232,1222,1259"/>
+<area shape="rect" id="node19" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="1121,1080,1217,1107"/>
+<area shape="rect" id="node20" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="1127,1131,1210,1157"/>
+<area shape="rect" id="node22" href="$mpi__dummy_8F90.html#a64285f5ce9bed08bfd13bc27264db185" title="mpi_reduce_double_precision" alt="" coords="1064,157,1273,184"/>
+<area shape="rect" id="node23" href="$mpi__dummy_8F90.html#aa549a352c5ab9ce53b8dfd222da38fa6" title="mpi_reduce_integer" alt="" coords="1095,208,1242,235"/>
+<area shape="rect" id="node24" href="$mpi__dummy_8F90.html#abbddc050d7faafb34959984f69652e0a" title="mpi_reduce_integer8" alt="" coords="1091,259,1246,285"/>
+<area shape="rect" id="node25" href="$mpi__dummy_8F90.html#a47f146895b36dc21100a1c42d343762c" title="mpi_reduce_real" alt="" coords="1105,107,1232,133"/>
+<area shape="rect" id="node27" href="$classhsmg__routines.html#ae8264b46dc5298c58a281e55ef3b2bc5" title="hsmg_routines::h1mg\l_schwarz" alt="" coords="367,647,522,689"/>
+<area shape="rect" id="node29" href="$classhsmg__routines.html#accfa04691196fb45bdb29ed5436503d5" title="hsmg_routines::h1mg_mask" alt="" coords="820,715,1016,741"/>
+<area shape="rect" id="node33" href="$classhsmg__routines.html#a6e79e13064790d22b12b32f86d5fc52d" title="r =J r, l is coarse level " alt="" coords="353,869,537,896"/>
+<area shape="rect" id="node36" href="$classhsmg__routines.html#adb1f241321c99f913f53fefefee82c09" title="hsmg_routines::hsmg\l_coarse_solve" alt="" coords="367,1047,522,1089"/>
+<area shape="rect" id="node43" href="$classhsmg__routines.html#af485811b3d3130108597603411dfb768" title="hsmg_routines::hsmg_intp" alt="" coords="352,1215,537,1241"/>
+<area shape="rect" id="node45" href="$ic_8F90.html#a12fbcc70f37b3490eeda7dfb002dcc7d" title="Take direct stiffness avg of u. " alt="" coords="415,1131,475,1157"/>
+<area shape="rect" id="node28" href="$classhsmg__routines.html#a4a6db215f45240aeea2ec2541872b472" title="hsmg_routines::h1mg\l_schwarz_part1" alt="" coords="601,679,756,721"/>
+<area shape="rect" id="node32" href="$classhsmg__routines.html#aea8980e54a0fd4ef8bc6a6163b52b105" title="hsmg_routines::hsmg\l_schwarz_wt" alt="" coords="601,614,756,655"/>
+<area shape="rect" id="node31" href="$classhsmg__routines.html#a88e7156da5cd6d7172d353620e4b9778" title="hsmg_routines::hsmg\l_dssum" alt="" coords="841,839,995,881"/>
+<area shape="rect" id="node30" href="$classhsmg__routines.html#a93a3f6b1f2ae5ca83271afd73c2ff4a6" title="hsmg_routines::mg_mask_e" alt="" coords="1071,715,1267,741"/>
+<area shape="rect" id="node34" href="$classhsmg__routines.html#a95b4fa69d48864a263ba34d86f11c1ae" title="u = wt .* u " alt="" coords="601,797,756,838"/>
+<area shape="rect" id="node35" href="$classhsmg__routines.html#a7a84e350749e18aafaacdbdb3d4638d3" title="compute v = [A (x) A] u or v = [A (x) A (x) A] u " alt="" coords="601,862,756,903"/>
+<area shape="rect" id="node37" href="$classpoisson.html#a1ab874c434e5694003e378739fb98c65" title="poisson::spectral_solve" alt="" coords="595,1080,763,1107"/>
+<area shape="rect" id="node39" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="1119,1333,1218,1360"/>
+<area shape="rect" id="node40" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="1121,1384,1216,1411"/>
+<area shape="rect" id="node41" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="1118,1435,1219,1461"/>
+<area shape="rect" id="node42" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="1123,1283,1215,1309"/>
+<area shape="rect" id="node44" href="$classhsmg__routines.html#ab009e603b829296443844596185ed57f" title="computes v = [A (x) A] u or v = [A (x) A (x) A] u " alt="" coords="585,1232,772,1259"/>
+<area shape="rect" id="node47" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="653,1333,704,1360"/>
+<area shape="rect" id="node48" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="891,1435,945,1461"/>
+<area shape="rect" id="node49" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="885,1333,951,1360"/>
+<area shape="rect" id="node50" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="869,1384,967,1411"/>
+</map>

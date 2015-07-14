@@ -1,0 +1,51 @@
+<map id="copy" name="copy">
+<area shape="rect" id="node2" href="$bdry_8F90.html#aaa0d4258b1292dd19b9fc931df83bd68" title="Apply Dirichlet boundary conditions to surface of vector (V1,V2,V3). Use IFIELD as a guide to which b..." alt="" coords="149,5,216,32"/>
+<area shape="rect" id="node5" href="$navier5_8F90.html#a672cdc948324721df77f08e248963192" title="This routing builds a 1D filter with a transfer function that looks like: ^ d_k | | | 1 |__________ v..." alt="" coords="123,107,242,133"/>
+<area shape="rect" id="node7" href="$navier1_8F90.html#a0411bdb65f6b5cb057603cea2b6b963e" title="Compute DT*X (entire field) " alt="" coords="158,1013,207,1040"/>
+<area shape="rect" id="node9" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="363,421,417,448"/>
+<area shape="rect" id="node13" href="$convect_8F90.html#aef829efeef773567be893471f50529b1" title="Compute dealiased form: J^T Bf *JC .grad Ju w/ correct Jacobians. " alt="" coords="130,157,235,184"/>
+<area shape="rect" id="node15" href="$navier5_8F90.html#aca88e3dda3f95f9b212d6e0bfa2b4543" title="filterq" alt="" coords="154,56,211,83"/>
+<area shape="rect" id="node16" href="$navier8_8F90.html#aae4a347bc7ce7b06fa7abf792db70953" title="gen_crs_basis" alt="" coords="126,259,239,285"/>
+<area shape="rect" id="node17" href="$navier8_8F90.html#aaeec4769efda346366e7e561aa844c88" title="This routine generates Nelv submatrices of order ncl using Galerkin projection. " alt="" coords="308,225,472,252"/>
+<area shape="rect" id="node18" href="$hmholtz_8F90.html#a5a846560cdbe979f8cf9a71599a7f460" title="Solve the generalized eigenvalue problem A x = lam B x. " alt="" coords="140,309,225,336"/>
+<area shape="rect" id="node20" href="$classhelmholtz.html#a5077d115c2aaad42d80aaa089651bb25" title="Reconstruct the solution to the original problem by adding back the approximate solution, add solution to approximation space. " alt="" coords="524,361,651,388"/>
+<area shape="rect" id="node21" href="$coef_8F90.html#a0d49b1aee56670901cd4cdfde7245e6c" title="Generate derivative and interpolation operators. GENERATE. " alt="" coords="359,613,421,640"/>
+<area shape="rect" id="node23" href="$coef_8F90.html#ad01cc61ba84d488e68ca9e259c592465" title="Routine to generate mapping data based on mesh 1 (Gauss&#45;Legendre Lobatto meshes). ..." alt="" coords="143,563,222,589"/>
+<area shape="rect" id="node24" href="$comm__mpi_8F90.html#a3f652605d55796462e959d17b5a9612b" title="Global vector commutative operation. " alt="" coords="159,512,206,539"/>
+<area shape="rect" id="node25" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="353,551,427,577"/>
+<area shape="rect" id="node26" href="$classhsmg__routines.html#abc50809cf4aae995f61fd0c4ebc44c70" title="SEM hat matrices for each level. " alt="" coords="105,715,260,757"/>
+<area shape="rect" id="node27" href="$classhsmg__routines.html#abaa25315b11254629ed79c12c169c52f" title="Solve preconditioner: z = M rhs, where . " alt="" coords="105,781,260,822"/>
+<area shape="rect" id="node28" href="$classhsmg__routines.html#a4a764754ca94ae800fbced43543c8b58" title="hsmg_routines::hsmg\l_setup_semhat" alt="" coords="105,846,260,887"/>
+<area shape="rect" id="node29" href="$coef_8F90.html#ab55eaf97834e39b3a1f2db649b2582a8" title="Lag the mass matrix (matrices) " alt="" coords="145,912,220,939"/>
+<area shape="rect" id="node30" href="$conduct_8F90.html#acb622305abc4fe92c813db8b4f298459" title="Keep old passive scalar field(s) " alt="" coords="149,963,216,989"/>
+<area shape="rect" id="node31" href="$navier1_8F90.html#a83d718e9b1893670bcd6f299a7751366" title="Keep old velocity field(s) " alt="" coords="361,1469,419,1496"/>
+<area shape="rect" id="node32" href="$navier1_8F90.html#ab907b0b4f57c160c86799b03de3cef19" title="Sum up contributions to kth order extrapolation scheme. NOTE: rho^{n+1} should multiply all the Sum_q..." alt="" coords="145,1064,220,1091"/>
+<area shape="rect" id="node33" href="$ic_8F90.html#a170de261200bce1070ca719caaf56df0" title="Interpolate Y(NXR,NYR,NZR,NEL) to X(NX1,NY1,NZ1,NEL) (assumes that NXR=NYR=NZR, or NXR=NYR..." alt="" coords="144,1115,221,1141"/>
+<area shape="rect" id="node34" href="$prepost_8F90.html#a719f53cbe469f5bf99a53892de48af29" title="output a scalar field " alt="" coords="143,1165,222,1192"/>
+<area shape="rect" id="node35" href="$prepost_8F90.html#a3f8a4c9fa971a0386d313d4c79e111f7" title="output a vector field " alt="" coords="143,1216,222,1243"/>
+<area shape="rect" id="node36" href="$classio.html#a758050a046c3323706e227872dc0bddf" title="Read a scalar field. " alt="" coords="110,1267,255,1293"/>
+<area shape="rect" id="node37" href="$classio.html#a73b31838c25a62a2d22ccd660b5f26bb" title="Read a vector field. " alt="" coords="109,1317,256,1344"/>
+<area shape="rect" id="node38" href="$mpi__dummy_8F90.html#a360ea2d5368e0651d29945de0f055d09" title="mpi_scan" alt="" coords="141,1368,224,1395"/>
+<area shape="rect" id="node39" href="$navier1_8F90.html#ae2a342d8b6189bd500acbcc1cac1c757" title="Compute D*X . X : input variable, defined on M1 DX : output variable, defined on M2 (note: D is recta..." alt="" coords="155,1571,210,1597"/>
+<area shape="rect" id="node40" href="$navier1_8F90.html#a58af49abaf1ee0cc07be356ad2721d90" title="Compute OUTFLD = SUMi Di*INPi. the divergence of the vector field (INPX,INPY,INPZ) ..." alt="" coords="362,1571,418,1597"/>
+<area shape="rect" id="node41" href="$plan4_8F90.html#a133b5c2a8f266ecb811b8baf380f0b76" title="Compute curl of U. " alt="" coords="149,1419,217,1445"/>
+<area shape="rect" id="node42" href="$navier1_8F90.html#a55f0c02db80925df02a6998e17985478" title="opcopy" alt="" coords="149,1469,217,1496"/>
+<area shape="rect" id="node43" href="$prepost_8F90.html#aaf4c0f2e1790302116a4c719c2eb50ff" title="outpost2" alt="" coords="145,1621,221,1648"/>
+<area shape="rect" id="node44" href="$prepost_8F90.html#a4e84ee920cd7a849909fd5fbceff97e0" title="Store results for later postprocessing. " alt="" coords="130,1672,235,1699"/>
+<area shape="rect" id="node45" href="$ic_8F90.html#af64028aefb1dff2a9f8a84ff024f44b0" title="driver for restarts (1) Open restart file(s) (2) Check previous spatial discretization (3) Map (K1..." alt="" coords="129,1723,236,1749"/>
+<area shape="rect" id="node46" href="$subs1_8F90.html#ae2376b70f309c6118b4e43df9cbe66b1" title="Set the variable property arrays H1 and H2 in the Helmholtz equation. (associated with variable IFIEL..." alt="" coords="151,1773,214,1800"/>
+<area shape="rect" id="node47" href="$coef_8F90.html#a8f030ba29c08d869ce58476a91a06723" title="Invert the mass matrix. 1) Copy BM1 to BINVM1 2) Perform direct stiffness summation on BINVM1 3) Comp..." alt="" coords="147,1824,218,1851"/>
+<area shape="rect" id="node48" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="344,475,436,501"/>
+<area shape="rect" id="node49" href="$genxyz_8F90.html#a87589b3d23bfc65828b0ba8f207b145a" title="setzgml" alt="" coords="147,1925,218,1952"/>
+<area shape="rect" id="node50" href="$eigsolv_8F90.html#a641903cf1502c362e017e07dcb6cae02" title="Compute startvector for finding an eigenvalue on mesh 1. Normalization: XT*B*X = 1. " alt="" coords="150,1976,215,2003"/>
+<area shape="rect" id="node3" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="880,1071,937,1097"/>
+<area shape="rect" id="node4" href="$subs1_8F90.html#ae9a3fbc5bc373045963d36015efb448d" title="Compute new timestep based on CFL&#45;condition. " alt="" coords="360,56,420,83"/>
+<area shape="rect" id="node6" href="$navier5_8F90.html#a519066c177fc94530849e83d3b9d4cfb" title="filter vx,vy,vz, and p by simple interpolation " alt="" coords="357,107,423,133"/>
+<area shape="rect" id="node8" href="$plan4_8F90.html#aabf6317e90fc459c525a5716eb31692a" title="Compute start residual/right&#45;hand&#45;side in the pressure. " alt="" coords="354,1071,426,1097"/>
+<area shape="rect" id="node10" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="552,469,623,496"/>
+<area shape="rect" id="node12" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="520,419,655,445"/>
+<area shape="rect" id="node11" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="703,444,832,471"/>
+<area shape="rect" id="node14" href="$navier1_8F90.html#a38ba376801cfa958294fae8c90db7680" title="Compute the convective term CONV for a passive scalar field FI. " alt="" coords="356,157,424,184"/>
+<area shape="rect" id="node19" href="$classhsmg__routines.html#a3df48c7ab66c5291fd70155ce0ca7e11" title="hsmg_routines::hsmg\l_setup_fast1d" alt="" coords="313,294,467,335"/>
+<area shape="rect" id="node22" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="552,551,623,577"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="legendre" name="legendre">
+<area shape="rect" id="node2" href="$poly__test2_8c.html#a69f5d2b7af5e3de6428c9134ec55573a" title="ref_gauss_nodes" alt="" coords="139,5,270,32"/>
+<area shape="rect" id="node4" href="$poly__test2_8c.html#a0dc72ef8ad5d998911bf5db4ce34053e" title="ref_gauss_weights" alt="" coords="135,56,275,83"/>
+<area shape="rect" id="node5" href="$poly__test2_8c.html#a50023bd73c2456deb9e4269a12405ac2" title="ref_lobatto_weights" alt="" coords="132,107,277,133"/>
+<area shape="rect" id="node3" href="$poly__test2_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="325,56,377,83"/>
+</map>

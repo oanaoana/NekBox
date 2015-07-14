@@ -1,0 +1,16 @@
+<map id="pw_setup" name="pw_setup">
+<area shape="rect" id="node2" href="$gs_8c.html#a233865689700a78046a7f4b1e0c261c0" title="pw_exec" alt="" coords="153,157,231,184"/>
+<area shape="rect" id="node11" href="$gs_8c.html#a3fda6a3a348d66a4166da91faf259771" title="pw_free" alt="" coords="155,309,229,336"/>
+<area shape="rect" id="node13" href="$gs_8c.html#ab3b872c91498351e8c249e2efca7e123" title="pw_setup_aux" alt="" coords="136,360,248,387"/>
+<area shape="rect" id="node3" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="313,5,405,32"/>
+<area shape="rect" id="node4" href="$gs_8c.html#a6258675e209794fa9bced9bcf2c93a05" title="gather_noop" alt="" coords="308,56,411,83"/>
+<area shape="rect" id="node5" href="$gs_8c.html#ae08bb673dc13acacd1d0e0263f38b99d" title="pw_exec_recvs" alt="" coords="299,107,419,133"/>
+<area shape="rect" id="node7" href="$gs_8c.html#a54038c308634e6260e581b21d581b1c9" title="pw_exec_sends" alt="" coords="297,157,421,184"/>
+<area shape="rect" id="node9" href="$gs_8c.html#acdf12fed77e0cd5cd272b5fca576d495" title="scatter_noop" alt="" coords="307,208,412,235"/>
+<area shape="rect" id="node10" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="317,259,402,285"/>
+<area shape="rect" id="node6" href="$comm_8h.html#ae47a830e94605168f00226fd25cd578a" title="comm_irecv" alt="" coords="473,107,570,133"/>
+<area shape="rect" id="node8" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="471,157,572,184"/>
+<area shape="rect" id="node12" href="$gs_8c.html#a6d0bfa530f2e77029a87fa5ab228a7df" title="pw_comm_free" alt="" coords="300,309,419,336"/>
+<area shape="rect" id="node14" href="$gs_8c.html#a772c9ec43386dd34fba511d68828dca1" title="pw_comm_setup" alt="" coords="296,360,423,387"/>
+<area shape="rect" id="node15" href="$gs_8c.html#aa64fba87bd1e94e47931c6046373756b" title="pw_map_setup" alt="" coords="301,411,418,437"/>
+</map>

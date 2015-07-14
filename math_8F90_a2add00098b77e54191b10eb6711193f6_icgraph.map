@@ -1,0 +1,15 @@
+<map id="isort" name="isort">
+<area shape="rect" id="node2" href="$navier8_8F90.html#a8beadce5e829399452ec13a7ac6b4633" title="assign_gllnid" alt="" coords="103,62,207,89"/>
+<area shape="rect" id="node3" href="$navier8_8F90.html#a928aff746415692c89ffdfbaf08fd98d" title="setup unique ids for dssum. note: total number of unique vertices, edges and faces has to be smaller ..." alt="" coords="114,113,195,140"/>
+<area shape="rect" id="node4" href="$navier8_8F90.html#a51b2c2d951e069b7ffa9a395b2def117" title="Given global array, vertex, pointing to hex vertices, set up a new array of global pointers for an nx..." alt="" coords="255,113,328,140"/>
+<area shape="rect" id="node5" href="$dssum_8F90.html#ac67af3a4cc3a2c90a8d596c8ab69e395" title="setup data structures for direct stiffness operations " alt="" coords="398,85,469,112"/>
+<area shape="rect" id="node14" href="$navier8_8F90.html#a809b9aa647f2046d09131be2f6074ff6" title="? " alt="" coords="376,140,491,166"/>
+<area shape="rect" id="node6" href="$classhsmg__routines.html#ae77d2725d2058f12595e58c677dca8f2" title="hsmg_routines::h1mg\l_setup_dssum" alt="" coords="539,44,693,86"/>
+<area shape="rect" id="node11" href="$classhsmg__routines.html#ac8ad367a9256351c66da876bb6c8d936" title="hsmg_routines::hsmg\l_setup_dssum" alt="" coords="539,110,693,151"/>
+<area shape="rect" id="node13" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="946,12,1038,38"/>
+<area shape="rect" id="node7" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="741,44,896,86"/>
+<area shape="rect" id="node8" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="944,98,1040,125"/>
+<area shape="rect" id="node9" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1088,56,1159,82"/>
+<area shape="rect" id="node10" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="1207,56,1272,82"/>
+<area shape="rect" id="node12" href="$classhsmg__routines.html#ac8f9bca9624d5e550d70acabfa8aef73" title="Sets up hybrid Schwarz multi&#45;grid preconditioner. " alt="" coords="741,110,896,151"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="legendre" name="legendre">
+<area shape="rect" id="node2" href="$poly_8h.html#ae490aa8066f52e3eac2fa5f25b2221d2" title="gauss_nodes" alt="" coords="132,5,239,32"/>
+<area shape="rect" id="node3" href="$poly_8h.html#aa3de4a21b6e41bfc9aaed2ec335a94de" title="gauss_quad" alt="" coords="136,56,235,83"/>
+<area shape="rect" id="node4" href="$poly_8h.html#a0e1d949c14fcc1e643e0779b3659f0d3" title="lobatto_quad" alt="" coords="134,107,237,133"/>
+</map>

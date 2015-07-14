@@ -1,0 +1,8 @@
+<map id="pw_exec_sends" name="pw_exec_sends">
+<area shape="rect" id="node2" href="$gs_8c.html#a233865689700a78046a7f4b1e0c261c0" title="pw_exec" alt="" coords="177,31,256,57"/>
+<area shape="rect" id="node3" href="$gs_8c.html#a32636abe895179991c05e4881ca74484" title="pw_setup" alt="" coords="304,31,387,57"/>
+<area shape="rect" id="node4" href="$gs_8c.html#acb4f807b2974fc4b6f2cf8f7505ed6ac" title="auto_setup" alt="" coords="435,5,525,32"/>
+<area shape="rect" id="node5" href="$gs_8c.html#a00292c49272fb485aaebf8c621982ad3" title="gs_setup_aux" alt="" coords="573,31,683,57"/>
+<area shape="rect" id="node6" href="$gs_8c.html#adff6aa371c7d8e16a6d5ec17697dd637" title="fgs_setup_pick" alt="" coords="731,5,847,32"/>
+<area shape="rect" id="node7" href="$gs_8h.html#a8e2276986935df404e15f3121f00a601" title="gs_setup" alt="" coords="749,56,828,83"/>
+</map>

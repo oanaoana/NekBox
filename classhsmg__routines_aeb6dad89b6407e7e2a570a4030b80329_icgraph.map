@@ -1,0 +1,6 @@
+<map id="hsmg_routines::h1mg_setup_mg_nx" name="hsmg_routines::h1mg_setup_mg_nx">
+<area shape="rect" id="node2" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node3" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="411,13,507,39"/>
+<area shape="rect" id="node4" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="555,13,625,39"/>
+<area shape="rect" id="node5" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="673,13,739,39"/>
+</map>

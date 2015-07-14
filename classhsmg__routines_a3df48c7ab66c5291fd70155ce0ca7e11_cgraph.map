@@ -1,0 +1,19 @@
+<map id="hsmg_routines::hsmg_setup_fast1d" name="hsmg_routines::hsmg_setup_fast1d">
+<area shape="rect" id="node2" href="$hmholtz_8F90.html#a5a846560cdbe979f8cf9a71599a7f460" title="Solve the generalized eigenvalue problem A x = lam B x. " alt="" coords="243,132,328,159"/>
+<area shape="rect" id="node15" href="$classhsmg__routines.html#a32d1b32b076c1027158869a56f2188b3" title="hsmg_routines::hsmg\l_setup_fast1d_a" alt="" coords="208,183,363,225"/>
+<area shape="rect" id="node16" href="$classhsmg__routines.html#ad0c91654efb05b89839c53064735d2bf" title="hsmg_routines::hsmg\l_setup_fast1d_b" alt="" coords="208,249,363,290"/>
+<area shape="rect" id="node17" href="$fast3d_8F90.html#a85ab5f066f6e3f2c4d37e131c38b4774" title="zero the eth row of a " alt="" coords="245,315,326,341"/>
+<area shape="rect" id="node18" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="243,365,328,392"/>
+<area shape="rect" id="node3" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="421,81,473,108"/>
+<area shape="rect" id="node4" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="423,132,471,159"/>
+<area shape="rect" id="node14" href="$hmholtz_8F90.html#a0c12437d60cdcc0814b9bd6af2040c58" title="outmat2" alt="" coords="411,183,483,209"/>
+<area shape="rect" id="node5" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="531,5,660,32"/>
+<area shape="rect" id="node7" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="560,56,631,83"/>
+<area shape="rect" id="node8" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="542,107,649,133"/>
+<area shape="rect" id="node9" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="547,157,643,184"/>
+<area shape="rect" id="node10" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="554,208,637,235"/>
+<area shape="rect" id="node12" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="554,259,637,285"/>
+<area shape="rect" id="node6" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="717,5,805,32"/>
+<area shape="rect" id="node11" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="708,208,815,235"/>
+<area shape="rect" id="node13" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="715,259,808,285"/>
+</map>

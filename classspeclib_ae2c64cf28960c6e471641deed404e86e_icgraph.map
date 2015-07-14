@@ -1,0 +1,41 @@
+<map id="speclib::zwgljd" name="speclib::zwgljd">
+<area shape="rect" id="node2" href="$classspeclib.html#a7f8bbfa94e61b0b498a78f57a3b2d46d" title="speclib::zwglj" alt="" coords="164,207,267,234"/>
+<area shape="rect" id="node3" href="$coef_8F90.html#a0d49b1aee56670901cd4cdfde7245e6c" title="Generate derivative and interpolation operators. GENERATE. " alt="" coords="501,131,563,158"/>
+<area shape="rect" id="node6" href="$classspeclib.html#ab649647711dc444ca710b98bf943b0d8" title="speclib::zwgll" alt="" coords="315,258,417,285"/>
+<area shape="rect" id="node4" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1672,206,1743,233"/>
+<area shape="rect" id="node5" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="2279,279,2344,306"/>
+<area shape="rect" id="node7" href="$fast3d_8F90.html#a65b70798668bd7b237bc2308bc4daede" title="Generate fast diagonalization matrices for each element. " alt="" coords="873,233,1007,259"/>
+<area shape="rect" id="node9" href="$fast3d_8F90.html#a1ed312943db727bf8a788864dfd14ae3" title="Generate matrices for single element, 1D operators: " alt="" coords="465,233,599,259"/>
+<area shape="rect" id="node15" href="$ic_8F90.html#a170de261200bce1070ca719caaf56df0" title="Interpolate Y(NXR,NYR,NZR,NEL) to X(NX1,NY1,NZ1,NEL) (assumes that NXR=NYR=NZR, or NXR=NYR..." alt="" coords="692,334,769,361"/>
+<area shape="rect" id="node19" href="$interp__mod_8F90.html#a58f02ae257240ef90f8a1c9e5b092d1c" title="Generate interpolation from np GLL points to mp GL points jgl = interpolation matrix, mapping from velocity nodes to pressure jgt = transpose of interpolation matrix w = work array of size (np+mp) np = number of points on GLL grid mp = number of points on GL grid. " alt="" coords="497,385,567,411"/>
+<area shape="rect" id="node37" href="$navier5_8F90.html#a519066c177fc94530849e83d3b9d4cfb" title="filter vx,vy,vz, and p by simple interpolation " alt="" coords="1269,486,1335,513"/>
+<area shape="rect" id="node38" href="$navier8_8F90.html#aae4a347bc7ce7b06fa7abf792db70953" title="gen_crs_basis" alt="" coords="475,182,589,209"/>
+<area shape="rect" id="node8" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="1083,174,1179,201"/>
+<area shape="rect" id="node10" href="$classhsmg__routines.html#abc50809cf4aae995f61fd0c4ebc44c70" title="SEM hat matrices for each level. " alt="" coords="653,101,808,143"/>
+<area shape="rect" id="node12" href="$classhsmg__routines.html#a4a764754ca94ae800fbced43543c8b58" title="hsmg_routines::hsmg\l_setup_semhat" alt="" coords="653,167,808,208"/>
+<area shape="rect" id="node14" href="$fast3d_8F90.html#a4de164b9c3a6daa704d34c01e5e0ec22" title="Note that this routine performs the following matrix multiplies after getting the matrices back from ..." alt="" coords="647,233,815,259"/>
+<area shape="rect" id="node11" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="863,101,1017,143"/>
+<area shape="rect" id="node13" href="$classhsmg__routines.html#ac8f9bca9624d5e550d70acabfa8aef73" title="Sets up hybrid Schwarz multi&#45;grid preconditioner. " alt="" coords="863,167,1017,208"/>
+<area shape="rect" id="node16" href="$ic_8F90.html#a46a0ff5dd0a6f10aa39215385ba21288" title="mapdmp" alt="" coords="1093,258,1169,285"/>
+<area shape="rect" id="node17" href="$ic_8F90.html#af64028aefb1dff2a9f8a84ff024f44b0" title="driver for restarts (1) Open restart file(s) (2) Check previous spatial discretization (3) Map (K1..." alt="" coords="1407,233,1513,259"/>
+<area shape="rect" id="node18" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="1563,233,1622,259"/>
+<area shape="rect" id="node20" href="$classinterp.html#a2637cb8249580b149248f7a6b0ededdf" title="Get pointer to jgl() for interpolation pair (mx,md) " alt="" coords="665,385,797,411"/>
+<area shape="rect" id="node21" href="$convect_8F90.html#aef829efeef773567be893471f50529b1" title="Compute dealiased form: J^T Bf *JC .grad Ju w/ correct Jacobians. " alt="" coords="887,435,993,462"/>
+<area shape="rect" id="node34" href="$convect_8F90.html#a768d72f963bbcaf77ab9725ad7847c72" title="Put vxd,vyd,vzd into rst form on fine mesh For rst form, see eq. (4.8.5) in Deville, Fischer, Mund (2002). " alt="" coords="1065,334,1197,361"/>
+<area shape="rect" id="node36" href="$induct_8F90.html#adcae8f87adfb3b7c619cd72c46ccd4ac" title="Eulerian scheme, add convection term to forcing function. " alt="" coords="883,385,997,411"/>
+<area shape="rect" id="node22" href="$navier1_8F90.html#a38ba376801cfa958294fae8c90db7680" title="Compute the convective term CONV for a passive scalar field FI. " alt="" coords="1097,435,1165,462"/>
+<area shape="rect" id="node23" href="$navier1_8F90.html#a340322c02acf88d19d4d5ffea79154ac" title="Eulerian scheme, add convection term to forcing function at current time step. " alt="" coords="1272,385,1332,411"/>
+<area shape="rect" id="node30" href="$conduct_8F90.html#af2b8d8c53a101a9edd117d1a78a08069" title="Eulerian scheme, add convection term to forcing function at current time step. " alt="" coords="1269,435,1335,462"/>
+<area shape="rect" id="node24" href="$navier1_8F90.html#a83189b3d1938d87f00ace2e7e05d9e4c" title="Compute and add: (1) user specified forcing function (FX,FY,FZ) (2) driving force due to natural conv..." alt="" coords="1430,385,1490,411"/>
+<area shape="rect" id="node25" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="1564,385,1621,411"/>
+<area shape="rect" id="node26" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="1684,385,1731,411"/>
+<area shape="rect" id="node27" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="1791,385,1897,411"/>
+<area shape="rect" id="node28" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1945,353,2096,379"/>
+<area shape="rect" id="node29" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="2144,321,2231,347"/>
+<area shape="rect" id="node31" href="$makeq_8F90.html#ad52d9adde8f010af2d0a8c1a55543eeb" title="Generate forcing function for the solution of a passive scalar. !! NOTE: Do not change the content of..." alt="" coords="1428,435,1492,462"/>
+<area shape="rect" id="node32" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="1561,435,1624,462"/>
+<area shape="rect" id="node33" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="1682,435,1733,462"/>
+<area shape="rect" id="node35" href="$convect_8F90.html#a9b58d62988f53102b490531b844a1891" title="setup_convect" alt="" coords="1245,315,1359,342"/>
+<area shape="rect" id="node39" href="$navier8_8F90.html#aaeec4769efda346366e7e561aa844c88" title="This routine generates Nelv submatrices of order ncl using Galerkin projection. " alt="" coords="649,50,813,77"/>
+<area shape="rect" id="node40" href="$navier8_8F90.html#a809b9aa647f2046d09131be2f6074ff6" title="? " alt="" coords="883,50,997,77"/>
+</map>

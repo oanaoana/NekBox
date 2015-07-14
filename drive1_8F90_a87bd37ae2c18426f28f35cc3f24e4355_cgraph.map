@@ -1,0 +1,51 @@
+<map id="nek_init" name="nek_init">
+<area shape="rect" id="node2" href="$bdry_8F90.html#aff6088943a1cc02fb036375d9008b4c7" title="Zero out masks corresponding to Dirichlet boundary points. " alt="" coords="169,56,239,83"/>
+<area shape="rect" id="node7" href="$drive2_8F90.html#ab79ec3c35ce2079b236a435feee313c2" title="No need to comment !! " alt="" coords="165,360,243,387"/>
+<area shape="rect" id="node8" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="351,259,480,285"/>
+<area shape="rect" id="node10" href="$classctimer.html#aa60dccc79bd980a4b422bd58d48e0a1b" title="ctimer::dnekclock_sync" alt="" coords="332,208,499,235"/>
+<area shape="rect" id="node11" href="$drive2_8F90.html#ad7dcf95029f223c6def3ab96e6285330" title="count degrees of freedom " alt="" coords="173,411,235,437"/>
+<area shape="rect" id="node12" href="$drive2_8F90.html#ad6a42dd98e540bc5a0563ef620239e1e" title="Echo the nonzero parameters from the readfile to the logfile. " alt="" coords="167,461,241,488"/>
+<area shape="rect" id="node13" href="$navier0_8F90.html#a316eee2e742b806a39e481d5f5c3e8b2" title="Decide strategy for E&#45;solver. " alt="" coords="175,512,233,539"/>
+<area shape="rect" id="node14" href="$drive2_8F90.html#a29f4f4f29ab462b5dcb910cb6d8a1af1" title="Defines machine specific input and output file names. " alt="" coords="181,563,227,589"/>
+<area shape="rect" id="node15" href="$drive2_8F90.html#a7f0d055bb47546a4859ac7d63339197e" title="Compute eigenvalues. " alt="" coords="171,613,237,640"/>
+<area shape="rect" id="node16" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="163,664,245,691"/>
+<area shape="rect" id="node17" href="$coef_8F90.html#a0d49b1aee56670901cd4cdfde7245e6c" title="Generate derivative and interpolation operators. GENERATE. " alt="" coords="173,715,235,741"/>
+<area shape="rect" id="node18" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="367,791,464,817"/>
+<area shape="rect" id="node19" href="$singlmesh_8F90.html#a0b340eaa9352e5b5d12ff7d525b30c0a" title="get_session_info" alt="" coords="139,867,269,893"/>
+<area shape="rect" id="node20" href="$classdealias.html#a63beab096355c32f1decf3f96bd62b05" title="dealias::init_dealias" alt="" coords="132,917,276,944"/>
+<area shape="rect" id="node21" href="$classdomain.html#a3cf638ee1c8382c347e4474826c7fb45" title="domain::init_domain" alt="" coords="131,968,277,995"/>
+<area shape="rect" id="node22" href="$classdxyz.html#a108c292d7f6028771fc8eaac9d98f5c5" title="dxyz::init_dxyz" alt="" coords="148,1019,260,1045"/>
+<area shape="rect" id="node23" href="$classesolv.html#a3ac7ce7d51240d4b134db83f830df462" title="esolv::init_esolv" alt="" coords="144,1069,264,1096"/>
+<area shape="rect" id="node24" href="$classfdmh1.html#a9a13475af7f9d6d3ba45257ae564ef66" title="fdmh1::init_fdmh1" alt="" coords="138,1120,270,1147"/>
+<area shape="rect" id="node25" href="$classgeom.html#a46cde0ca9bf20c5cc7fcb84d84efb9f6" title="geom::init_geom" alt="" coords="142,1171,266,1197"/>
+<area shape="rect" id="node26" href="$classhsmg.html#a261c6ab8476070883d9b265abe8f3e49" title="hsmg::init_hsmg" alt="" coords="143,1221,265,1248"/>
+<area shape="rect" id="node27" href="$classinput.html#acea051b5d44b350c25754c33b79b1df1" title="input::init_input" alt="" coords="147,1272,261,1299"/>
+<area shape="rect" id="node28" href="$classixyz.html#a28f61307b26830d27a4848cfdf995e17" title="ixyz::init_ixyz" alt="" coords="153,1323,255,1349"/>
+<area shape="rect" id="node29" href="$classmesh.html#a19e5072c336b36f1831f3e351d060206" title="mesh::init_mesh" alt="" coords="143,1373,265,1400"/>
+<area shape="rect" id="node30" href="$classmvgeom.html#a0f00df910af76d3ececd943b5376ec24" title="mvgeom::init_mvgeom" alt="" coords="124,1424,284,1451"/>
+<area shape="rect" id="node31" href="$classparallel.html#ad21009c017bba851dc317c9429b8d3ab" title="parallel::init_parallel" alt="" coords="131,1475,277,1501"/>
+<area shape="rect" id="node32" href="$classscratch.html#a006873e864ea4b541b521742fa3f49b8" title="scratch::init_scratch" alt="" coords="131,1525,277,1552"/>
+<area shape="rect" id="node33" href="$classsemhat.html#a63bb0214ed9fa1c09bfadcab7a915231" title="semhat::init_semhat" alt="" coords="131,1576,277,1603"/>
+<area shape="rect" id="node34" href="$classsoln.html#a9389a03ddbc33fd71329938164efa05e" title="soln::init_soln" alt="" coords="151,1627,257,1653"/>
+<area shape="rect" id="node35" href="$classtopol.html#ae6bc4354484aa58192569fdcc7e3ba5e" title="topol::init_topol" alt="" coords="146,1677,262,1704"/>
+<area shape="rect" id="node36" href="$classturbo.html#a5a2ae5930b28c370ee2eca26c43900c5" title="turbo::init_turbo" alt="" coords="146,1728,262,1755"/>
+<area shape="rect" id="node37" href="$classzper.html#a838d7b84fc4262cb961c90f99d48e3ef" title="zper::init_zper" alt="" coords="149,1779,259,1805"/>
+<area shape="rect" id="node38" href="$drive2_8F90.html#ad39f875830fa693f65e91c2eebe4f6fc" title="Initialize and set default values. " alt="" coords="174,1829,234,1856"/>
+<area shape="rect" id="node39" href="$drive2_8F90.html#a40017911aaca646c450aff8e81c73de3" title="Transfer array dimensions to common. " alt="" coords="173,1880,235,1907"/>
+<area shape="rect" id="node40" href="$prepost_8F90.html#abb385320698675796ad307a27f4855af" title="io_init" alt="" coords="175,1931,233,1957"/>
+<area shape="rect" id="node41" href="$drive2_8F90.html#ae3e6cc31f5e6b6b2b5062d80ca77519f" title="init opcounter " alt="" coords="168,1981,240,2008"/>
+<area shape="rect" id="node42" href="$connect2_8F90.html#a842357ad1d3581135ffacc57139397d2" title="Read in data from preprocessor input file (.rea) " alt="" coords="173,208,235,235"/>
+<area shape="rect" id="node43" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="156,2032,252,2059"/>
+<area shape="rect" id="node44" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="175,816,233,843"/>
+<area shape="rect" id="node45" href="$bdry_8F90.html#a951bdf0cc92491425c58d31404dca3ad" title="Subroutine to initialize logical flags. " alt="" coords="174,5,234,32"/>
+<area shape="rect" id="node46" href="$setprop_8F90.html#af114fff998975a6e77422a65106222ca" title="Set variable property arrays. " alt="" coords="169,259,239,285"/>
+<area shape="rect" id="node47" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="158,2083,250,2109"/>
+<area shape="rect" id="node48" href="$drive2_8F90.html#ac84969997b3b976452e0337647abcb23" title="Initialize variables. " alt="" coords="173,2133,235,2160"/>
+<area shape="rect" id="node49" href="$drive2_8F90.html#a2560abf814ea78b9e6e566b7174e82e7" title="zero the ctimer " alt="" coords="172,2184,236,2211"/>
+<area shape="rect" id="node50" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="167,107,241,133"/>
+<area shape="rect" id="node3" href="$bdry_8F90.html#a44c94289bcac47221ec74aac5cb97097" title="Check direction of normal of an element face for alignment with the X, Y, or Z axis. " alt="" coords="379,5,452,32"/>
+<area shape="rect" id="node4" href="$dssum_8F90.html#a0f12538ccdb70f55f5cd84c1237eb9d4" title="generalization of dssum to other reducers. " alt="" coords="389,157,442,184"/>
+<area shape="rect" id="node5" href="$connect1_8F90.html#a1c96db1fac78d436aaab41482ed01aca" title="Assign the value VAL to face(IFACE,IE) of array A. IFACE is the input in the pre&#45;processor ordering s..." alt="" coords="387,107,443,133"/>
+<area shape="rect" id="node6" href="$navier1_8F90.html#ac796a0447b86c61f9851e9abd09f9e4b" title="opdsop" alt="" coords="381,56,450,83"/>
+<area shape="rect" id="node9" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="547,233,635,260"/>
+</map>

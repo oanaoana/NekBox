@@ -1,0 +1,30 @@
+<map id="dsset" name="dsset">
+<area shape="rect" id="node2" href="$subs1_8F90.html#a024575ad2fa478ffcea75723c6f87a73" title="Collocate B with A on the surface IFACE1 of element IE. A is a (NX,NY,NZ) data structure B is a (NX..." alt="" coords="111,107,170,133"/>
+<area shape="rect" id="node10" href="$subs1_8F90.html#ac031cc2389be2401847bfda335f228fd" title="faccl3" alt="" coords="111,56,170,83"/>
+<area shape="rect" id="node11" href="$subs1_8F90.html#a74608551ad6832584488671fd36acad8" title="facexv" alt="" coords="109,157,172,184"/>
+<area shape="rect" id="node22" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="785,208,877,235"/>
+<area shape="rect" id="node23" href="$navier8_8F90.html#a928aff746415692c89ffdfbaf08fd98d" title="setup unique ids for dssum. note: total number of unique vertices, edges and faces has to be smaller ..." alt="" coords="220,263,301,289"/>
+<area shape="rect" id="node3" href="$plan4_8F90.html#aabf6317e90fc459c525a5716eb31692a" title="Compute start residual/right&#45;hand&#45;side in the pressure. " alt="" coords="225,56,297,83"/>
+<area shape="rect" id="node4" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="356,31,413,57"/>
+<area shape="rect" id="node5" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="482,19,529,45"/>
+<area shape="rect" id="node6" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="980,5,1087,32"/>
+<area shape="rect" id="node7" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1159,5,1309,32"/>
+<area shape="rect" id="node8" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="1357,31,1444,57"/>
+<area shape="rect" id="node9" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="1492,81,1557,108"/>
+<area shape="rect" id="node12" href="$coef_8F90.html#a57986e9c59c455dd25fd8629a418129f" title="Compute areas, normals and tangents (3D geom.) " alt="" coords="231,157,290,184"/>
+<area shape="rect" id="node13" href="$coef_8F90.html#ad0edecd83b00a60747feebca43d34efc" title="Compute surface data: areas, normals and tangents. " alt="" coords="349,157,420,184"/>
+<area shape="rect" id="node14" href="$coef_8F90.html#a545a18fbdd13baf1464557808347be47" title="Routine to generate elemental geometric matrices on mesh 1 (Gauss&#45;Legendre Lobatto mesh)..." alt="" coords="468,157,543,184"/>
+<area shape="rect" id="node15" href="$coef_8F90.html#ac5d2ac0efba4a530fab5387321307d01" title="Routine to generate all elemental geometric data for mesh 1. Velocity formulation : global&#45;to&#45;local m..." alt="" coords="615,157,681,184"/>
+<area shape="rect" id="node16" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="790,56,871,83"/>
+<area shape="rect" id="node18" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="782,157,879,184"/>
+<area shape="rect" id="node17" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1365,132,1436,159"/>
+<area shape="rect" id="node19" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="956,259,1111,301"/>
+<area shape="rect" id="node21" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="1205,157,1263,184"/>
+<area shape="rect" id="node20" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="1186,299,1282,325"/>
+<area shape="rect" id="node24" href="$navier8_8F90.html#a51b2c2d951e069b7ffa9a395b2def117" title="Given global array, vertex, pointing to hex vertices, set up a new array of global pointers for an nx..." alt="" coords="469,267,542,293"/>
+<area shape="rect" id="node25" href="$dssum_8F90.html#ac67af3a4cc3a2c90a8d596c8ab69e395" title="setup data structures for direct stiffness operations " alt="" coords="613,267,683,293"/>
+<area shape="rect" id="node29" href="$navier8_8F90.html#a809b9aa647f2046d09131be2f6074ff6" title="? " alt="" coords="591,353,705,380"/>
+<area shape="rect" id="node26" href="$classhsmg__routines.html#ac8ad367a9256351c66da876bb6c8d936" title="hsmg_routines::hsmg\l_setup_dssum" alt="" coords="753,325,908,366"/>
+<area shape="rect" id="node28" href="$classhsmg__routines.html#ae77d2725d2058f12595e58c677dca8f2" title="hsmg_routines::h1mg\l_setup_dssum" alt="" coords="753,259,908,301"/>
+<area shape="rect" id="node27" href="$classhsmg__routines.html#ac8f9bca9624d5e550d70acabfa8aef73" title="Sets up hybrid Schwarz multi&#45;grid preconditioner. " alt="" coords="956,325,1111,366"/>
+</map>

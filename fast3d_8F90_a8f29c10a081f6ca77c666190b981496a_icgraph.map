@@ -1,0 +1,7 @@
+<map id="do_semhat_weight" name="do_semhat_weight">
+<area shape="rect" id="node2" href="$fast3d_8F90.html#a4de164b9c3a6daa704d34c01e5e0ec22" title="Note that this routine performs the following matrix multiplies after getting the matrices back from ..." alt="" coords="195,5,363,32"/>
+<area shape="rect" id="node3" href="$fast3d_8F90.html#a65b70798668bd7b237bc2308bc4daede" title="Generate fast diagonalization matrices for each element. " alt="" coords="411,5,545,32"/>
+<area shape="rect" id="node4" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="593,5,689,32"/>
+<area shape="rect" id="node5" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="737,5,808,32"/>
+<area shape="rect" id="node6" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="856,5,921,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="apply_QQt" name="apply_QQt">
+<area shape="rect" id="node2" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="144,5,245,32"/>
+<area shape="rect" id="node3" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="147,56,242,83"/>
+<area shape="rect" id="node4" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="145,107,244,133"/>
+<area shape="rect" id="node5" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="149,157,241,184"/>
+</map>

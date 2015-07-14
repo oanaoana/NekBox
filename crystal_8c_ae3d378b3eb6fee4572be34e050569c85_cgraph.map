@@ -1,0 +1,11 @@
+<map id="crystal_router" name="crystal_router">
+<area shape="rect" id="node2" href="$crystal_8c.html#a4e703ccd9a884ecbda34c046c5f79307" title="crystal_exchange" alt="" coords="161,107,295,133"/>
+<area shape="rect" id="node9" href="$crystal_8c.html#a9789d4fef9794ef92cb50c5c955b51c5" title="crystal_move" alt="" coords="175,183,281,209"/>
+<area shape="rect" id="node3" href="$comm_8h.html#ae47a830e94605168f00226fd25cd578a" title="comm_irecv" alt="" coords="343,107,440,133"/>
+<area shape="rect" id="node4" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="488,157,589,184"/>
+<area shape="rect" id="node5" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="493,5,585,32"/>
+<area shape="rect" id="node6" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="368,56,415,83"/>
+<area shape="rect" id="node7" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="489,107,588,133"/>
+<area shape="rect" id="node8" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="491,56,586,83"/>
+<area shape="rect" id="node10" href="$crystal_8c.html#a2558d87fcf2f1f39910569b84962bf20" title="uintcpy" alt="" coords="358,208,425,235"/>
+</map>

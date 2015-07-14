@@ -1,0 +1,51 @@
+<map id="plan4" name="plan4">
+<area shape="rect" id="node2" href="$bdry_8F90.html#aaa0d4258b1292dd19b9fc931df83bd68" title="Apply Dirichlet boundary conditions to surface of vector (V1,V2,V3). Use IFIELD as a guide to which b..." alt="" coords="157,380,223,406"/>
+<area shape="rect" id="node4" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="805,886,935,913"/>
+<area shape="rect" id="node11" href="$plan4_8F90.html#aabf6317e90fc459c525a5716eb31692a" title="Compute start residual/right&#45;hand&#45;side in the pressure. " alt="" coords="345,757,417,784"/>
+<area shape="rect" id="node25" href="$navier1_8F90.html#a4905d51f51b57bfec184a6b44f858bdb" title="Orthogonalize the residual in the pressure solver with respect to (1,1,...,1)T (only if all Dirichlet..." alt="" coords="506,1292,561,1318"/>
+<area shape="rect" id="node28" href="$plan4_8F90.html#ab1e8c9cb142e2062d1c1c8c1e6cd30c9" title="Compute the residual for the velocity. " alt="" coords="155,228,225,254"/>
+<area shape="rect" id="node33" href="$navier1_8F90.html#ad18040c3ef81864093bb259cf9e52017" title="Compute the pressure tolerance. " alt="" coords="159,988,221,1014"/>
+<area shape="rect" id="node34" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="502,1089,565,1116"/>
+<area shape="rect" id="node35" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="125,1064,255,1090"/>
+<area shape="rect" id="node41" href="$classhelmholtz.html#a4e1e8f3461880e4fc5bab0cef5c1a531" title="Initialize approximation space object. " alt="" coords="111,1444,269,1486"/>
+<area shape="rect" id="node42" href="$navier1_8F90.html#a83d718e9b1893670bcd6f299a7751366" title="Keep old velocity field(s) " alt="" coords="351,481,410,508"/>
+<area shape="rect" id="node44" href="$navier1_8F90.html#a83189b3d1938d87f00ace2e7e05d9e4c" title="Compute and add: (1) user specified forcing function (FX,FY,FZ) (2) driving force due to natural conv..." alt="" coords="351,1444,411,1470"/>
+<area shape="rect" id="node49" href="$navier1_8F90.html#a58af49abaf1ee0cc07be356ad2721d90" title="Compute OUTFLD = SUMi Di*INPi. the divergence of the vector field (INPX,INPY,INPZ) ..." alt="" coords="353,177,409,204"/>
+<area shape="rect" id="node50" href="$plan4_8F90.html#ac625b88ecdac765c8cd19b122633037a" title="Extrapolate the velocity forward in time with AB(k) " alt="" coords="151,1510,229,1537"/>
+<area shape="rect" id="node3" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="664,469,716,496"/>
+<area shape="rect" id="node6" href="$connect1_8F90.html#a1c96db1fac78d436aaab41482ed01aca" title="Assign the value VAL to face(IFACE,IE) of array A. IFACE is the input in the pre&#45;processor ordering s..." alt="" coords="353,304,409,330"/>
+<area shape="rect" id="node8" href="$navier1_8F90.html#ac796a0447b86c61f9851e9abd09f9e4b" title="opdsop" alt="" coords="346,826,415,853"/>
+<area shape="rect" id="node5" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="983,886,1071,913"/>
+<area shape="rect" id="node7" href="$connect1_8F90.html#aa1c9016b4c28e8a8512be6f6d67eefce" title="ifcase in preprocessor notation " alt="" coords="503,278,563,305"/>
+<area shape="rect" id="node9" href="$dssum_8F90.html#ae25c615abe30524ab6ed778fb5b69fb7" title="Direct stiffness summation of the face data, for field U. Boundary condition data corresponds to comp..." alt="" coords="492,988,575,1014"/>
+<area shape="rect" id="node10" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="649,988,731,1014"/>
+<area shape="rect" id="node12" href="$hmholtz_8F90.html#aa576b5bd623cce50fd6323db12ba5376" title="Compute the (Helmholtz) matrix&#45;vector product, AU = helm1*[A]u + helm2*[B]u, for NEL elements..." alt="" coords="500,734,567,761"/>
+<area shape="rect" id="node13" href="$mxm__wrapper_8F90.html#ab9ec2260a10061af6ce1c52f3c8a41da" title="Compute matrix&#45;matrix product C = A*B. " alt="" coords="665,329,715,356"/>
+<area shape="rect" id="node19" href="$navier1_8F90.html#a0411bdb65f6b5cb057603cea2b6b963e" title="Compute DT*X (entire field) " alt="" coords="509,582,558,609"/>
+<area shape="rect" id="node20" href="$subs1_8F90.html#a024575ad2fa478ffcea75723c6f87a73" title="Collocate B with A on the surface IFACE1 of element IE. A is a (NX,NY,NZ) data structure B is a (NX..." alt="" coords="504,785,563,812"/>
+<area shape="rect" id="node22" href="$subs1_8F90.html#ac031cc2389be2401847bfda335f228fd" title="faccl3" alt="" coords="504,836,563,862"/>
+<area shape="rect" id="node23" href="$plan4_8F90.html#a133b5c2a8f266ecb811b8baf380f0b76" title="Compute curl of U. " alt="" coords="499,633,567,660"/>
+<area shape="rect" id="node24" href="$navier1_8F90.html#a2f89b54d1ceda6fb201432d7a61bc907" title="opdssum" alt="" coords="651,672,729,698"/>
+<area shape="rect" id="node18" href="$hmholtz_8F90.html#a0f322d39d4bdffa3f9ba901f72d4a1d0" title="Set logicals for fast evaluation of A*x. " alt="" coords="658,785,722,812"/>
+<area shape="rect" id="node14" href="$mxm__std_8F90.html#ac63fe7516a18dc57dfe913ad2c1453be" title="mxm44_0" alt="" coords="829,354,911,381"/>
+<area shape="rect" id="node15" href="$mxm__std_8F90.html#af07f4b22fdc3488ca321736743f14b01" title="mxm44_2" alt="" coords="829,405,911,432"/>
+<area shape="rect" id="node16" href="$mxm__bgq_8F90.html#a8a70163b4dbfdbfcce7bff170597fcad" title="mxm_bgq_10" alt="" coords="817,253,923,280"/>
+<area shape="rect" id="node17" href="$mxm__bgq_8F90.html#a27529ace9834454b8906f29e02718629" title="mxm_bgq_12" alt="" coords="817,304,923,330"/>
+<area shape="rect" id="node21" href="$connect1_8F90.html#aa6d2ebf2dfdfeae458d41ef4cb6d9fae" title="Set up arrays IXCN,ESKIP,SKPDAT,NEDG,NOFFST for new NX,NY,NZ. " alt="" coords="662,836,718,862"/>
+<area shape="rect" id="node26" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="665,1292,715,1318"/>
+<area shape="rect" id="node27" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="837,1393,903,1420"/>
+<area shape="rect" id="node29" href="$navier1_8F90.html#af9bcf25d01182572549eaca275415fd9" title="Compute OUTi = Di*INP, i=1,2,3. the gradient of the scalar field INP. Note: OUTi is defined on the pr..." alt="" coords="347,126,414,153"/>
+<area shape="rect" id="node31" href="$navier1_8F90.html#aaf82c7bf142ad5f9c363e3dc3c39fa3c" title="OUT = (H1*A+H2*B) * INP. " alt="" coords="354,542,407,569"/>
+<area shape="rect" id="node32" href="$subs1_8F90.html#ae2376b70f309c6118b4e43df9cbe66b1" title="Set the variable property arrays H1 and H2 in the Helmholtz equation. (associated with variable IFIEL..." alt="" coords="349,228,412,254"/>
+<area shape="rect" id="node30" href="$navier1_8F90.html#ae2a342d8b6189bd500acbcc1cac1c757" title="Compute D*X . X : input variable, defined on M1 DX : output variable, defined on M2 (note: D is recta..." alt="" coords="506,126,561,153"/>
+<area shape="rect" id="node36" href="$classstring.html#ab234b94aa03c5e163fee20a591cd845e" title="Capitalizes string of length n. " alt="" coords="334,1089,427,1116"/>
+<area shape="rect" id="node37" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="345,1140,416,1166"/>
+<area shape="rect" id="node38" href="$classhelmholtz.html#a52002b3abc9e261d205cb96d49918f05" title="Project out the part of the residual in the approx space. " alt="" coords="321,886,441,913"/>
+<area shape="rect" id="node39" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="623,1190,757,1217"/>
+<area shape="rect" id="node40" href="$classhelmholtz.html#a5077d115c2aaad42d80aaa089651bb25" title="Reconstruct the solution to the original problem by adding back the approximate solution, add solution to approximation space. " alt="" coords="317,669,444,696"/>
+<area shape="rect" id="node43" href="$navier1_8F90.html#a55f0c02db80925df02a6998e17985478" title="opcopy" alt="" coords="499,430,567,457"/>
+<area shape="rect" id="node45" href="$navier1_8F90.html#a340322c02acf88d19d4d5ffea79154ac" title="Eulerian scheme, add convection term to forcing function at current time step. " alt="" coords="503,1596,563,1622"/>
+<area shape="rect" id="node46" href="$navier1_8F90.html#ab907b0b4f57c160c86799b03de3cef19" title="Sum up contributions to kth order extrapolation scheme. NOTE: rho^{n+1} should multiply all the Sum_q..." alt="" coords="496,937,571,964"/>
+<area shape="rect" id="node47" href="$navier1_8F90.html#aa066e224bdb58bb6f3057e6d6b366726" title="Add contributions to F from lagged BD terms. " alt="" coords="496,1494,571,1521"/>
+<area shape="rect" id="node48" href="$navier1_8F90.html#a04edbb4ba3cfada4513a76a4e65a5561" title="Compute and add: (1) user specified forcing function (FX,FY,FZ) " alt="" coords="500,1545,567,1572"/>
+</map>

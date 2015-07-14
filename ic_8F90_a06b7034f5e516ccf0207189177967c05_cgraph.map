@@ -1,0 +1,13 @@
+<map id="slogic" name="slogic">
+<area shape="rect" id="node2" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="398,109,453,136"/>
+<area shape="rect" id="node3" href="$classstring.html#ab234b94aa03c5e163fee20a591cd845e" title="Capitalizes string of length n. " alt="" coords="225,413,318,440"/>
+<area shape="rect" id="node4" href="$classstring.html#a0958ed2be9d8cd448eb924e54212436e" title="split string S1 into two parts, delimited by S2. " alt="" coords="224,59,319,85"/>
+<area shape="rect" id="node5" href="$classstring.html#ab9c087cc2fb9d2a04e38f1c75fc8e94d" title="INDX_CUT is returned with the location of S2 in S1 (0 if not found) S1 is returned with 1st occurance..." alt="" coords="368,8,483,35"/>
+<area shape="rect" id="node6" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="531,287,628,313"/>
+<area shape="rect" id="node8" href="$classstring.html#adb36d16763e75aa5052e0d731a63ad14" title="left justify string " alt="" coords="382,363,469,389"/>
+<area shape="rect" id="node9" href="$classstring.html#a788cdffdfd5841a6e4117c4b8e80da77" title="string::ltrunc" alt="" coords="223,464,320,491"/>
+<area shape="rect" id="node10" href="$ic_8F90.html#a8947b3794015310a5f2962f2c8f1c4cb" title="Set IO flags according to Restart Options File, RSOPTS. " alt="" coords="112,287,175,313"/>
+<area shape="rect" id="node7" href="$classstring.html#abe4a5cca341d81b7b61695821bcbd913" title="shift string from IPT to the left INPUT : &quot;abcde...... &#160;&#160;&#160;test &#160;&#160;&#160;&quot; OUTPUT: &quot;e...... &#160;&#160;&#160;test &#160;&#160;&#160;&#160;&#160;&#160;&#160;&quot; if ipt.eq.5 " alt="" coords="381,59,470,85"/>
+<area shape="rect" id="node11" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="238,211,305,237"/>
+<area shape="rect" id="node12" href="$classstring.html#adcf0edc178e1e0699323ed1c85b97187" title="Read VALUE from LINE and set IFGTRL to .TRUE. if successful, IFGTRL to .FALSE. otherwise. This complicated function is necessary thanks to the Ardent, which won&#39;t allow free formatted reads (*) from internal strings! " alt="" coords="226,312,317,339"/>
+</map>

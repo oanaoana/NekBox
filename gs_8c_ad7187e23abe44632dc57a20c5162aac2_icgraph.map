@@ -1,0 +1,8 @@
+<map id="cr_free_stage_maps" name="cr_free_stage_maps">
+<area shape="rect" id="node2" href="$gs_8c.html#a4a110bfdfc6b000a73c39030802ab5d7" title="cr_free" alt="" coords="205,31,272,57"/>
+<area shape="rect" id="node3" href="$gs_8c.html#a612756903fc8999d00a03d789a80aed3" title="cr_setup" alt="" coords="320,31,396,57"/>
+<area shape="rect" id="node4" href="$gs_8c.html#acb4f807b2974fc4b6f2cf8f7505ed6ac" title="auto_setup" alt="" coords="444,5,535,32"/>
+<area shape="rect" id="node5" href="$gs_8c.html#a00292c49272fb485aaebf8c621982ad3" title="gs_setup_aux" alt="" coords="583,31,692,57"/>
+<area shape="rect" id="node6" href="$gs_8h.html#a8e2276986935df404e15f3121f00a601" title="gs_setup" alt="" coords="759,5,837,32"/>
+<area shape="rect" id="node7" href="$gs_8c.html#adff6aa371c7d8e16a6d5ec17697dd637" title="fgs_setup_pick" alt="" coords="740,56,856,83"/>
+</map>

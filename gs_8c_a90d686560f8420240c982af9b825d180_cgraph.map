@@ -1,0 +1,8 @@
+<map id="allreduce_exec" name="allreduce_exec">
+<area shape="rect" id="node2" href="$comm_8c.html#ad4bf12272401275660a2becfb36088ea" title="comm_allreduce" alt="" coords="171,31,295,57"/>
+<area shape="rect" id="node6" href="$gs_8c.html#acdf12fed77e0cd5cd272b5fca576d495" title="scatter_noop" alt="" coords="180,81,285,108"/>
+<area shape="rect" id="node7" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="190,132,275,159"/>
+<area shape="rect" id="node3" href="$comm_8c.html#ae9e39c9ae471f5a2723956dfa7cb95e4" title="allreduce_imp" alt="" coords="343,31,452,57"/>
+<area shape="rect" id="node4" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="502,5,597,32"/>
+<area shape="rect" id="node5" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="500,56,599,83"/>
+</map>

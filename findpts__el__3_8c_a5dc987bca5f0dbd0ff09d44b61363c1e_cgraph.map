@@ -1,0 +1,6 @@
+<map id="get_face" name="get_face">
+<area shape="rect" id="node2" href="$findpts__el__3_8c.html#a9b7b556347005323d242ba0b79d88e15" title="compute_face_data_rs" alt="" coords="131,5,297,32"/>
+<area shape="rect" id="node4" href="$findpts__el__3_8c.html#ac09cc89ca0d0be5832976503693b39b6" title="compute_face_data_st" alt="" coords="131,56,297,83"/>
+<area shape="rect" id="node5" href="$findpts__el__3_8c.html#a8226ddf76abad91ef3ba8a5a2c3d07a5" title="compute_face_data_tr" alt="" coords="133,107,295,133"/>
+<area shape="rect" id="node3" href="$tensor_8h.html#a668a47aca721428547c6c6ba41e44b64" title="tensor_mxm" alt="" coords="345,56,444,83"/>
+</map>

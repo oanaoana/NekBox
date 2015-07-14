@@ -1,0 +1,7 @@
+<map id="geom_reset" name="geom_reset">
+<area shape="rect" id="node2" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="151,5,305,47"/>
+<area shape="rect" id="node4" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="497,71,568,98"/>
+<area shape="rect" id="node6" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="372,122,431,149"/>
+<area shape="rect" id="node3" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="353,17,449,43"/>
+<area shape="rect" id="node5" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="616,71,681,98"/>
+</map>

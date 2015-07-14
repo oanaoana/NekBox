@@ -1,0 +1,51 @@
+<map id="mpi_wtime" name="mpi_wtime">
+<area shape="rect" id="node2" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="160,1313,289,1340"/>
+<area shape="rect" id="node50" href="$classctimer.html#aa60dccc79bd980a4b422bd58d48e0a1b" title="ctimer::dnekclock_sync" alt="" coords="141,2213,308,2240"/>
+<area shape="rect" id="node3" href="$bdry_8F90.html#aaa0d4258b1292dd19b9fc931df83bd68" title="Apply Dirichlet boundary conditions to surface of vector (V1,V2,V3). Use IFIELD as a guide to which b..." alt="" coords="651,208,717,235"/>
+<area shape="rect" id="node4" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="1067,208,1125,235"/>
+<area shape="rect" id="node5" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="1246,132,1293,159"/>
+<area shape="rect" id="node6" href="$bdry_8F90.html#a3dd38c124c25cb2d3f603ecfe2c1b3df" title="Apply Dirichlet boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary ..." alt="" coords="651,1896,717,1923"/>
+<area shape="rect" id="node7" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="862,1820,925,1847"/>
+<area shape="rect" id="node8" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="1071,1795,1121,1821"/>
+<area shape="rect" id="node9" href="$bdry_8F90.html#a8988b35c52124e8bd28cae74f255e98d" title="Apply Neumann boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary co..." alt="" coords="647,1947,721,1973"/>
+<area shape="rect" id="node10" href="$comm__mpi_8F90.html#a3f652605d55796462e959d17b5a9612b" title="Global vector commutative operation. " alt="" coords="661,1440,707,1467"/>
+<area shape="rect" id="node11" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="1365,1187,1419,1213"/>
+<area shape="rect" id="node12" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="1499,668,1569,695"/>
+<area shape="rect" id="node13" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="1467,1187,1601,1213"/>
+<area shape="rect" id="node14" href="$classhelmholtz.html#a9609e49232b58a6deb40ed82508c0a45" title="Update the k&#45;th row/column of H_red. " alt="" coords="832,1136,955,1163"/>
+<area shape="rect" id="node15" href="$gmres_8F90.html#a377d8578c6ccd4fddffb699c7a18f603" title="Solve the Helmholtz equation by right&#45;preconditioned GMRES iteration. " alt="" coords="1221,1085,1317,1112"/>
+<area shape="rect" id="node16" href="$prepost_8F90.html#a4a3b0e4ce35b3381281c0839e5846370" title="Store results for later postprocessing. Recent updates: p65 now indicates the number of parallel i/o ..." alt="" coords="858,1541,929,1568"/>
+<area shape="rect" id="node17" href="$classhelmholtz.html#a52002b3abc9e261d205cb96d49918f05" title="Project out the part of the residual in the approx space. " alt="" coords="833,1187,953,1213"/>
+<area shape="rect" id="node18" href="$drive2_8F90.html#a6637d27bdf1984d5964bd31465cd304a" title="print run statistics from ctimer " alt="" coords="861,1592,926,1619"/>
+<area shape="rect" id="node19" href="$comm__mpi_8F90.html#a95f7432d962a41c5fe0063d0ef3da3d6" title="exitt" alt="" coords="430,1491,478,1517"/>
+<area shape="rect" id="node20" href="$connect2_8F90.html#a842357ad1d3581135ffacc57139397d2" title="Read in data from preprocessor input file (.rea) " alt="" coords="653,1997,715,2024"/>
+<area shape="rect" id="node21" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="858,2099,929,2125"/>
+<area shape="rect" id="node22" href="$convect_8F90.html#aef829efeef773567be893471f50529b1" title="Compute dealiased form: J^T Bf *JC .grad Ju w/ correct Jacobians. " alt="" coords="401,2099,507,2125"/>
+<area shape="rect" id="node23" href="$navier1_8F90.html#a38ba376801cfa958294fae8c90db7680" title="Compute the convective term CONV for a passive scalar field FI. " alt="" coords="650,2124,718,2151"/>
+<area shape="rect" id="node24" href="$convect_8F90.html#a768d72f963bbcaf77ab9725ad7847c72" title="Put vxd,vyd,vzd into rst form on fine mesh For rst form, see eq. (4.8.5) in Deville, Fischer, Mund (2002). " alt="" coords="388,2200,520,2227"/>
+<area shape="rect" id="node25" href="$drive2_8F90.html#ab79ec3c35ce2079b236a435feee313c2" title="No need to comment !! " alt="" coords="645,2327,723,2353"/>
+<area shape="rect" id="node26" href="$dssum_8F90.html#ac67af3a4cc3a2c90a8d596c8ab69e395" title="setup data structures for direct stiffness operations " alt="" coords="419,2251,489,2277"/>
+<area shape="rect" id="node27" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="423,599,485,625"/>
+<area shape="rect" id="node28" href="$makeq_8F90.html#ad52d9adde8f010af2d0a8c1a55543eeb" title="Generate forcing function for the solution of a passive scalar. !! NOTE: Do not change the content of..." alt="" coords="652,1795,716,1821"/>
+<area shape="rect" id="node29" href="$hmholtz_8F90.html#ae883228509f56e1f673660daca7a909b" title="Generate diagonal preconditioner for the Helmholtz operator. " alt="" coords="649,461,719,488"/>
+<area shape="rect" id="node30" href="$classpoisson.html#a1ab874c434e5694003e378739fb98c65" title="poisson::spectral_solve" alt="" coords="600,664,768,691"/>
+<area shape="rect" id="node31" href="$classhsmg__routines.html#adb1f241321c99f913f53fefefee82c09" title="hsmg_routines::hsmg\l_coarse_solve" alt="" coords="816,758,971,799"/>
+<area shape="rect" id="node32" href="$classhsmg__routines.html#abaa25315b11254629ed79c12c169c52f" title="Solve preconditioner: z = M rhs, where . " alt="" coords="1019,918,1173,959"/>
+<area shape="rect" id="node33" href="$dssum_8F90.html#aab5cbea45cf919be4147d3f722cd56c3" title="Direct stiffness summation of the face data, for field U. " alt="" coords="408,2301,500,2328"/>
+<area shape="rect" id="node34" href="$hmholtz_8F90.html#aa576b5bd623cce50fd6323db12ba5376" title="Compute the (Helmholtz) matrix&#45;vector product, AU = helm1*[A]u + helm2*[B]u, for NEL elements..." alt="" coords="651,1288,717,1315"/>
+<area shape="rect" id="node35" href="$hmholtz_8F90.html#a1d25ae22b38fb86936fcd9c68dab702f" title="Check that the tolerances are not too small for the CG&#45;solver. Important when calling the CG&#45;solver (..." alt="" coords="1061,1035,1131,1061"/>
+<area shape="rect" id="node36" href="$plan4_8F90.html#aabf6317e90fc459c525a5716eb31692a" title="Compute start residual/right&#45;hand&#45;side in the pressure. " alt="" coords="857,265,929,292"/>
+<area shape="rect" id="node37" href="$navier1_8F90.html#af8f288bd13e9077cfadcd76c95c59dc5" title="Compute error norms of a (scalar) field variable X defined on mesh 1 or mesh 2. The error norms are n..." alt="" coords="859,1339,927,1365"/>
+<area shape="rect" id="node38" href="$hmholtz_8F90.html#a0f322d39d4bdffa3f9ba901f72d4a1d0" title="Set logicals for fast evaluation of A*x. " alt="" coords="422,1389,486,1416"/>
+<area shape="rect" id="node39" href="$classhsmg__routines.html#a88e7156da5cd6d7172d353620e4b9778" title="hsmg_routines::hsmg\l_dssum" alt="" coords="377,802,531,843"/>
+<area shape="rect" id="node40" href="$classhsmg__routines.html#a4a6db215f45240aeea2ec2541872b472" title="hsmg_routines::h1mg\l_schwarz_part1" alt="" coords="607,918,761,959"/>
+<area shape="rect" id="node41" href="$classhsmg__routines.html#ae8264b46dc5298c58a281e55ef3b2bc5" title="hsmg_routines::h1mg\l_schwarz" alt="" coords="816,918,971,959"/>
+<area shape="rect" id="node42" href="$classhsmg__routines.html#aa16d0aaf949c4b90ef80aca11415af87" title="hsmg_routines::hsmg\l_schwarz_dssum" alt="" coords="377,867,531,909"/>
+<area shape="rect" id="node43" href="$classhsmg__routines.html#accfa04691196fb45bdb29ed5436503d5" title="hsmg_routines::h1mg_mask" alt="" coords="356,1035,552,1061"/>
+<area shape="rect" id="node44" href="$navier1_8F90.html#a0411bdb65f6b5cb057603cea2b6b963e" title="Compute DT*X (entire field) " alt="" coords="659,309,709,336"/>
+<area shape="rect" id="node45" href="$navier1_8F90.html#ae2a342d8b6189bd500acbcc1cac1c757" title="Compute D*X . X : input variable, defined on M1 DX : output variable, defined on M2 (note: D is recta..." alt="" coords="427,2352,481,2379"/>
+<area shape="rect" id="node46" href="$navier1_8F90.html#a83189b3d1938d87f00ace2e7e05d9e4c" title="Compute and add: (1) user specified forcing function (FX,FY,FZ) (2) driving force due to natural conv..." alt="" coords="863,323,923,349"/>
+<area shape="rect" id="node47" href="$navier1_8F90.html#a99a692f0ae41114b4725a9cf62458f1f" title="Compute error norms of a (vector) field variable (X1,X2,X3) " alt="" coords="420,2403,488,2429"/>
+<area shape="rect" id="node48" href="$navier8_8F90.html#a809b9aa647f2046d09131be2f6074ff6" title="? " alt="" coords="397,5,511,32"/>
+<area shape="rect" id="node49" href="$plan4_8F90.html#ab1e8c9cb142e2062d1c1c8c1e6cd30c9" title="Compute the residual for the velocity. " alt="" coords="858,107,929,133"/>
+</map>

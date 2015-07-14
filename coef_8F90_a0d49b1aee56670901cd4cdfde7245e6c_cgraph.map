@@ -1,0 +1,51 @@
+<map id="genwz" name="genwz">
+<area shape="rect" id="node2" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="142,55,194,82"/>
+<area shape="rect" id="node3" href="$classspeclib.html#a8310d8b6c00f1123b70be8ad9ab9b69f" title="speclib::dglj" alt="" coords="433,442,527,468"/>
+<area shape="rect" id="node13" href="$classspeclib.html#a4f3fa971fc915fa4235b1f73fc483ad2" title="speclib::dgljgj" alt="" coords="428,36,532,63"/>
+<area shape="rect" id="node15" href="$classspeclib.html#ac4b4ab01a5a3007028434deca08e92d6" title="speclib::dgll" alt="" coords="121,511,215,538"/>
+<area shape="rect" id="node17" href="$classspeclib.html#a716d3eb205ba6b6c42b27744ea93c522" title="speclib::dgllgl" alt="" coords="116,562,220,588"/>
+<area shape="rect" id="node18" href="$classspeclib.html#a942a971b52385e6f104302b9e566b9f9" title="speclib::igjm" alt="" coords="120,258,216,284"/>
+<area shape="rect" id="node21" href="$classspeclib.html#aa417242e861205a649681dfffda171d4" title="speclib::igljm" alt="" coords="119,460,217,487"/>
+<area shape="rect" id="node24" href="$classspeclib.html#aed07c4b34f0a5d8d08371e2956670608" title="speclib::igllm" alt="" coords="119,612,217,639"/>
+<area shape="rect" id="node27" href="$classspeclib.html#aa95b32dcea592513d6ad3922873f369d" title="speclib::iglm" alt="" coords="120,663,216,690"/>
+<area shape="rect" id="node29" href="$mxm__wrapper_8F90.html#ab9ec2260a10061af6ce1c52f3c8a41da" title="Compute matrix&#45;matrix product C = A*B. " alt="" coords="143,866,193,892"/>
+<area shape="rect" id="node45" href="$classspeclib.html#a631f538efe1b48d5b557e06446dcb278" title="speclib::zwgj" alt="" coords="272,168,371,195"/>
+<area shape="rect" id="node47" href="$classspeclib.html#a932ca9ca470532f6bae3ed77ca2e1466" title="Generate NP Gauss Legendre points (Z) and weights (W) associated with Jacobi polynomial P(N)(alpha=0..." alt="" coords="119,207,217,234"/>
+<area shape="rect" id="node48" href="$classspeclib.html#a7f8bbfa94e61b0b498a78f57a3b2d46d" title="speclib::zwglj" alt="" coords="270,334,373,360"/>
+<area shape="rect" id="node50" href="$classspeclib.html#ab649647711dc444ca710b98bf943b0d8" title="speclib::zwgll" alt="" coords="117,359,219,386"/>
+<area shape="rect" id="node4" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="775,264,823,291"/>
+<area shape="rect" id="node11" href="$classspeclib.html#ab8b7717fad983f40af5b93ccea36269b" title="speclib::dgljd" alt="" coords="591,492,692,519"/>
+<area shape="rect" id="node5" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="901,138,1031,164"/>
+<area shape="rect" id="node6" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="931,188,1001,215"/>
+<area shape="rect" id="node7" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="913,239,1019,266"/>
+<area shape="rect" id="node8" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="918,290,1014,316"/>
+<area shape="rect" id="node9" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="925,340,1007,367"/>
+<area shape="rect" id="node10" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="925,391,1007,418"/>
+<area shape="rect" id="node12" href="$classspeclib.html#af7eaf2eb0994474cab3a5582bbf02903" title="speclib::jacobf" alt="" coords="745,354,853,380"/>
+<area shape="rect" id="node14" href="$classspeclib.html#aa155dec8c72ae730ff1df0b63ccf95e2" title="speclib::dgljgjd" alt="" coords="585,36,697,63"/>
+<area shape="rect" id="node16" href="$classspeclib.html#aa4bfb1afa28112d5ecbc04a3436b31a5" title="speclib::pnleg" alt="" coords="427,606,533,632"/>
+<area shape="rect" id="node19" href="$classspeclib.html#a9b5f61ddc531a11d59f6c2fb8f0ad45e" title="speclib::hgj" alt="" coords="435,138,525,164"/>
+<area shape="rect" id="node20" href="$classspeclib.html#a7f7e84bc0f75a3b8620781d29143514f" title="speclib::hgjd" alt="" coords="592,188,691,215"/>
+<area shape="rect" id="node22" href="$classspeclib.html#a1008a167b2a2b0a8ddd99d56885683ee" title="speclib::hglj" alt="" coords="433,543,527,570"/>
+<area shape="rect" id="node23" href="$classspeclib.html#acec38e537ff3ac400e04a39c494d8f67" title="speclib::hgljd" alt="" coords="591,594,692,620"/>
+<area shape="rect" id="node25" href="$classspeclib.html#a98e4ee85d527b0175e51bbbf37ad22bb" title="speclib::hgll" alt="" coords="275,612,368,639"/>
+<area shape="rect" id="node26" href="$classspeclib.html#aaaec78fce8231a7c7ce57ec4993d6d13" title="speclib::pndleg" alt="" coords="423,663,537,690"/>
+<area shape="rect" id="node28" href="$classspeclib.html#a1a8beb564354a0681568f534209dff5e" title="speclib::hgl" alt="" coords="276,663,367,690"/>
+<area shape="rect" id="node30" href="$mxm__bgq_8F90.html#a8faaef428336095704ece51624bbfe92" title="mxm_bgq_8" alt="" coords="272,916,371,943"/>
+<area shape="rect" id="node31" href="$mxm__bgq_8F90.html#a27529ace9834454b8906f29e02718629" title="mxm_bgq_12" alt="" coords="268,967,375,994"/>
+<area shape="rect" id="node32" href="$mxm__bgq_8F90.html#a3fda9ea4bc7a5713a19d6939fa2b541f" title="mxm_bgq_16" alt="" coords="268,1018,375,1044"/>
+<area shape="rect" id="node33" href="$mxm__bgq_8F90.html#a8a70163b4dbfdbfcce7bff170597fcad" title="mxm_bgq_10" alt="" coords="268,1068,375,1095"/>
+<area shape="rect" id="node34" href="$mxm__bgq_8F90.html#af192c3c8b982aa5bbc2a757156718a91" title="mxm_bgq_6" alt="" coords="272,714,371,740"/>
+<area shape="rect" id="node35" href="$mxm__std_8F90.html#af07f4b22fdc3488ca321736743f14b01" title="mxm44_2" alt="" coords="280,764,363,791"/>
+<area shape="rect" id="node36" href="$mxm__std_8F90.html#ac63fe7516a18dc57dfe913ad2c1453be" title="mxm44_0" alt="" coords="439,714,521,740"/>
+<area shape="rect" id="node37" href="$mxm__std_8F90.html#aa9e8685c4a72f18fb5d1ee88ed17a3d6" title="unrolled loop version " alt="" coords="290,866,353,892"/>
+<area shape="rect" id="node38" href="$mxm__std_8F90.html#af4bd28930a9d674bbcad09ad75fa81ef" title="mxf8" alt="" coords="454,815,506,842"/>
+<area shape="rect" id="node39" href="$mxm__std_8F90.html#a7d3ac03517b3934b98857b22f7f78788" title="mxf1" alt="" coords="454,866,506,892"/>
+<area shape="rect" id="node40" href="$mxm__std_8F90.html#acd223c583f3a9242fda7a1b8897b624d" title="mxf2" alt="" coords="454,916,506,943"/>
+<area shape="rect" id="node41" href="$mxm__std_8F90.html#abff718a387aa354f77d0e8b0ffa98867" title="mxf3" alt="" coords="454,967,506,994"/>
+<area shape="rect" id="node42" href="$mxm__std_8F90.html#a2f4e4e1b4daebbd4d0580029d0f54016" title="mxf4" alt="" coords="454,1018,506,1044"/>
+<area shape="rect" id="node43" href="$mxm__std_8F90.html#a5a6d5c31350c601ba8327b75a72cba0a" title="mxf5" alt="" coords="454,1068,506,1095"/>
+<area shape="rect" id="node44" href="$mxm__std_8F90.html#a38a142edde1e72a918d280747a319f7a" title="mxf6" alt="" coords="454,764,506,791"/>
+<area shape="rect" id="node46" href="$classspeclib.html#a70378dbc00d8034b969f6b8143a9f79b" title="speclib::zwgjd" alt="" coords="588,290,695,316"/>
+<area shape="rect" id="node49" href="$classspeclib.html#ae2c64cf28960c6e471641deed404e86e" title="speclib::zwgljd" alt="" coords="425,338,535,364"/>
+</map>

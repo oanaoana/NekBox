@@ -1,0 +1,51 @@
+<map id="makef" name="makef">
+<area shape="rect" id="node2" href="$navier1_8F90.html#a340322c02acf88d19d4d5ffea79154ac" title="Eulerian scheme, add convection term to forcing function at current time step. " alt="" coords="121,772,181,799"/>
+<area shape="rect" id="node6" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="1276,747,1405,774"/>
+<area shape="rect" id="node44" href="$navier1_8F90.html#ab907b0b4f57c160c86799b03de3cef19" title="Sum up contributions to kth order extrapolation scheme. NOTE: rho^{n+1} should multiply all the Sum_q..." alt="" coords="236,595,311,622"/>
+<area shape="rect" id="node45" href="$navier1_8F90.html#aa066e224bdb58bb6f3057e6d6b366726" title="Add contributions to F from lagged BD terms. " alt="" coords="113,874,188,900"/>
+<area shape="rect" id="node46" href="$navier1_8F90.html#a04edbb4ba3cfada4513a76a4e65a5561" title="Compute and add: (1) user specified forcing function (FX,FY,FZ) " alt="" coords="117,924,184,951"/>
+<area shape="rect" id="node3" href="$navier1_8F90.html#a38ba376801cfa958294fae8c90db7680" title="Compute the convective term CONV for a passive scalar field FI. " alt="" coords="239,772,307,799"/>
+<area shape="rect" id="node4" href="$convect_8F90.html#aef829efeef773567be893471f50529b1" title="Compute dealiased form: J^T Bf *JC .grad Ju w/ correct Jacobians. " alt="" coords="359,570,464,596"/>
+<area shape="rect" id="node5" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="554,418,606,444"/>
+<area shape="rect" id="node8" href="$classinterp.html#a256b6971d9213b5e381b13377e3e1b03" title="Get pointer to GL&#45;GL interpolation dgl() for pair (mx,md) " alt="" coords="512,620,648,647"/>
+<area shape="rect" id="node25" href="$classinterp.html#a2637cb8249580b149248f7a6b0ededdf" title="Get pointer to jgl() for interpolation pair (mx,md) " alt="" coords="514,570,646,596"/>
+<area shape="rect" id="node29" href="$navier5_8F90.html#ad24367e4a843f60b63a2205aef1ba551" title="Output: ur,us,ut Input:u,N,e,D,Dt. " alt="" coords="532,519,628,546"/>
+<area shape="rect" id="node43" href="$navier8_8F90.html#a5c307bcd1af1a0036e75f65db3d06e39" title="Spectral interpolation from A to B via tensor products. " alt="" coords="541,468,619,495"/>
+<area shape="rect" id="node7" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1453,747,1541,774"/>
+<area shape="rect" id="node9" href="$interp__mod_8F90.html#aef5d48d354e9e03de35748eecb7e42f9" title="Check array limits. " alt="" coords="840,671,909,698"/>
+<area shape="rect" id="node20" href="$interp__mod_8F90.html#aa262674ee97d23a029b59e09a9a985a6" title="Generate derivative from np GL points onto mp GL points dgl = interpolation matrix, mapping from velocity nodes to pressure dgt = transpose of interpolation matrix w = work array of size (3*np+mp) np = number of points on GLL grid mp = number of points on GL grid. " alt="" coords="696,570,769,596"/>
+<area shape="rect" id="node10" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="1006,620,1057,647"/>
+<area shape="rect" id="node11" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="1152,620,1207,647"/>
+<area shape="rect" id="node12" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="1146,671,1213,698"/>
+<area shape="rect" id="node13" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="1155,519,1203,546"/>
+<area shape="rect" id="node19" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="1131,570,1228,596"/>
+<area shape="rect" id="node14" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="1305,570,1376,596"/>
+<area shape="rect" id="node15" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="1287,620,1394,647"/>
+<area shape="rect" id="node16" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="1293,418,1389,444"/>
+<area shape="rect" id="node17" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="1299,468,1382,495"/>
+<area shape="rect" id="node18" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="1299,519,1382,546"/>
+<area shape="rect" id="node21" href="$fast3d_8F90.html#ad007f6eca12b1b9307f46e56bcc40a59" title="This routine evaluates the derivative based on all points in the stencils. It is more memory efficien..." alt="" coords="817,570,932,596"/>
+<area shape="rect" id="node22" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="832,620,917,647"/>
+<area shape="rect" id="node23" href="$classspeclib.html#a932ca9ca470532f6bae3ed77ca2e1466" title="Generate NP Gauss Legendre points (Z) and weights (W) associated with Jacobi polynomial P(N)(alpha=0..." alt="" coords="825,519,924,546"/>
+<area shape="rect" id="node24" href="$classspeclib.html#a631f538efe1b48d5b557e06446dcb278" title="speclib::zwgj" alt="" coords="982,519,1081,546"/>
+<area shape="rect" id="node26" href="$interp__mod_8F90.html#a58f02ae257240ef90f8a1c9e5b092d1c" title="Generate interpolation from np GLL points to mp GL points jgl = interpolation matrix, mapping from velocity nodes to pressure jgt = transpose of interpolation matrix w = work array of size (np+mp) np = number of points on GLL grid mp = number of points on GL grid. " alt="" coords="698,519,767,546"/>
+<area shape="rect" id="node27" href="$classspeclib.html#ab649647711dc444ca710b98bf943b0d8" title="speclib::zwgll" alt="" coords="823,468,926,495"/>
+<area shape="rect" id="node28" href="$classspeclib.html#a7f8bbfa94e61b0b498a78f57a3b2d46d" title="speclib::zwglj" alt="" coords="980,468,1083,495"/>
+<area shape="rect" id="node30" href="$mxm__wrapper_8F90.html#ab9ec2260a10061af6ce1c52f3c8a41da" title="Compute matrix&#45;matrix product C = A*B. " alt="" coords="707,291,758,318"/>
+<area shape="rect" id="node31" href="$mxm__std_8F90.html#ac63fe7516a18dc57dfe913ad2c1453be" title="mxm44_0" alt="" coords="990,63,1073,90"/>
+<area shape="rect" id="node32" href="$mxm__std_8F90.html#af07f4b22fdc3488ca321736743f14b01" title="mxm44_2" alt="" coords="833,164,916,191"/>
+<area shape="rect" id="node33" href="$mxm__bgq_8F90.html#a8a70163b4dbfdbfcce7bff170597fcad" title="mxm_bgq_10" alt="" coords="821,215,928,242"/>
+<area shape="rect" id="node34" href="$mxm__bgq_8F90.html#a27529ace9834454b8906f29e02718629" title="mxm_bgq_12" alt="" coords="821,266,928,292"/>
+<area shape="rect" id="node35" href="$mxm__bgq_8F90.html#a3fda9ea4bc7a5713a19d6939fa2b541f" title="mxm_bgq_16" alt="" coords="821,316,928,343"/>
+<area shape="rect" id="node36" href="$mxm__bgq_8F90.html#af192c3c8b982aa5bbc2a757156718a91" title="mxm_bgq_6" alt="" coords="825,367,924,394"/>
+<area shape="rect" id="node37" href="$mxm__bgq_8F90.html#a8faaef428336095704ece51624bbfe92" title="mxm_bgq_8" alt="" coords="825,418,924,444"/>
+<area shape="rect" id="node38" href="$mxm__std_8F90.html#aa9e8685c4a72f18fb5d1ee88ed17a3d6" title="unrolled loop version " alt="" coords="843,114,906,140"/>
+<area shape="rect" id="node39" href="$mxm__std_8F90.html#a7d3ac03517b3934b98857b22f7f78788" title="mxf1" alt="" coords="1005,114,1057,140"/>
+<area shape="rect" id="node40" href="$mxm__std_8F90.html#a5786b175fcbe28ecafe1d878687c3ccf" title="mxf10" alt="" coords="1001,164,1061,191"/>
+<area shape="rect" id="node41" href="$mxm__std_8F90.html#a244c7a41b5b7a22acba71c34552c2774" title="mxf11" alt="" coords="1001,215,1061,242"/>
+<area shape="rect" id="node42" href="$mxm__std_8F90.html#afb2e2cde9040ab037e3586b0deef3851" title="mxf12" alt="" coords="1001,266,1061,292"/>
+<area shape="rect" id="node47" href="$navier1_8F90.html#acfa4c928e27d1e43ed8622586e4ed7e8" title="nekuf" alt="" coords="245,924,301,951"/>
+<area shape="rect" id="node48" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="362,899,461,926"/>
+<area shape="rect" id="node50" href="$bdry_8F90.html#a2426a0c5d510c19b0aa48112922383c3" title="Assign NEKTON variables for definition (by user) of boundary conditions at collocation point (IX..." alt="" coords="373,950,449,976"/>
+<area shape="rect" id="node49" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="515,899,645,926"/>
+</map>

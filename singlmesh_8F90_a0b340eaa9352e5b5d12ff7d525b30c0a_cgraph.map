@@ -1,0 +1,25 @@
+<map id="get_session_info" name="get_session_info">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#ae425c1deb2e82d2007c97e1c4be990c8" title="bcast" alt="" coords="215,5,270,32"/>
+<area shape="rect" id="node4" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="381,56,436,83"/>
+<area shape="rect" id="node5" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="375,107,442,133"/>
+<area shape="rect" id="node6" href="$comm__mpi_8F90.html#a898c3cc227476846bd3216f97a9a8657" title="err_chk" alt="" coords="207,157,278,184"/>
+<area shape="rect" id="node18" href="$comm__mpi_8F90.html#ad144041d3b33dd06035861d134cd9c35" title="iniproc" alt="" coords="211,208,275,235"/>
+<area shape="rect" id="node22" href="$mpi__dummy_8F90.html#a1618487587fdd3bb5a76d8be1c6709f0" title="mpi_comm_dup" alt="" coords="183,259,303,285"/>
+<area shape="rect" id="node23" href="$mpi__dummy_8F90.html#ab92b1d2387e66631b037510378259a72" title="mpi_init" alt="" coords="207,309,278,336"/>
+<area shape="rect" id="node24" href="$mpi__dummy_8F90.html#a0a477e9aff62b50b56a505fbc4f2e5a4" title="mpi_initialized" alt="" coords="187,360,298,387"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#ae0bd4baaea848988f45664ce0de33350" title="mpi_bcast" alt="" coords="366,5,451,32"/>
+<area shape="rect" id="node7" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="385,208,433,235"/>
+<area shape="rect" id="node17" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="360,157,457,184"/>
+<area shape="rect" id="node8" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="515,81,644,108"/>
+<area shape="rect" id="node10" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="544,132,615,159"/>
+<area shape="rect" id="node11" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="526,183,633,209"/>
+<area shape="rect" id="node12" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="531,233,627,260"/>
+<area shape="rect" id="node13" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="538,284,621,311"/>
+<area shape="rect" id="node15" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="538,335,621,361"/>
+<area shape="rect" id="node9" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="701,81,789,108"/>
+<area shape="rect" id="node14" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="692,284,799,311"/>
+<area shape="rect" id="node16" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="699,335,792,361"/>
+<area shape="rect" id="node19" href="$comm__mpi_8F90.html#a1b39639f2e521752c8545744cb0ac2f6" title="init_nek_comm" alt="" coords="351,259,467,285"/>
+<area shape="rect" id="node20" href="$mpi__dummy_8F90.html#a9a7def7ca223d7add4a332ec4d3a4e96" title="mpi_attr_get" alt="" coords="358,309,459,336"/>
+<area shape="rect" id="node21" href="$comm__mpi_8F90.html#a18ca1338ab65ed76e2405bf426a32c96" title="printheader" alt="" coords="361,360,456,387"/>
+</map>

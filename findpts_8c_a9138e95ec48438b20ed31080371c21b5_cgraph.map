@@ -1,0 +1,8 @@
+<map id="count_bits" name="count_bits">
+<area shape="rect" id="node2" href="$findpts_8c.html#abd8d1d9c0bdbcd0be06d2dd737a4ff7b" title="byte_bits" alt="" coords="139,56,216,83"/>
+<area shape="rect" id="node3" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="264,81,311,108"/>
+<area shape="rect" id="node4" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="360,5,459,32"/>
+<area shape="rect" id="node5" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="362,56,457,83"/>
+<area shape="rect" id="node6" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="359,107,460,133"/>
+<area shape="rect" id="node7" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="363,157,455,184"/>
+</map>

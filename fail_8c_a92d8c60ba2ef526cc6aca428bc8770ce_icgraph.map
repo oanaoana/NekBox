@@ -1,0 +1,29 @@
+<map id="vdiagnostic" name="vdiagnostic">
+<area shape="rect" id="node2" href="$fail_8c.html#a3f0e9aca2bcb9ac0274be889ea70adc6" title="diagnostic" alt="" coords="241,19,328,45"/>
+<area shape="rect" id="node4" href="$fail_8c.html#a016d8836ade99456457a913955d1dc3b" title="vfail" alt="" coords="147,145,193,172"/>
+<area shape="rect" id="node3" href="$crystal__test_8c.html#a8be6e60ea81f191308e3638d3b2f6fe0" title="main" alt="" coords="419,5,471,32"/>
+<area shape="rect" id="node5" href="$fail_8c.html#a9e0caa24596d5da82c0d6e25260e2ef0" title="fail" alt="" coords="265,247,305,273"/>
+<area shape="rect" id="node6" href="$comm_8h.html#aba6feeb1a92297535adcd21197193470" title="comm_dup_" alt="" coords="396,56,495,83"/>
+<area shape="rect" id="node7" href="$comm_8h.html#ad084ff77d7d8a47335cfbb02804844b7" title="comm_init_check_" alt="" coords="376,107,515,133"/>
+<area shape="rect" id="node8" href="$fcrystal_8c.html#a59119af37c72c604d33ef4ed59afe43e" title="fcrystal_tuple_sort" alt="" coords="377,157,514,184"/>
+<area shape="rect" id="node9" href="$findpts_8c.html#ad26f5ee553bed3b34f14320bca42ad5e" title="ffindpts_setup" alt="" coords="390,208,501,235"/>
+<area shape="rect" id="node10" href="$gs_8c.html#a45bd3c31c2247bc74bdc2dcee194a841" title="fgs_check_handle" alt="" coords="377,309,514,336"/>
+<area shape="rect" id="node11" href="$gs_8c.html#a72a849f5aec0c3de64fc04f96b89a1e5" title="fgs_check_parms" alt="" coords="563,259,696,285"/>
+<area shape="rect" id="node17" href="$mem_8h.html#ad94e7874a0972f470fafad92ae817e00" title="scalloc" alt="" coords="413,360,478,387"/>
+<area shape="rect" id="node18" href="$mem_8h.html#a43243a859ec383327ff475d1e0681637" title="smalloc" alt="" coords="411,411,480,437"/>
+<area shape="rect" id="node20" href="$sort__imp_8h.html#a505134c756da7e5a1312fa13487435b4" title="sortv" alt="" coords="419,461,472,488"/>
+<area shape="rect" id="node24" href="$mem_8h.html#a26c5de30a903dc2bafdd27ecbdae07e5" title="srealloc" alt="" coords="410,512,481,539"/>
+<area shape="rect" id="node16" href="$gs__test__old_8c.html#a84d561ed8e726b6ffd7515db82f0e1b3" title="fgs_free" alt="" coords="592,309,667,336"/>
+<area shape="rect" id="node12" href="$gs_8c.html#aa139041cef7b25cc7df64740521b2133" title="fgs" alt="" coords="809,183,851,209"/>
+<area shape="rect" id="node13" href="$gs_8c.html#a8adbacaba87cb9aacbfc6808b9ab8438" title="fgs_vec" alt="" coords="795,233,865,260"/>
+<area shape="rect" id="node14" href="$gs_8c.html#ad4976e7ec8d490e299956314f2df143e" title="fgs_many" alt="" coords="789,284,871,311"/>
+<area shape="rect" id="node15" href="$gs_8c.html#ae94931808a851149dcc5ca4995915a7b" title="fgs_fields" alt="" coords="789,335,871,361"/>
+<area shape="rect" id="node19" href="$mem_8h.html#af52545f5c16fb2eff031799d8f8f0292" title="array_init_" alt="" coords="585,385,674,412"/>
+<area shape="rect" id="node21" href="$sparse__cholesky_8c.html#a626a3f92f73332ec24054e9f517ea6bc" title="factor_symbolic" alt="" coords="570,436,689,463"/>
+<area shape="rect" id="node23" href="$sort__test_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="603,487,655,513"/>
+<area shape="rect" id="node22" href="$sparse__cholesky_8h.html#aa4f9f9e732b179adc01ed3b8a887dfe1" title="sparse_cholesky_factor" alt="" coords="744,436,916,463"/>
+<area shape="rect" id="node25" href="$mem_8h.html#af00024f2f513ee3aeb5c11ff7057626b" title="array_resize_" alt="" coords="575,537,684,564"/>
+<area shape="rect" id="node26" href="$mem_8h.html#ae8987de29908d81ee663ab67d4635dad" title="array_reserve_" alt="" coords="771,537,889,564"/>
+<area shape="rect" id="node27" href="$mem_8h.html#af25cc60e366fa6bbaa4b4cd3fa24c159" title="array_cat_" alt="" coords="999,512,1090,539"/>
+<area shape="rect" id="node28" href="$sarray__transfer_8h.html#adc44e0c45eec7d8055ccc6cd6fb5f86b" title="sarray_transfer_many" alt="" coords="964,563,1125,589"/>
+</map>

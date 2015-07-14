@@ -1,0 +1,6 @@
+<map id="dssum" name="dssum">
+<area shape="rect" id="node2" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="116,5,245,32"/>
+<area shape="rect" id="node4" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="139,56,222,83"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="296,5,384,32"/>
+<area shape="rect" id="node5" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="293,56,387,83"/>
+</map>

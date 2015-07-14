@@ -1,0 +1,51 @@
+<map id="readat" name="readat">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#ae425c1deb2e82d2007c97e1c4be990c8" title="bcast" alt="" coords="725,499,779,525"/>
+<area shape="rect" id="node4" href="$connect2_8F90.html#a3fe101a1324bc40fe6b997d526f6aadf" title="chk_nel" alt="" coords="117,397,188,424"/>
+<area shape="rect" id="node5" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="728,777,776,804"/>
+<area shape="rect" id="node6" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="867,220,996,247"/>
+<area shape="rect" id="node13" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="890,1715,973,1741"/>
+<area shape="rect" id="node15" href="$classstring.html#ad39b9aabecc4afbc0b815322e993e6eb" title="string::cscan" alt="" coords="533,1259,633,1285"/>
+<area shape="rect" id="node19" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="557,1056,608,1083"/>
+<area shape="rect" id="node20" href="$connect2_8F90.html#ad7c0c899841c497a8ce9e9c20a734c11" title="Generate local mesh elements. " alt="" coords="543,1512,623,1539"/>
+<area shape="rect" id="node26" href="$map2_8F90.html#a0a8afb6d7507567621f35bbc8ba36e2c" title="mapelpr" alt="" coords="116,1183,189,1209"/>
+<area shape="rect" id="node37" href="$connect2_8F90.html#a7d2c5b148e4df32ac60d6de7e4b8610c" title="Read Boundary Conditions (and connectivity data). .Disperse boundary condition data to all processors..." alt="" coords="551,904,614,931"/>
+<area shape="rect" id="node39" href="$connect2_8F90.html#a571704ba9f81fe474eb283783dc1e298" title=".Read curve side data .Disperse curve side data to all processors according to sequential partition s..." alt="" coords="548,1411,617,1437"/>
+<area shape="rect" id="node40" href="$connect2_8F90.html#add840513f6cd7e4b9bb1f669fa3a2fa5" title=".Read history data .Broadcast to all processors " alt="" coords="410,651,467,677"/>
+<area shape="rect" id="node42" href="$connect2_8F90.html#a91a147fe67d9a68726d0fdf8b514f294" title="Read Initial Conditions / Drive Force. Broadcast ICFILE to all processors. " alt="" coords="410,955,467,981"/>
+<area shape="rect" id="node45" href="$connect2_8F90.html#af67c931464a42d613ec3ce4e5bc3e0ff" title=".Read materials property data .Disperse material properties to all processors according to sequential..." alt="" coords="549,347,616,373"/>
+<area shape="rect" id="node46" href="$connect2_8F90.html#a45665e675a2e03356c8bbd82b0b900cc" title="Read number of elements. .Construct sequential element&#45;processor partition according to number of ele..." alt="" coords="548,195,617,221"/>
+<area shape="rect" id="node47" href="$connect2_8F90.html#aa74103a17a3ec27306cefb9bd257449e" title="Read objects, Broadcast to all processors. " alt="" coords="412,600,465,627"/>
+<area shape="rect" id="node48" href="$connect2_8F90.html#a061023946c9e5de6486814b486b18489" title="Read output specs, broadcast to all processors. " alt="" coords="411,245,466,272"/>
+<area shape="rect" id="node50" href="$connect2_8F90.html#a530a74e674f77e40a6fe452da105572f" title="Read in parameters supplied by preprocessor and (eventually) echo check. .Broadcast run parameters to..." alt="" coords="401,752,476,779"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#ae0bd4baaea848988f45664ce0de33350" title="mpi_bcast" alt="" coords="889,499,974,525"/>
+<area shape="rect" id="node8" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="896,1139,967,1165"/>
+<area shape="rect" id="node9" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="878,803,985,829"/>
+<area shape="rect" id="node10" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="883,1017,979,1044"/>
+<area shape="rect" id="node11" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="890,752,973,779"/>
+<area shape="rect" id="node7" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1065,220,1153,247"/>
+<area shape="rect" id="node12" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="1056,752,1163,779"/>
+<area shape="rect" id="node14" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="1063,1715,1156,1741"/>
+<area shape="rect" id="node16" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="725,1157,779,1184"/>
+<area shape="rect" id="node17" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="719,1107,785,1133"/>
+<area shape="rect" id="node18" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="703,1005,801,1032"/>
+<area shape="rect" id="node21" href="$classparallel.html#a9a8fe6b8e5cb33426f1ebc5d75ae256f" title="parallel::gllel" alt="" coords="882,1309,981,1336"/>
+<area shape="rect" id="node23" href="$classparallel.html#a07e279fd1cc6f4e9189bcaad37a0d3b6" title="parallel::gllnid" alt="" coords="878,1385,985,1412"/>
+<area shape="rect" id="node24" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="882,1816,981,1843"/>
+<area shape="rect" id="node22" href="$classmesh.html#a383626b86a123c489b00681fcb13d503" title="mesh::ieg_to_xyz" alt="" coords="1044,1385,1175,1412"/>
+<area shape="rect" id="node25" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="1044,1816,1175,1843"/>
+<area shape="rect" id="node27" href="$map2_8F90.html#a7d36efc1d668447eee63563983385f7a" title="Compute element to processor distribution according to (weighted) physical distribution in an attempt..." alt="" coords="237,1309,349,1336"/>
+<area shape="rect" id="node33" href="$comm__mpi_8F90.html#abd95004b45059acdcc13614c52e60eae" title="csend" alt="" coords="263,1208,323,1235"/>
+<area shape="rect" id="node35" href="$comm__mpi_8F90.html#a243c9bed2592e7cd159fb36be4fda037" title="crecv" alt="" coords="265,1157,321,1184"/>
+<area shape="rect" id="node28" href="$navier8_8F90.html#a3126acd6d2b7a3e63f6f0329d5bae424" title="get_vert" alt="" coords="401,1360,476,1387"/>
+<area shape="rect" id="node29" href="$navier8_8F90.html#a7b711f52527072521e8670492a58ed16" title="get_vert_map" alt="" coords="528,1461,637,1488"/>
+<area shape="rect" id="node30" href="$classstring.html#a788cdffdfd5841a6e4117c4b8e80da77" title="string::ltrunc" alt="" coords="703,1461,801,1488"/>
+<area shape="rect" id="node31" href="$classparallel.html#a4ec9d2a0bf252d26709cff49bdf4b277" title="parallel::init_gllnid" alt="" coords="685,1563,819,1589"/>
+<area shape="rect" id="node32" href="$comm__mpi_8F90.html#a7c71e890279f4933a841a2d97c7de4bd" title="exitt0" alt="" coords="724,1208,780,1235"/>
+<area shape="rect" id="node34" href="$mpi__dummy_8F90.html#af98c20c7332635506f852083f7ee504a" title="mpi_send" alt="" coords="397,1208,480,1235"/>
+<area shape="rect" id="node36" href="$mpi__dummy_8F90.html#a709ef20e522dddac7afb17999141cfd4" title="mpi_recv" alt="" coords="399,1157,478,1184"/>
+<area shape="rect" id="node38" href="$classstring.html#ab234b94aa03c5e163fee20a591cd845e" title="Capitalizes string of length n. " alt="" coords="705,853,799,880"/>
+<area shape="rect" id="node41" href="$comm__mpi_8F90.html#a898c3cc227476846bd3216f97a9a8657" title="err_chk" alt="" coords="547,955,618,981"/>
+<area shape="rect" id="node43" href="$classstring.html#a7679c47cd5ea263832feb22dd5a41c82" title="Read IVALUE from LINE and set IFGTIL to .TRUE. if successful, IFGTIL to .FALSE. otherwise. This complicated function is necessary thanks to the Ardent, which won&#39;t allow free formatted reads (*) from internal strings! " alt="" coords="539,1208,627,1235"/>
+<area shape="rect" id="node44" href="$classstring.html#adb36d16763e75aa5052e0d731a63ad14" title="left justify string " alt="" coords="709,1056,795,1083"/>
+<area shape="rect" id="node49" href="$bdry_8F90.html#ad2ad7f3772cc902cf477679abc217dac" title="lfalse" alt="" coords="555,144,610,171"/>
+</map>

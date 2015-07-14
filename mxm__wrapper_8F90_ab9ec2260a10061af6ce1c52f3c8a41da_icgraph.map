@@ -1,0 +1,51 @@
+<map id="mxm" name="mxm">
+<area shape="rect" id="node2" href="$hmholtz_8F90.html#aa576b5bd623cce50fd6323db12ba5376" title="Compute the (Helmholtz) matrix&#45;vector product, AU = helm1*[A]u + helm2*[B]u, for NEL elements..." alt="" coords="148,461,215,488"/>
+<area shape="rect" id="node7" href="$plan4_8F90.html#aabf6317e90fc459c525a5716eb31692a" title="Compute start residual/right&#45;hand&#45;side in the pressure. " alt="" coords="571,107,643,133"/>
+<area shape="rect" id="node17" href="$navier5_8F90.html#a672cdc948324721df77f08e248963192" title="This routing builds a 1D filter with a transfer function that looks like: ^ d_k | | | 1 |__________ v..." alt="" coords="122,1019,241,1045"/>
+<area shape="rect" id="node18" href="$navier5_8F90.html#a519066c177fc94530849e83d3b9d4cfb" title="filter vx,vy,vz, and p by simple interpolation " alt="" coords="367,1120,433,1147"/>
+<area shape="rect" id="node20" href="$navier1_8F90.html#a0411bdb65f6b5cb057603cea2b6b963e" title="Compute DT*X (entire field) " alt="" coords="157,5,206,32"/>
+<area shape="rect" id="node21" href="$navier1_8F90.html#aee3ef7096c2b505346f996daf6cf6cd3" title="Compute some derviatives? DU &#45; dU/dx or dU/dy or dU/dz U &#45; a field variable defined on mesh 1 RM1 &#45; d..." alt="" coords="148,56,215,83"/>
+<area shape="rect" id="node22" href="$plan4_8F90.html#a133b5c2a8f266ecb811b8baf380f0b76" title="Compute curl of U. " alt="" coords="366,56,434,83"/>
+<area shape="rect" id="node23" href="$navier5_8F90.html#aca88e3dda3f95f9b212d6e0bfa2b4543" title="filterq" alt="" coords="153,1069,210,1096"/>
+<area shape="rect" id="node24" href="$coef_8F90.html#a0d49b1aee56670901cd4cdfde7245e6c" title="Generate derivative and interpolation operators. GENERATE. " alt="" coords="150,1171,213,1197"/>
+<area shape="rect" id="node26" href="$classhsmg__routines.html#a2b034ad4fc2abfbfb9a1667a1d598789" title="clobbers r " alt="" coords="104,1222,259,1263"/>
+<area shape="rect" id="node28" href="$classhsmg__routines.html#ab5b06304a7c7e85094a7b74fb9c5efed" title="compute v = [C (x) B (x) A] v (in&#45;place) " alt="" coords="104,1287,259,1329"/>
+<area shape="rect" id="node30" href="$classhsmg__routines.html#a8faa72af71f6760fa31785fba839d7d1" title="computes: v = [C (x) B (x) A] u . " alt="" coords="104,1353,259,1394"/>
+<area shape="rect" id="node32" href="$classhsmg__routines.html#a133c25971a5c05bc546181212bcb1db9" title="computes v = [C (x) B (x) A] u " alt="" coords="104,1418,259,1459"/>
+<area shape="rect" id="node33" href="$navier5_8F90.html#ad24367e4a843f60b63a2205aef1ba551" title="Output: ur,us,ut Input:u,N,e,D,Dt. " alt="" coords="133,917,229,944"/>
+<area shape="rect" id="node36" href="$navier1_8F90.html#af9bcf25d01182572549eaca275415fd9" title="Compute OUTi = Di*INP, i=1,2,3. the gradient of the scalar field INP. Note: OUTi is defined on the pr..." alt="" coords="574,779,641,805"/>
+<area shape="rect" id="node37" href="$ic_8F90.html#a170de261200bce1070ca719caaf56df0" title="Interpolate Y(NXR,NYR,NZR,NEL) to X(NX1,NY1,NZ1,NEL) (assumes that NXR=NYR=NZR, or NXR=NYR..." alt="" coords="143,1484,220,1511"/>
+<area shape="rect" id="node39" href="$navier1_8F90.html#ae2a342d8b6189bd500acbcc1cac1c757" title="Compute D*X . X : input variable, defined on M1 DX : output variable, defined on M2 (note: D is recta..." alt="" coords="154,816,209,843"/>
+<area shape="rect" id="node40" href="$navier1_8F90.html#a58af49abaf1ee0cc07be356ad2721d90" title="Compute OUTFLD = SUMi Di*INPi. the divergence of the vector field (INPX,INPY,INPZ) ..." alt="" coords="372,867,428,893"/>
+<area shape="rect" id="node41" href="$prepost_8F90.html#a4e84ee920cd7a849909fd5fbceff97e0" title="Store results for later postprocessing. " alt="" coords="129,1535,234,1561"/>
+<area shape="rect" id="node43" href="$hmholtz_8F90.html#ae883228509f56e1f673660daca7a909b" title="Generate diagonal preconditioner for the Helmholtz operator. " alt="" coords="147,309,216,336"/>
+<area shape="rect" id="node44" href="$navier8_8F90.html#a5c307bcd1af1a0036e75f65db3d06e39" title="Spectral interpolation from A to B via tensor products. " alt="" coords="142,968,221,995"/>
+<area shape="rect" id="node47" href="$fasts_8F90.html#a1dc2171702fabe2e09c87421de1f0e5d" title="Tensor product application of v = (C x B x A) u . NOTE – the transpose of B &amp; C must be input..." alt="" coords="150,1585,213,1612"/>
+<area shape="rect" id="node49" href="$coef_8F90.html#a82cf1663c9a821049d0aad836343591a" title="Compute global&#45;to&#45;local derivatives on mesh 1. " alt="" coords="152,1636,211,1663"/>
+<area shape="rect" id="node3" href="$gmres_8F90.html#abb09784e907975584f1a8f4dbf282a79" title="w = A*x for pressure iteration " alt="" coords="381,512,419,539"/>
+<area shape="rect" id="node4" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="369,563,431,589"/>
+<area shape="rect" id="node5" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="373,157,427,184"/>
+<area shape="rect" id="node6" href="$hmholtz_8F90.html#a1d25ae22b38fb86936fcd9c68dab702f" title="Check that the tolerances are not too small for the CG&#45;solver. Important when calling the CG&#45;solver (..." alt="" coords="365,715,435,741"/>
+<area shape="rect" id="node9" href="$eigsolv_8F90.html#a40aa959fb07551b7b3fe2e5bd7ed6fda" title="Compute maximum eigenvalue of the discrete Helmholtz operator. " alt="" coords="357,208,443,235"/>
+<area shape="rect" id="node10" href="$navier8_8F90.html#aaeec4769efda346366e7e561aa844c88" title="This routine generates Nelv submatrices of order ncl using Galerkin projection. " alt="" coords="318,259,482,285"/>
+<area shape="rect" id="node11" href="$classhelmholtz.html#a9609e49232b58a6deb40ed82508c0a45" title="Update the k&#45;th row/column of H_red. " alt="" coords="339,309,461,336"/>
+<area shape="rect" id="node12" href="$navier1_8F90.html#af8f288bd13e9077cfadcd76c95c59dc5" title="Compute error norms of a (scalar) field variable X defined on mesh 1 or mesh 2. The error norms are n..." alt="" coords="366,360,434,387"/>
+<area shape="rect" id="node13" href="$navier1_8F90.html#aaf82c7bf142ad5f9c363e3dc3c39fa3c" title="OUT = (H1*A+H2*B) * INP. " alt="" coords="581,715,634,741"/>
+<area shape="rect" id="node15" href="$classhelmholtz.html#a52002b3abc9e261d205cb96d49918f05" title="Project out the part of the residual in the approx space. " alt="" coords="340,411,460,437"/>
+<area shape="rect" id="node16" href="$navier1_8F90.html#a08e5b36029e39242bd7344bd10ed472c" title="compute weak form of the laplacian operator including the boundary contribution " alt="" coords="356,461,444,488"/>
+<area shape="rect" id="node8" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="840,779,897,805"/>
+<area shape="rect" id="node14" href="$plan4_8F90.html#ab1e8c9cb142e2062d1c1c8c1e6cd30c9" title="Compute the residual for the velocity. " alt="" coords="721,779,792,805"/>
+<area shape="rect" id="node19" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="554,1120,661,1147"/>
+<area shape="rect" id="node25" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="365,1171,435,1197"/>
+<area shape="rect" id="node27" href="$classhsmg__routines.html#a56837369bcc1a1278a1da6aae4b5d22b" title="clobbers r " alt="" coords="307,1229,493,1256"/>
+<area shape="rect" id="node29" href="$classhsmg__routines.html#a7a84e350749e18aafaacdbdb3d4638d3" title="compute v = [A (x) A] u or v = [A (x) A (x) A] u " alt="" coords="323,1287,477,1329"/>
+<area shape="rect" id="node31" href="$classhsmg__routines.html#ab009e603b829296443844596185ed57f" title="computes v = [A (x) A] u or v = [A (x) A (x) A] u " alt="" coords="307,1360,493,1387"/>
+<area shape="rect" id="node34" href="$convect_8F90.html#aef829efeef773567be893471f50529b1" title="Compute dealiased form: J^T Bf *JC .grad Ju w/ correct Jacobians. " alt="" coords="347,968,453,995"/>
+<area shape="rect" id="node35" href="$navier1_8F90.html#a6d3df5bfd9eeabae524e4da76ac13c51" title="Compute gradient of T – mesh 1 to mesh 1 (vel. to vel.) " alt="" coords="360,917,440,944"/>
+<area shape="rect" id="node38" href="$ic_8F90.html#a46a0ff5dd0a6f10aa39215385ba21288" title="mapdmp" alt="" coords="362,1484,438,1511"/>
+<area shape="rect" id="node42" href="$prepost_8F90.html#a4a3b0e4ce35b3381281c0839e5846370" title="Store results for later postprocessing. Recent updates: p65 now indicates the number of parallel i/o ..." alt="" coords="365,1535,435,1561"/>
+<area shape="rect" id="node45" href="$convect_8F90.html#a768d72f963bbcaf77ab9725ad7847c72" title="Put vxd,vyd,vzd into rst form on fine mesh For rst form, see eq. (4.8.5) in Deville, Fischer, Mund (2002). " alt="" coords="541,1044,673,1071"/>
+<area shape="rect" id="node46" href="$induct_8F90.html#adcae8f87adfb3b7c619cd72c46ccd4ac" title="Eulerian scheme, add convection term to forcing function. " alt="" coords="343,1019,457,1045"/>
+<area shape="rect" id="node48" href="$genxyz_8F90.html#a16eca2a8f6bca6167dcfa98ff3eac09c" title="Generate bi&#45; or trilinear mesh. " alt="" coords="371,1585,429,1612"/>
+<area shape="rect" id="node50" href="$subs1_8F90.html#a5baa6d4c73be0e83acdc6c1f11eeae81" title="compute max(U/dx) and max(U * dx) " alt="" coords="369,1636,431,1663"/>
+</map>

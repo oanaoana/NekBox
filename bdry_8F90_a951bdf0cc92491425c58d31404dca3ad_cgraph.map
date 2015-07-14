@@ -1,0 +1,23 @@
+<map id="setlog" name="setlog">
+<area shape="rect" id="node2" href="$bdry_8F90.html#a4243468788849f1d6650702796d2578f" title="Check for illegal boundary conditions. " alt="" coords="235,157,300,184"/>
+<area shape="rect" id="node3" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="379,157,427,184"/>
+<area shape="rect" id="node13" href="$bdry_8F90.html#a44c94289bcac47221ec74aac5cb97097" title="Check direction of normal of an element face for alignment with the X, Y, or Z axis. " alt="" coords="113,309,187,336"/>
+<area shape="rect" id="node14" href="$math_8F90.html#ac055b7944cdc827520b7cc61d0d2edd6" title="If ANY LA=LB, then ALL LA=LB. " alt="" coords="124,259,176,285"/>
+<area shape="rect" id="node22" href="$bdry_8F90.html#ad2ad7f3772cc902cf477679abc217dac" title="lfalse" alt="" coords="123,360,177,387"/>
+<area shape="rect" id="node4" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="545,208,675,235"/>
+<area shape="rect" id="node6" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="557,107,663,133"/>
+<area shape="rect" id="node7" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="569,259,651,285"/>
+<area shape="rect" id="node9" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="569,157,651,184"/>
+<area shape="rect" id="node11" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="575,5,645,32"/>
+<area shape="rect" id="node12" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="562,56,658,83"/>
+<area shape="rect" id="node5" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="772,208,860,235"/>
+<area shape="rect" id="node8" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="769,259,863,285"/>
+<area shape="rect" id="node10" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="763,157,869,184"/>
+<area shape="rect" id="node15" href="$comm__mpi_8F90.html#a3f652605d55796462e959d17b5a9612b" title="Global vector commutative operation. " alt="" coords="244,259,291,285"/>
+<area shape="rect" id="node16" href="$mpi__dummy_8F90.html#acd9229b5fb6a4d16f9917a5b5c2f0909" title="mpi_allreduce" alt="" coords="348,335,457,361"/>
+<area shape="rect" id="node21" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="377,385,429,412"/>
+<area shape="rect" id="node17" href="$mpi__dummy_8F90.html#a64285f5ce9bed08bfd13bc27264db185" title="mpi_reduce_double_precision" alt="" coords="505,411,715,437"/>
+<area shape="rect" id="node18" href="$mpi__dummy_8F90.html#aa549a352c5ab9ce53b8dfd222da38fa6" title="mpi_reduce_integer" alt="" coords="537,461,683,488"/>
+<area shape="rect" id="node19" href="$mpi__dummy_8F90.html#abbddc050d7faafb34959984f69652e0a" title="mpi_reduce_integer8" alt="" coords="533,309,687,336"/>
+<area shape="rect" id="node20" href="$mpi__dummy_8F90.html#a47f146895b36dc21100a1c42d343762c" title="mpi_reduce_real" alt="" coords="547,360,673,387"/>
+</map>

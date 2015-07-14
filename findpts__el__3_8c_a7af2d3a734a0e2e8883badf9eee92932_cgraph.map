@@ -1,0 +1,9 @@
+<map id="compute_edge_data" name="compute_edge_data">
+<area shape="rect" id="node2" href="$findpts__el__3_8c.html#a5dc987bca5f0dbd0ff09d44b61363c1e" title="get_face" alt="" coords="223,81,300,108"/>
+<area shape="rect" id="node5" href="$tensor_8h.html#a668a47aca721428547c6c6ba41e44b64" title="tensor_mxm" alt="" coords="581,107,680,133"/>
+<area shape="rect" id="node7" href="$findpts__el__3_8c.html#ae75c629c9c6b00245494c16a42876b71" title="plus_1_mod_3" alt="" coords="204,208,319,235"/>
+<area shape="rect" id="node8" href="$findpts__el__3_8c.html#a0650ddc68d4d42f5c904fe102f6df5fa" title="plus_2_mod_3" alt="" coords="204,259,319,285"/>
+<area shape="rect" id="node3" href="$findpts__el__3_8c.html#ac09cc89ca0d0be5832976503693b39b6" title="compute_face_data_st" alt="" coords="367,5,533,32"/>
+<area shape="rect" id="node4" href="$findpts__el__3_8c.html#a8226ddf76abad91ef3ba8a5a2c3d07a5" title="compute_face_data_tr" alt="" coords="369,56,531,83"/>
+<area shape="rect" id="node6" href="$findpts__el__3_8c.html#a9b7b556347005323d242ba0b79d88e15" title="compute_face_data_rs" alt="" coords="367,107,533,133"/>
+</map>

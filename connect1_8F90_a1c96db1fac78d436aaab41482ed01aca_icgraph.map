@@ -1,0 +1,23 @@
+<map id="facev" name="facev">
+<area shape="rect" id="node2" href="$bdry_8F90.html#a3dd38c124c25cb2d3f603ecfe2c1b3df" title="Apply Dirichlet boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary ..." alt="" coords="153,31,220,57"/>
+<area shape="rect" id="node9" href="$bdry_8F90.html#aaa0d4258b1292dd19b9fc931df83bd68" title="Apply Dirichlet boundary conditions to surface of vector (V1,V2,V3). Use IFIELD as a guide to which b..." alt="" coords="153,107,220,133"/>
+<area shape="rect" id="node15" href="$bdry_8F90.html#aff6088943a1cc02fb036375d9008b4c7" title="Zero out masks corresponding to Dirichlet boundary points. " alt="" coords="601,157,671,184"/>
+<area shape="rect" id="node17" href="$classhsmg__routines.html#a3d85b7d52a610586965a8a3a9e574862" title="hsmg_routines::h1mg\l_setup_mask" alt="" coords="109,209,264,250"/>
+<area shape="rect" id="node21" href="$navier8_8F90.html#a809b9aa647f2046d09131be2f6074ff6" title="? " alt="" coords="354,275,469,301"/>
+<area shape="rect" id="node22" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="772,296,847,323"/>
+<area shape="rect" id="node3" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="380,5,443,32"/>
+<area shape="rect" id="node4" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="784,5,835,32"/>
+<area shape="rect" id="node5" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="905,81,1012,108"/>
+<area shape="rect" id="node6" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1060,123,1211,149"/>
+<area shape="rect" id="node7" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="1259,144,1345,171"/>
+<area shape="rect" id="node8" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="1393,175,1459,201"/>
+<area shape="rect" id="node10" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="383,56,440,83"/>
+<area shape="rect" id="node12" href="$subs1_8F90.html#ae9a3fbc5bc373045963d36015efb448d" title="Compute new timestep based on CFL&#45;condition. " alt="" coords="381,107,441,133"/>
+<area shape="rect" id="node11" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="613,56,659,83"/>
+<area shape="rect" id="node13" href="$subs1_8F90.html#a156860172f4c95a65ff7fb5b447d472e" title="Set the new time step. All cases covered. " alt="" coords="609,107,663,133"/>
+<area shape="rect" id="node14" href="$drive2_8F90.html#a6f905c80a0a2b0d5ed7f0449eda3e127" title="setup time&#45;stepping " alt="" coords="776,107,843,133"/>
+<area shape="rect" id="node16" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="923,211,994,237"/>
+<area shape="rect" id="node18" href="$classhsmg__routines.html#a10a1b85712e207e590a20ca4221c781d" title="hsmg_routines::mg_set_msk" alt="" coords="312,216,511,243"/>
+<area shape="rect" id="node19" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="559,209,713,250"/>
+<area shape="rect" id="node20" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="761,216,857,243"/>
+</map>

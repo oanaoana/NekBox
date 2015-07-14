@@ -1,0 +1,9 @@
+<map id="string::lshft" name="string::lshft">
+<area shape="rect" id="node2" href="$classstring.html#a0958ed2be9d8cd448eb924e54212436e" title="split string S1 into two parts, delimited by S2. " alt="" coords="143,31,237,57"/>
+<area shape="rect" id="node3" href="$ic_8F90.html#a8947b3794015310a5f2962f2c8f1c4cb" title="Set IO flags according to Restart Options File, RSOPTS. " alt="" coords="285,5,348,32"/>
+<area shape="rect" id="node8" href="$ic_8F90.html#a06b7034f5e516ccf0207189177967c05" title="Set up logicals for initial conditions. " alt="" coords="420,56,479,83"/>
+<area shape="rect" id="node4" href="$ic_8F90.html#af64028aefb1dff2a9f8a84ff024f44b0" title="driver for restarts (1) Open restart file(s) (2) Check previous spatial discretization (3) Map (K1..." alt="" coords="396,5,503,32"/>
+<area shape="rect" id="node5" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="551,31,609,57"/>
+<area shape="rect" id="node6" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="657,31,728,57"/>
+<area shape="rect" id="node7" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="776,31,841,57"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="hsmg_routines::h1mg_setup_wtmask" name="hsmg_routines::h1mg_setup_wtmask">
+<area shape="rect" id="node2" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="464,111,512,137"/>
+<area shape="rect" id="node12" href="$classhsmg__routines.html#a8cd19d8e20a7c2d3db0ff9ef8586c8ae" title="hsmg_routines::hsmg\l_setup_rstr_wt" alt="" coords="208,45,363,86"/>
+<area shape="rect" id="node3" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="613,5,743,32"/>
+<area shape="rect" id="node5" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="643,208,713,235"/>
+<area shape="rect" id="node6" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="625,259,731,285"/>
+<area shape="rect" id="node7" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="630,107,726,133"/>
+<area shape="rect" id="node8" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="637,157,719,184"/>
+<area shape="rect" id="node10" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="637,56,719,83"/>
+<area shape="rect" id="node4" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="800,5,888,32"/>
+<area shape="rect" id="node9" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="791,157,897,184"/>
+<area shape="rect" id="node11" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="797,56,891,83"/>
+<area shape="rect" id="node13" href="$classhsmg__routines.html#a88e7156da5cd6d7172d353620e4b9778" title="hsmg_routines::hsmg\l_dssum" alt="" coords="411,45,565,86"/>
+</map>

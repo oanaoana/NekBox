@@ -1,0 +1,51 @@
+<map id="comm_wait" name="comm_wait">
+<area shape="rect" id="node2" href="$xxt_8c.html#a53ae6f738f9515bfe581ee5f427edf87" title="apply_QQt" alt="" coords="145,259,236,285"/>
+<area shape="rect" id="node6" href="$gs_8c.html#a06e43df2d9b66124b12934f57d2bfd5a" title="cr_exec" alt="" coords="155,56,227,83"/>
+<area shape="rect" id="node12" href="$gs_8c.html#a64ee086705df1aa7451b2a634a99d4f4" title="cr_learn" alt="" coords="153,107,228,133"/>
+<area shape="rect" id="node14" href="$crystal_8c.html#a4e703ccd9a884ecbda34c046c5f79307" title="crystal_exchange" alt="" coords="284,208,417,235"/>
+<area shape="rect" id="node16" href="$gs_8c.html#a233865689700a78046a7f4b1e0c261c0" title="pw_exec" alt="" coords="151,5,230,32"/>
+<area shape="rect" id="node18" href="$comm_8c.html#aa9fc91c4b538dae44f9d3e29207f0372" title="scan_imp" alt="" coords="149,157,232,184"/>
+<area shape="rect" id="node24" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="167,664,214,691"/>
+<area shape="rect" id="node3" href="$xxt_8c.html#ac6781afb68f686a8d3e3da877ecc8a15" title="orthogonalize" alt="" coords="481,613,589,640"/>
+<area shape="rect" id="node5" href="$xxt_8c.html#ab5798c7a7da4a9243319c8d90d59b1e0" title="crs_solve" alt="" coords="309,309,392,336"/>
+<area shape="rect" id="node4" href="$xxt_8c.html#a7a6069f7f96ece910fe3320dc8b9ff30" title="crs_setup" alt="" coords="696,613,779,640"/>
+<area shape="rect" id="node7" href="$gs_8c.html#a612756903fc8999d00a03d789a80aed3" title="cr_setup" alt="" coords="497,81,573,108"/>
+<area shape="rect" id="node8" href="$gs_8c.html#acb4f807b2974fc4b6f2cf8f7505ed6ac" title="auto_setup" alt="" coords="692,44,783,71"/>
+<area shape="rect" id="node9" href="$gs_8c.html#a00292c49272fb485aaebf8c621982ad3" title="gs_setup_aux" alt="" coords="892,69,1001,96"/>
+<area shape="rect" id="node10" href="$gs_8h.html#a8e2276986935df404e15f3121f00a601" title="gs_setup" alt="" coords="1110,95,1189,121"/>
+<area shape="rect" id="node11" href="$gs_8c.html#adff6aa371c7d8e16a6d5ec17697dd637" title="fgs_setup_pick" alt="" coords="1091,44,1207,71"/>
+<area shape="rect" id="node13" href="$gs_8c.html#a0568b4fc8a51b02975b2f0d7cfa600a5" title="cr_setup_aux" alt="" coords="297,107,404,133"/>
+<area shape="rect" id="node15" href="$crystal_8h.html#ab56884cbfe2cf5623d14c14362231039" title="crystal_router" alt="" coords="481,247,589,273"/>
+<area shape="rect" id="node17" href="$gs_8c.html#a32636abe895179991c05e4881ca74484" title="pw_setup" alt="" coords="494,5,577,32"/>
+<area shape="rect" id="node19" href="$comm_8c.html#a5186f9cdb78dddc7b2d4f8f5498006dc" title="comm_scan" alt="" coords="302,157,399,184"/>
+<area shape="rect" id="node20" href="$comm__test_8c.html#a8be6e60ea81f191308e3638d3b2f6fe0" title="main" alt="" coords="509,196,561,223"/>
+<area shape="rect" id="node21" href="$gs_8c.html#a86327985e39f3c419725ded66ac5ab90" title="shared_ids" alt="" coords="489,145,581,172"/>
+<area shape="rect" id="node22" href="$gs_8c.html#acfd245293a8345bc0f7d6951e42d57cd" title="get_topology" alt="" coords="685,145,789,172"/>
+<area shape="rect" id="node23" href="$gs_8h.html#a6f3cc4b661b2d2292b128e28a6be1d10" title="gs_unique" alt="" coords="903,145,990,172"/>
+<area shape="rect" id="node25" href="$coef_8F90.html#a9f5bcc9bbca02379fdf1aa0aa77845cf" title="Compute the volume based on mesh M1 and mesh M2. " alt="" coords="317,816,384,843"/>
+<area shape="rect" id="node32" href="$gmres_8F90.html#a377d8578c6ccd4fddffb699c7a18f603" title="Solve the Helmholtz equation by right&#45;preconditioned GMRES iteration. " alt="" coords="1275,976,1371,1003"/>
+<area shape="rect" id="node33" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="1419,1005,1472,1032"/>
+<area shape="rect" id="node37" href="$findpts_8c.html#abd8d1d9c0bdbcd0be06d2dd737a4ff7b" title="byte_bits" alt="" coords="312,1132,389,1159"/>
+<area shape="rect" id="node38" href="$findpts_8c.html#a9138e95ec48438b20ed31080371c21b5" title="count_bits" alt="" coords="493,1115,578,1141"/>
+<area shape="rect" id="node40" href="$findpts__el__2_8c.html#a1fe7500238a37c48ae642d12cf921989" title="findpts_el_2" alt="" coords="301,1183,400,1209"/>
+<area shape="rect" id="node41" href="$findpts__el__3_8c.html#a3ed659b9d68af3919368cbdc12649730" title="findpts_el_3" alt="" coords="301,411,400,437"/>
+<area shape="rect" id="node42" href="$findpts__local__imp_8h.html#a6907769dc6f4ac9a02b922df042121fa" title="hash_build" alt="" coords="306,461,395,488"/>
+<area shape="rect" id="node43" href="$sort__imp_8h.html#a8b885de2ff8b1c7e606202057ad5a36a" title="radix_offsets" alt="" coords="299,512,402,539"/>
+<area shape="rect" id="node44" href="$tensor_8h.html#a926755185742d00ccd5c271ee2c6770d" title="tensor_dot" alt="" coords="305,563,396,589"/>
+<area shape="rect" id="node45" href="$xxt_8c.html#a1ed70f83e0bcbd8a1f76c9dd5cef2267" title="apply_S" alt="" coords="314,613,387,640"/>
+<area shape="rect" id="node46" href="$classpoisson.html#a1ab874c434e5694003e378739fb98c65" title="poisson::spectral_solve" alt="" coords="653,984,821,1011"/>
+<area shape="rect" id="node49" href="$classpoisson.html#a557b9bfb94e35c8716319d8d8145cacc" title="poisson::cos_test" alt="" coords="285,972,416,999"/>
+<area shape="rect" id="node26" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="495,816,576,843"/>
+<area shape="rect" id="node29" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="487,867,584,893"/>
+<area shape="rect" id="node27" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="684,715,791,741"/>
+<area shape="rect" id="node28" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="911,816,982,843"/>
+<area shape="rect" id="node30" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="660,918,815,959"/>
+<area shape="rect" id="node31" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="708,867,767,893"/>
+<area shape="rect" id="node34" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="1552,980,1623,1007"/>
+<area shape="rect" id="node36" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="1520,1031,1655,1057"/>
+<area shape="rect" id="node35" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="1703,1005,1832,1032"/>
+<area shape="rect" id="node39" href="$findpts__imp_8h.html#a5c3241423f92f6cf681968814ee9a3ab" title="hash_build" alt="" coords="693,1115,782,1141"/>
+<area shape="rect" id="node47" href="$classhsmg__routines.html#adb1f241321c99f913f53fefefee82c09" title="hsmg_routines::hsmg\l_coarse_solve" alt="" coords="869,969,1024,1010"/>
+<area shape="rect" id="node48" href="$classhsmg__routines.html#abaa25315b11254629ed79c12c169c52f" title="Solve preconditioner: z = M rhs, where . " alt="" coords="1072,969,1227,1010"/>
+<area shape="rect" id="node50" href="$classpoisson.html#ace48c9eb09141b029fd923de91c5cbbc" title="one&#45;time setup of communication infrastructure for poisson_mod " alt="" coords="465,969,605,1010"/>
+</map>

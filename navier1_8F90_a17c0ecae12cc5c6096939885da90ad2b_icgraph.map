@@ -1,0 +1,51 @@
+<map id="transpose" name="transpose">
+<area shape="rect" id="node2" href="$gs_8c.html#a90d686560f8420240c982af9b825d180" title="allreduce_exec" alt="" coords="157,26,275,53"/>
+<area shape="rect" id="node8" href="$navier5_8F90.html#a672cdc948324721df77f08e248963192" title="This routing builds a 1D filter with a transfer function that looks like: ^ d_k | | | 1 |__________ v..." alt="" coords="157,229,275,255"/>
+<area shape="rect" id="node12" href="$gs_8c.html#a06e43df2d9b66124b12934f57d2bfd5a" title="cr_exec" alt="" coords="180,77,252,103"/>
+<area shape="rect" id="node14" href="$navier5_8F90.html#aca88e3dda3f95f9b212d6e0bfa2b4543" title="filterq" alt="" coords="187,178,245,205"/>
+<area shape="rect" id="node15" href="$interp__mod_8F90.html#aa262674ee97d23a029b59e09a9a985a6" title="Generate derivative from np GL points onto mp GL points dgl = interpolation matrix, mapping from velocity nodes to pressure dgt = transpose of interpolation matrix w = work array of size (3*np+mp) np = number of points on GLL grid mp = number of points on GL grid. " alt="" coords="179,330,253,357"/>
+<area shape="rect" id="node19" href="$interp__mod_8F90.html#a58f02ae257240ef90f8a1c9e5b092d1c" title="Generate interpolation from np GLL points to mp GL points jgl = interpolation matrix, mapping from velocity nodes to pressure jgt = transpose of interpolation matrix w = work array of size (np+mp) np = number of points on GLL grid mp = number of points on GL grid. " alt="" coords="181,279,251,306"/>
+<area shape="rect" id="node24" href="$gs_8c.html#a1b5c8f07cd891037e6a5aec1bf3b8cdc" title="gs_aux" alt="" coords="183,381,249,407"/>
+<area shape="rect" id="node28" href="$classhsmg__routines.html#abc50809cf4aae995f61fd0c4ebc44c70" title="SEM hat matrices for each level. " alt="" coords="560,664,715,705"/>
+<area shape="rect" id="node31" href="$classhsmg__routines.html#a3df48c7ab66c5291fd70155ce0ca7e11" title="hsmg_routines::hsmg\l_setup_fast1d" alt="" coords="139,533,293,575"/>
+<area shape="rect" id="node36" href="$classhsmg__routines.html#aedec57d10932b660a84cc498059bb1fe" title="hsmg_routines::hsmg\l_setup_intp" alt="" coords="560,599,715,640"/>
+<area shape="rect" id="node37" href="$classhsmg__routines.html#a4a764754ca94ae800fbced43543c8b58" title="hsmg_routines::hsmg\l_setup_semhat" alt="" coords="560,403,715,444"/>
+<area shape="rect" id="node38" href="$gs__test__old_8c.html#a8be6e60ea81f191308e3638d3b2f6fe0" title="main" alt="" coords="190,701,242,727"/>
+<area shape="rect" id="node39" href="$gs_8c.html#a233865689700a78046a7f4b1e0c261c0" title="pw_exec" alt="" coords="177,127,255,154"/>
+<area shape="rect" id="node41" href="$classfft.html#a66358c1a39eaf63e07eca4b8f822dd6a" title="Global (parallel) transform of grid data. " alt="" coords="149,751,283,778"/>
+<area shape="rect" id="node48" href="$genxyz_8F90.html#a16eca2a8f6bca6167dcfa98ff3eac09c" title="Generate bi&#45; or trilinear mesh. " alt="" coords="187,853,245,879"/>
+<area shape="rect" id="node3" href="$gs_8c.html#a98aba53d0fa848a5cf0e5801e812c3a0" title="allreduce_setup" alt="" coords="366,26,487,53"/>
+<area shape="rect" id="node4" href="$gs_8c.html#acb4f807b2974fc4b6f2cf8f7505ed6ac" title="auto_setup" alt="" coords="592,26,683,53"/>
+<area shape="rect" id="node5" href="$gs_8c.html#a00292c49272fb485aaebf8c621982ad3" title="gs_setup_aux" alt="" coords="792,63,901,90"/>
+<area shape="rect" id="node6" href="$gs_8c.html#adff6aa371c7d8e16a6d5ec17697dd637" title="fgs_setup_pick" alt="" coords="998,51,1114,78"/>
+<area shape="rect" id="node7" href="$gs_8h.html#a8e2276986935df404e15f3121f00a601" title="gs_setup" alt="" coords="1017,102,1095,129"/>
+<area shape="rect" id="node9" href="$navier5_8F90.html#a519066c177fc94530849e83d3b9d4cfb" title="filter vx,vy,vz, and p by simple interpolation " alt="" coords="394,178,459,205"/>
+<area shape="rect" id="node10" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="1181,203,1288,230"/>
+<area shape="rect" id="node11" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1336,203,1487,230"/>
+<area shape="rect" id="node13" href="$gs_8c.html#a612756903fc8999d00a03d789a80aed3" title="cr_setup" alt="" coords="389,77,465,103"/>
+<area shape="rect" id="node16" href="$classinterp.html#a256b6971d9213b5e381b13377e3e1b03" title="Get pointer to GL&#45;GL interpolation dgl() for pair (mx,md) " alt="" coords="359,279,495,306"/>
+<area shape="rect" id="node17" href="$convect_8F90.html#aef829efeef773567be893471f50529b1" title="Compute dealiased form: J^T Bf *JC .grad Ju w/ correct Jacobians. " alt="" coords="585,330,690,357"/>
+<area shape="rect" id="node18" href="$navier1_8F90.html#a38ba376801cfa958294fae8c90db7680" title="Compute the convective term CONV for a passive scalar field FI. " alt="" coords="813,330,881,357"/>
+<area shape="rect" id="node20" href="$classinterp.html#a2637cb8249580b149248f7a6b0ededdf" title="Get pointer to jgl() for interpolation pair (mx,md) " alt="" coords="361,229,493,255"/>
+<area shape="rect" id="node21" href="$convect_8F90.html#a768d72f963bbcaf77ab9725ad7847c72" title="Put vxd,vyd,vzd into rst form on fine mesh For rst form, see eq. (4.8.5) in Deville, Fischer, Mund (2002). " alt="" coords="781,229,913,255"/>
+<area shape="rect" id="node23" href="$induct_8F90.html#adcae8f87adfb3b7c619cd72c46ccd4ac" title="Eulerian scheme, add convection term to forcing function. " alt="" coords="580,279,695,306"/>
+<area shape="rect" id="node22" href="$convect_8F90.html#a9b58d62988f53102b490531b844a1891" title="setup_convect" alt="" coords="999,229,1113,255"/>
+<area shape="rect" id="node25" href="$gs_8h.html#ab075419dce285f3f5e1a1f881ddb4205" title="gs" alt="" coords="407,330,446,357"/>
+<area shape="rect" id="node26" href="$gs_8h.html#a3b9b4859e943c6790d9b52ccdcbad6af" title="gs_many" alt="" coords="387,381,466,407"/>
+<area shape="rect" id="node27" href="$gs_8h.html#a61572e6f587b61c83d79b01a9c4a0c6f" title="gs_vec" alt="" coords="393,431,460,458"/>
+<area shape="rect" id="node29" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="769,581,924,623"/>
+<area shape="rect" id="node30" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="1008,539,1104,566"/>
+<area shape="rect" id="node32" href="$classhsmg__routines.html#aee2a36eea92adb36ec686ee9652216e9" title="not sure " alt="" coords="349,533,504,575"/>
+<area shape="rect" id="node33" href="$classhsmg__routines.html#a58ef718e49a3f4848c3d51307bbccfe0" title="hsmg_routines::h1mg\l_setup_fdm" alt="" coords="560,533,715,575"/>
+<area shape="rect" id="node34" href="$classhsmg__routines.html#a96f7ef907486d4f298d8ac372aeddf5e" title="hsmg_routines::hsmg\l_setup_fdm" alt="" coords="560,468,715,509"/>
+<area shape="rect" id="node35" href="$classhsmg__routines.html#ac8f9bca9624d5e550d70acabfa8aef73" title="Sets up hybrid Schwarz multi&#45;grid preconditioner. " alt="" coords="769,484,924,525"/>
+<area shape="rect" id="node40" href="$gs_8c.html#a32636abe895179991c05e4881ca74484" title="pw_setup" alt="" coords="385,127,468,154"/>
+<area shape="rect" id="node42" href="$classpoisson.html#a1ab874c434e5694003e378739fb98c65" title="poisson::spectral_solve" alt="" coords="763,813,931,839"/>
+<area shape="rect" id="node44" href="$classpoisson.html#a54094b5009a26b94189d1f7dc4e3010d" title="poisson::shuffle_test" alt="" coords="352,802,501,829"/>
+<area shape="rect" id="node46" href="$classpoisson.html#af15535fb56b2a956fc12fd7887ad6ef0" title="poisson::transpose_test" alt="" coords="341,701,512,727"/>
+<area shape="rect" id="node47" href="$classpoisson.html#a557b9bfb94e35c8716319d8d8145cacc" title="poisson::cos_test" alt="" coords="361,751,492,778"/>
+<area shape="rect" id="node43" href="$classhsmg__routines.html#adb1f241321c99f913f53fefefee82c09" title="hsmg_routines::hsmg\l_coarse_solve" alt="" coords="979,805,1133,847"/>
+<area shape="rect" id="node45" href="$classpoisson.html#ace48c9eb09141b029fd923de91c5cbbc" title="one&#45;time setup of communication infrastructure for poisson_mod " alt="" coords="567,765,707,807"/>
+<area shape="rect" id="node49" href="$genxyz_8F90.html#a68c86aab3d5439b8cdc8368eed562f9c" title="linquad" alt="" coords="393,903,460,930"/>
+<area shape="rect" id="node50" href="$genxyz_8F90.html#a10f2e4b6c10053ac6abb2cd014cb8d44" title="genxyz" alt="" coords="604,903,671,930"/>
+</map>

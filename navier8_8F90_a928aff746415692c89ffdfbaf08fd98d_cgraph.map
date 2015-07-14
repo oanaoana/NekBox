@@ -1,0 +1,20 @@
+<map id="setvert3d" name="setvert3d">
+<area shape="rect" id="node2" href="$connect1_8F90.html#aa6d2ebf2dfdfeae458d41ef4cb6d9fae" title="Set up arrays IXCN,ESKIP,SKPDAT,NEDG,NOFFST for new NX,NY,NZ. " alt="" coords="158,208,214,235"/>
+<area shape="rect" id="node3" href="$navier8_8F90.html#ad95667f017072090d261e5eaef823395" title="Return a unique rank for each matched tuple set. Global. Balanced. tuple is destroyed. By &quot;balanced&quot; we mean that none of the tuple entries is likely to be much more uniquely populated than any other, so that any of the tuples can serve as an initial (parallel) sort key First two slots in tuple(:,i) assumed empty. " alt="" coords="135,259,237,285"/>
+<area shape="rect" id="node16" href="$navier8_8F90.html#a05f99aec875f63f8db64d774836f2902" title="Use Heap Sort (p 233 Num. Rec.), 5/26/93 pff. " alt="" coords="159,309,213,336"/>
+<area shape="rect" id="node17" href="$math_8F90.html#a2add00098b77e54191b10eb6711193f6" title="Use Heap Sort (p 231 Num. Rec., 1st Ed.) " alt="" coords="161,360,211,387"/>
+<area shape="rect" id="node18" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="137,411,235,437"/>
+<area shape="rect" id="node4" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="327,157,375,184"/>
+<area shape="rect" id="node14" href="$navier8_8F90.html#ab45afa33532528c978fbfcf44355bb28" title="Compute rank of each unique entry a(1,i) Output: ind(i) i=1,...,n (global) rank of entry a(*..." alt="" coords="305,259,396,285"/>
+<area shape="rect" id="node15" href="$navier8_8F90.html#adcc31cd78dd8ff5e821a590c916e4506" title="Use Heap Sort (p 231 Num. Rec., 1st Ed.) " alt="" coords="485,309,572,336"/>
+<area shape="rect" id="node5" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="464,5,593,32"/>
+<area shape="rect" id="node7" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="493,56,564,83"/>
+<area shape="rect" id="node8" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="475,107,582,133"/>
+<area shape="rect" id="node9" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="481,157,577,184"/>
+<area shape="rect" id="node10" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="487,208,570,235"/>
+<area shape="rect" id="node12" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="487,259,570,285"/>
+<area shape="rect" id="node6" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="651,5,739,32"/>
+<area shape="rect" id="node11" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="641,208,748,235"/>
+<area shape="rect" id="node13" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="648,259,741,285"/>
+<area shape="rect" id="node19" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="285,411,416,437"/>
+</map>

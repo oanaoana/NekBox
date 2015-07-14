@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['table_5ffrom_5fhash',['table_from_hash',['../findpts__imp_8h.html#ae5d3275097e00c070edf020f678d4de8',1,'findpts_imp.h']]],
+  ['tauinit',['tauinit',['../navier1_8F90.html#a1d7e53e8c5b7ff3bc926908031769ea3',1,'navier1.F90']]],
+  ['tensor_5f2t',['tensor_2t',['../tensor_8h.html#aaa6a53655f18e20b9aaed498f54a74fd',1,'tensor.h']]],
+  ['tensor_5f3t',['tensor_3t',['../tensor_8h.html#a835bd04d85cd2d786d0c137610af703c',1,'tensor.h']]],
+  ['tensor_5fdot',['tensor_dot',['../tensor_8c.html#a926755185742d00ccd5c271ee2c6770d',1,'tensor_dot(const double *a, const double *b, uint n):&#160;tensor.c'],['../tensor_8h.html#a926755185742d00ccd5c271ee2c6770d',1,'tensor_dot(const double *a, const double *b, uint n):&#160;tensor.c']]],
+  ['tensor_5fi1',['tensor_i1',['../tensor_8h.html#a9ce8ec26cbf5009547e22bf7da4e337c',1,'tensor.h']]],
+  ['tensor_5fi2',['tensor_i2',['../tensor_8h.html#a818ce716e0b5ac3cd45b18fce044ce3e',1,'tensor.h']]],
+  ['tensor_5fi3',['tensor_i3',['../tensor_8h.html#aa1d540f9b0ba955859b330b32944d190',1,'tensor.h']]],
+  ['tensor_5fig1',['tensor_ig1',['../tensor_8h.html#a0502ce18a8e7c9843bbcc5ca5be6ac41',1,'tensor.h']]],
+  ['tensor_5fig2',['tensor_ig2',['../tensor_8h.html#a1aa30c0b57153eecb9573dd8edf73c69',1,'tensor.h']]],
+  ['tensor_5fig3',['tensor_ig3',['../tensor_8h.html#a936d982eec4b5c23380547f1371a0bdf',1,'tensor.h']]],
+  ['tensor_5fmtxm',['tensor_mtxm',['../tensor_8c.html#af9d35754709e45f7ef224056d4cfbf84',1,'tensor_mtxm(double *restrict C, uint nc, const double *restrict A, uint na, const double *restrict B, uint nb):&#160;tensor.c'],['../tensor_8h.html#ad642198f8ab4216ddd4f7ee4beab57d1',1,'tensor_mtxm(double *C, uint nc, const double *A, uint na, const double *B, uint nb):&#160;tensor.h']]],
+  ['tensor_5fmtxv',['tensor_mtxv',['../tensor_8h.html#a14afcab956cd6980991811621db031a7',1,'tensor.h']]],
+  ['tensor_5fmxm',['tensor_mxm',['../tensor_8h.html#a668a47aca721428547c6c6ba41e44b64',1,'tensor.h']]],
+  ['tensor_5fmxv',['tensor_mxv',['../tensor_8h.html#a476ab23262157db16745eb5268f73415',1,'tensor.h']]],
+  ['tensr3',['tensr3',['../fasts_8F90.html#a1dc2171702fabe2e09c87421de1f0e5d',1,'fasts.F90']]],
+  ['test',['test',['../crs__test_8c.html#a2f7567121d5202a152c665b2174d0000',1,'test(const struct comm *const comm):&#160;crs_test.c'],['../findpts__local__test_8c.html#ad88deac315b9893eacf41b3cc26fb1fd',1,'test(buffer *buf):&#160;findpts_local_test.c'],['../findpts__test_8c.html#ae5faf69da9ed467ae9eb0498927b91da',1,'test(const struct comm *const comm):&#160;findpts_test.c'],['../gs__test_8c.html#af64d3ed59901f0abf9ea2a8c217a4501',1,'test(const struct comm *comm):&#160;gs_test.c'],['../gs__unique__test_8c.html#af64d3ed59901f0abf9ea2a8c217a4501',1,'test(const struct comm *comm):&#160;gs_unique_test.c']]],
+  ['test_5fmesh',['test_mesh',['../findpts__local__test_8c.html#a3517c1dd39ffed928614703506ae11d5',1,'test_mesh(void):&#160;findpts_local_test.c'],['../findpts__test_8c.html#a3517c1dd39ffed928614703506ae11d5',1,'test_mesh(void):&#160;findpts_test.c']]],
+  ['time00',['time00',['../drive2_8F90.html#a2560abf814ea78b9e6e566b7174e82e7',1,'drive2.F90']]],
+  ['transpose',['transpose',['../navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b',1,'navier1.F90']]],
+  ['transpose_5fgrid',['transpose_grid',['../classfft.html#a66358c1a39eaf63e07eca4b8f822dd6a',1,'fft']]],
+  ['transpose_5ftest',['transpose_test',['../classpoisson.html#af15535fb56b2a956fc12fd7887ad6ef0',1,'poisson']]]
+];

@@ -1,0 +1,29 @@
+<map id="crs_setup" name="crs_setup">
+<area shape="rect" id="node2" href="$xxt_8c.html#afc26fb811d3130e4f6ee4f808efcbecb" title="discover_dofs" alt="" coords="143,81,253,108"/>
+<area shape="rect" id="node6" href="$xxt_8c.html#a7cdebf84a4af2bb02e71e953b91d89ba" title="discover_sep_ids" alt="" coords="494,233,626,260"/>
+<area shape="rect" id="node13" href="$xxt_8c.html#a3da177ca6927d7cf892cb7f5f0058e65" title="discover_sep_sizes" alt="" coords="487,309,633,336"/>
+<area shape="rect" id="node14" href="$xxt_8c.html#a542308837910df1089b8726451d5f025" title="locate_proc" alt="" coords="150,461,246,488"/>
+<area shape="rect" id="node15" href="$xxt_8c.html#ac6781afb68f686a8d3e3da877ecc8a15" title="orthogonalize" alt="" coords="144,411,252,437"/>
+<area shape="rect" id="node26" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="537,360,583,387"/>
+<area shape="rect" id="node27" href="$xxt_8c.html#a2ae1a1ae27d92259c584de8c5173dc80" title="separate_matrix" alt="" coords="136,588,260,615"/>
+<area shape="rect" id="node3" href="$xxt_8c.html#a3f95c6ef8b8fc468dd53b57a9884c231" title="unique_ids" alt="" coords="329,5,418,32"/>
+<area shape="rect" id="node4" href="$xxt_8c.html#a53b22f6fa73cc0fb1bafa56a9128bdcc" title="lg" alt="" coords="354,56,393,83"/>
+<area shape="rect" id="node5" href="$sort__imp_8h.html#aa7bba91e4f9ed1f3e524f1dd09c2c4ea" title="sortp" alt="" coords="346,107,401,133"/>
+<area shape="rect" id="node7" href="$xxt_8c.html#ac55359a395468233fd55a76094165c6c" title="init_sep_ids" alt="" coords="692,157,789,184"/>
+<area shape="rect" id="node8" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="691,360,790,387"/>
+<area shape="rect" id="node9" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="693,309,788,336"/>
+<area shape="rect" id="node10" href="$xxt_8c.html#a6b77f7a2e2b827bd9db0ab38f3629d3e" title="merge_sep_ids" alt="" coords="681,208,800,235"/>
+<area shape="rect" id="node12" href="$xxt_8c.html#abbbbc76a4298edade6d9d872ba7acae0" title="find_perm_x2c" alt="" coords="683,259,798,285"/>
+<area shape="rect" id="node11" href="$xxt_8c.html#ad31080e36cc77af6407240d9f8035269" title="unique_nonzero" alt="" coords="848,208,971,235"/>
+<area shape="rect" id="node16" href="$xxt_8c.html#af99e1cae799e76113a5df8105e0a33b6" title="allocate_X" alt="" coords="329,461,417,488"/>
+<area shape="rect" id="node17" href="$xxt_8c.html#a15d100bdb04a5730963bf026a5bb9593" title="apply_S_col" alt="" coords="324,512,423,539"/>
+<area shape="rect" id="node19" href="$xxt_8c.html#a309cf9dda205bd7ab5c32233b5bcbefe" title="apply_Xt" alt="" coords="335,563,412,589"/>
+<area shape="rect" id="node20" href="$xxt_8c.html#a53ae6f738f9515bfe581ee5f427edf87" title="apply_QQt" alt="" coords="515,512,605,539"/>
+<area shape="rect" id="node23" href="$xxt_8c.html#a6a9fc6c35371b82bcd8235fe58c403df" title="apply_X" alt="" coords="337,309,410,336"/>
+<area shape="rect" id="node24" href="$xxt_8c.html#a1ed70f83e0bcbd8a1f76c9dd5cef2267" title="apply_S" alt="" coords="337,411,410,437"/>
+<area shape="rect" id="node18" href="$xxt_8c.html#a62b4197f27256eb0b32c8471ab5617f4" title="apply_m_Asl" alt="" coords="509,461,611,488"/>
+<area shape="rect" id="node21" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="690,500,791,527"/>
+<area shape="rect" id="node22" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="695,424,787,451"/>
+<area shape="rect" id="node25" href="$xxt_8c.html#a50b89aae017b2ce1f015cd317bb4189f" title="apply_p_Als" alt="" coords="511,411,609,437"/>
+<area shape="rect" id="node28" href="$xxt_8c.html#a0165bf7474618d1258902475ff83b86f" title="condense_matrix" alt="" coords="308,664,439,691"/>
+</map>

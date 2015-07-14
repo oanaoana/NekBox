@@ -1,0 +1,6 @@
+<map id="crs_stats" name="crs_stats">
+<area shape="rect" id="node2" href="$comm_8c.html#ad4bf12272401275660a2becfb36088ea" title="comm_allreduce" alt="" coords="132,31,256,57"/>
+<area shape="rect" id="node3" href="$comm_8c.html#ae9e39c9ae471f5a2723956dfa7cb95e4" title="allreduce_imp" alt="" coords="304,31,413,57"/>
+<area shape="rect" id="node4" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="463,5,558,32"/>
+<area shape="rect" id="node5" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="461,56,560,83"/>
+</map>

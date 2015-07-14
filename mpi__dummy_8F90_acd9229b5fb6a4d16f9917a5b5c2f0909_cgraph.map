@@ -1,0 +1,6 @@
+<map id="mpi_allreduce" name="mpi_allreduce">
+<area shape="rect" id="node2" href="$mpi__dummy_8F90.html#a64285f5ce9bed08bfd13bc27264db185" title="mpi_reduce_double_precision" alt="" coords="163,5,372,32"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#aa549a352c5ab9ce53b8dfd222da38fa6" title="mpi_reduce_integer" alt="" coords="194,56,341,83"/>
+<area shape="rect" id="node4" href="$mpi__dummy_8F90.html#abbddc050d7faafb34959984f69652e0a" title="mpi_reduce_integer8" alt="" coords="190,107,345,133"/>
+<area shape="rect" id="node5" href="$mpi__dummy_8F90.html#a47f146895b36dc21100a1c42d343762c" title="mpi_reduce_real" alt="" coords="204,157,331,184"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="set_dealias_rx" name="set_dealias_rx">
+<area shape="rect" id="node2" href="$classinterp.html#a2637cb8249580b149248f7a6b0ededdf" title="Get pointer to jgl() for interpolation pair (mx,md) " alt="" coords="168,171,300,197"/>
+<area shape="rect" id="node19" href="$classspeclib.html#a932ca9ca470532f6bae3ed77ca2e1466" title="Generate NP Gauss Legendre points (Z) and weights (W) associated with Jacobi polynomial P(N)(alpha=0..." alt="" coords="473,31,572,57"/>
+<area shape="rect" id="node26" href="$navier8_8F90.html#a5c307bcd1af1a0036e75f65db3d06e39" title="Spectral interpolation from A to B via tensor products. " alt="" coords="195,613,273,640"/>
+<area shape="rect" id="node3" href="$interp__mod_8F90.html#aef5d48d354e9e03de35748eecb7e42f9" title="Check array limits. " alt="" coords="348,208,417,235"/>
+<area shape="rect" id="node18" href="$interp__mod_8F90.html#a58f02ae257240ef90f8a1c9e5b092d1c" title="Generate interpolation from np GLL points to mp GL points jgl = interpolation matrix, mapping from velocity nodes to pressure jgt = transpose of interpolation matrix w = work array of size (np+mp) np = number of points on GLL grid mp = number of points on GL grid. " alt="" coords="348,132,417,159"/>
+<area shape="rect" id="node4" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="497,233,548,260"/>
+<area shape="rect" id="node5" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="650,183,705,209"/>
+<area shape="rect" id="node6" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="644,233,711,260"/>
+<area shape="rect" id="node7" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="929,132,977,159"/>
+<area shape="rect" id="node17" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="629,132,726,159"/>
+<area shape="rect" id="node8" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="1025,5,1155,32"/>
+<area shape="rect" id="node10" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="1055,56,1125,83"/>
+<area shape="rect" id="node11" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="1037,107,1143,133"/>
+<area shape="rect" id="node12" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="1042,157,1138,184"/>
+<area shape="rect" id="node13" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="1049,208,1131,235"/>
+<area shape="rect" id="node15" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="1049,259,1131,285"/>
+<area shape="rect" id="node9" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1212,5,1300,32"/>
+<area shape="rect" id="node14" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="1203,208,1309,235"/>
+<area shape="rect" id="node16" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="1209,259,1303,285"/>
+<area shape="rect" id="node22" href="$classspeclib.html#ab649647711dc444ca710b98bf943b0d8" title="speclib::zwgll" alt="" coords="471,183,574,209"/>
+<area shape="rect" id="node24" href="$fast3d_8F90.html#ad007f6eca12b1b9307f46e56bcc40a59" title="This routine evaluates the derivative based on all points in the stencils. It is more memory efficien..." alt="" coords="465,81,580,108"/>
+<area shape="rect" id="node25" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="480,132,565,159"/>
+<area shape="rect" id="node20" href="$classspeclib.html#a631f538efe1b48d5b557e06446dcb278" title="speclib::zwgj" alt="" coords="628,31,727,57"/>
+<area shape="rect" id="node21" href="$classspeclib.html#a70378dbc00d8034b969f6b8143a9f79b" title="speclib::zwgjd" alt="" coords="775,81,881,108"/>
+<area shape="rect" id="node23" href="$classspeclib.html#a7f8bbfa94e61b0b498a78f57a3b2d46d" title="speclib::zwglj" alt="" coords="777,132,879,159"/>
+<area shape="rect" id="node27" href="$mxm__wrapper_8F90.html#ab9ec2260a10061af6ce1c52f3c8a41da" title="Compute matrix&#45;matrix product C = A*B. " alt="" coords="357,613,408,640"/>
+<area shape="rect" id="node28" href="$mxm__bgq_8F90.html#a8faaef428336095704ece51624bbfe92" title="mxm_bgq_8" alt="" coords="473,740,572,767"/>
+<area shape="rect" id="node29" href="$mxm__bgq_8F90.html#a27529ace9834454b8906f29e02718629" title="mxm_bgq_12" alt="" coords="469,791,576,817"/>
+<area shape="rect" id="node30" href="$mxm__bgq_8F90.html#a3fda9ea4bc7a5713a19d6939fa2b541f" title="mxm_bgq_16" alt="" coords="469,436,576,463"/>
+<area shape="rect" id="node31" href="$mxm__bgq_8F90.html#a8a70163b4dbfdbfcce7bff170597fcad" title="mxm_bgq_10" alt="" coords="469,487,576,513"/>
+<area shape="rect" id="node32" href="$mxm__bgq_8F90.html#af192c3c8b982aa5bbc2a757156718a91" title="mxm_bgq_6" alt="" coords="473,537,572,564"/>
+<area shape="rect" id="node33" href="$mxm__std_8F90.html#af07f4b22fdc3488ca321736743f14b01" title="mxm44_2" alt="" coords="481,588,564,615"/>
+<area shape="rect" id="node34" href="$mxm__std_8F90.html#ac63fe7516a18dc57dfe913ad2c1453be" title="mxm44_0" alt="" coords="636,335,719,361"/>
+<area shape="rect" id="node35" href="$mxm__std_8F90.html#aa9e8685c4a72f18fb5d1ee88ed17a3d6" title="unrolled loop version " alt="" coords="491,689,554,716"/>
+<area shape="rect" id="node36" href="$mxm__std_8F90.html#af4bd28930a9d674bbcad09ad75fa81ef" title="mxf8" alt="" coords="651,791,703,817"/>
+<area shape="rect" id="node37" href="$mxm__std_8F90.html#a7d3ac03517b3934b98857b22f7f78788" title="mxf1" alt="" coords="651,841,703,868"/>
+<area shape="rect" id="node38" href="$mxm__std_8F90.html#acd223c583f3a9242fda7a1b8897b624d" title="mxf2" alt="" coords="651,892,703,919"/>
+<area shape="rect" id="node39" href="$mxm__std_8F90.html#abff718a387aa354f77d0e8b0ffa98867" title="mxf3" alt="" coords="651,943,703,969"/>
+<area shape="rect" id="node40" href="$mxm__std_8F90.html#a2f4e4e1b4daebbd4d0580029d0f54016" title="mxf4" alt="" coords="651,993,703,1020"/>
+<area shape="rect" id="node41" href="$mxm__std_8F90.html#a5a6d5c31350c601ba8327b75a72cba0a" title="mxf5" alt="" coords="651,1044,703,1071"/>
+<area shape="rect" id="node42" href="$mxm__std_8F90.html#a38a142edde1e72a918d280747a319f7a" title="mxf6" alt="" coords="651,1095,703,1121"/>
+<area shape="rect" id="node43" href="$mxm__std_8F90.html#a1919ea16c0a7b4e248e45e983c29d965" title="mxf7" alt="" coords="651,385,703,412"/>
+<area shape="rect" id="node44" href="$mxm__std_8F90.html#afb2e2cde9040ab037e3586b0deef3851" title="mxf12" alt="" coords="647,436,707,463"/>
+<area shape="rect" id="node45" href="$mxm__std_8F90.html#a8ab38e8d33e92444b748159b82759c27" title="mxf9" alt="" coords="651,487,703,513"/>
+<area shape="rect" id="node46" href="$mxm__std_8F90.html#a5786b175fcbe28ecafe1d878687c3ccf" title="mxf10" alt="" coords="647,537,707,564"/>
+<area shape="rect" id="node47" href="$mxm__std_8F90.html#a244c7a41b5b7a22acba71c34552c2774" title="mxf11" alt="" coords="647,588,707,615"/>
+<area shape="rect" id="node48" href="$mxm__std_8F90.html#a6a048a62b47a5c2327279e158c1689df" title="mxf13" alt="" coords="647,639,707,665"/>
+<area shape="rect" id="node49" href="$mxm__std_8F90.html#a6e57628b882cb8bcac215e9a5b523eed" title="mxf14" alt="" coords="647,689,707,716"/>
+<area shape="rect" id="node50" href="$mxm__std_8F90.html#a02e79201be026faf756be00e58334c4f" title="mxf15" alt="" coords="647,740,707,767"/>
+</map>

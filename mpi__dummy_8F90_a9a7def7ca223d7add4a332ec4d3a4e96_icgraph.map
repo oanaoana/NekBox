@@ -1,0 +1,6 @@
+<map id="mpi_attr_get" name="mpi_attr_get">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#ad144041d3b33dd06035861d134cd9c35" title="iniproc" alt="" coords="155,5,219,32"/>
+<area shape="rect" id="node3" href="$singlmesh_8F90.html#a0b340eaa9352e5b5d12ff7d525b30c0a" title="get_session_info" alt="" coords="267,5,396,32"/>
+<area shape="rect" id="node4" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="444,5,515,32"/>
+<area shape="rect" id="node5" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="563,5,628,32"/>
+</map>

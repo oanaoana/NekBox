@@ -1,0 +1,19 @@
+<map id="hsmg_routines::h1mg_setup_schwarz_wt" name="hsmg_routines::h1mg_setup_schwarz_wt">
+<area shape="rect" id="node2" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="476,72,524,99"/>
+<area shape="rect" id="node12" href="$classhsmg__routines.html#a13c1cb2ecf3853e551896970bb5c87b5" title="hsmg_routines::h1mg\l_setup_schwarz_wt_1" alt="" coords="208,222,371,263"/>
+<area shape="rect" id="node3" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="654,277,783,304"/>
+<area shape="rect" id="node5" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="683,56,754,83"/>
+<area shape="rect" id="node6" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="665,107,772,133"/>
+<area shape="rect" id="node7" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="671,157,767,184"/>
+<area shape="rect" id="node8" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="677,5,760,32"/>
+<area shape="rect" id="node10" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="677,227,760,253"/>
+<area shape="rect" id="node4" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="865,277,953,304"/>
+<area shape="rect" id="node9" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="856,5,963,32"/>
+<area shape="rect" id="node11" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="863,227,956,253"/>
+<area shape="rect" id="node13" href="$classhsmg__routines.html#a36161bd1dfdd2c67146846cabf62b89a" title="hsmg_routines::hsmg\l_extrude" alt="" coords="423,123,577,165"/>
+<area shape="rect" id="node14" href="$classhsmg__routines.html#aa16d0aaf949c4b90ef80aca11415af87" title="hsmg_routines::hsmg\l_schwarz_dssum" alt="" coords="423,254,577,295"/>
+<area shape="rect" id="node15" href="$classhsmg__routines.html#aec54835d3731eef354ce95153c5d15cf" title="hsmg_routines::hsmg\l_schwarz_toreg3d" alt="" coords="423,189,577,230"/>
+<area shape="rect" id="node16" href="$classhsmg__routines.html#a88e7156da5cd6d7172d353620e4b9778" title="hsmg_routines::hsmg\l_dssum" alt="" coords="423,319,577,361"/>
+<area shape="rect" id="node17" href="$classhsmg__routines.html#a34c1ff761a953553e39774bd29e982e9" title="hsmg_routines::h1mg\l_setup_schwarz_wt_2" alt="" coords="419,385,581,426"/>
+<area shape="rect" id="node18" href="$classhsmg__routines.html#a72020bdd377683fcc4fceffd27087c5f" title="hsmg_routines::h1mg\l_setup_schwarz_wt3d_2" alt="" coords="629,385,808,426"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="mpi_bcast" name="mpi_bcast">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#ae425c1deb2e82d2007c97e1c4be990c8" title="bcast" alt="" coords="139,385,193,412"/>
+<area shape="rect" id="node3" href="$connect2_8F90.html#ad7c0c899841c497a8ce9e9c20a734c11" title="Generate local mesh elements. " alt="" coords="756,56,836,83"/>
+<area shape="rect" id="node4" href="$connect2_8F90.html#a842357ad1d3581135ffacc57139397d2" title="Read in data from preprocessor input file (.rea) " alt="" coords="930,284,993,311"/>
+<area shape="rect" id="node7" href="$singlmesh_8F90.html#a0b340eaa9352e5b5d12ff7d525b30c0a" title="get_session_info" alt="" coords="1811,488,1940,515"/>
+<area shape="rect" id="node8" href="$navier8_8F90.html#a7b711f52527072521e8670492a58ed16" title="get_vert_map" alt="" coords="241,537,351,564"/>
+<area shape="rect" id="node20" href="$comm__mpi_8F90.html#aaa2c579a3b72b7a20446818d166bc7cc" title="Broadcast logical variable to all processors. " alt="" coords="267,652,325,679"/>
+<area shape="rect" id="node21" href="$ic_8F90.html#af64028aefb1dff2a9f8a84ff024f44b0" title="driver for restarts (1) Open restart file(s) (2) Check previous spatial discretization (3) Map (K1..." alt="" coords="400,703,507,729"/>
+<area shape="rect" id="node23" href="$prepost_8F90.html#a9872fbccba1ed7b2932227287629cf2b" title="mult&#45;file output " alt="" coords="253,753,339,780"/>
+<area shape="rect" id="node24" href="$prepost_8F90.html#a78b0361cf9ff06bfe5020c2114ddc924" title="output .fld file " alt="" coords="425,804,481,831"/>
+<area shape="rect" id="node35" href="$classio.html#a3b8dab7279564c05e092b8194f166d8b" title="Read header and return number of elements and word size. " alt="" coords="556,788,708,815"/>
+<area shape="rect" id="node37" href="$byte__mpi_8F90.html#a462fe2d9aa30417eddfb192c3b1f1ad4" title="nek_comm_io" alt="" coords="399,5,508,32"/>
+<area shape="rect" id="node39" href="$connect2_8F90.html#add840513f6cd7e4b9bb1f669fa3a2fa5" title=".Read history data .Broadcast to all processors " alt="" coords="425,208,482,235"/>
+<area shape="rect" id="node40" href="$connect2_8F90.html#a91a147fe67d9a68726d0fdf8b514f294" title="Read Initial Conditions / Drive Force. Broadcast ICFILE to all processors. " alt="" coords="603,259,661,285"/>
+<area shape="rect" id="node41" href="$connect2_8F90.html#af67c931464a42d613ec3ce4e5bc3e0ff" title=".Read materials property data .Disperse material properties to all processors according to sequential..." alt="" coords="763,309,829,336"/>
+<area shape="rect" id="node42" href="$connect2_8F90.html#aa74103a17a3ec27306cefb9bd257449e" title="Read objects, Broadcast to all processors. " alt="" coords="427,360,480,387"/>
+<area shape="rect" id="node43" href="$connect2_8F90.html#a061023946c9e5de6486814b486b18489" title="Read output specs, broadcast to all processors. " alt="" coords="269,411,323,437"/>
+<area shape="rect" id="node44" href="$connect2_8F90.html#a530a74e674f77e40a6fe452da105572f" title="Read in parameters supplied by preprocessor and (eventually) echo check. .Broadcast run parameters to..." alt="" coords="259,157,333,184"/>
+<area shape="rect" id="node5" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="2007,669,2077,696"/>
+<area shape="rect" id="node6" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="2133,805,2199,832"/>
+<area shape="rect" id="node9" href="$navier8_8F90.html#a3126acd6d2b7a3e63f6f0329d5bae424" title="get_vert" alt="" coords="416,551,491,577"/>
+<area shape="rect" id="node10" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="1301,564,1393,591"/>
+<area shape="rect" id="node11" href="$classhsmg__routines.html#ac8ad367a9256351c66da876bb6c8d936" title="hsmg_routines::hsmg\l_setup_dssum" alt="" coords="884,662,1039,703"/>
+<area shape="rect" id="node14" href="$classhsmg__routines.html#ae77d2725d2058f12595e58c677dca8f2" title="hsmg_routines::h1mg\l_setup_dssum" alt="" coords="1087,727,1241,769"/>
+<area shape="rect" id="node16" href="$map2_8F90.html#a7d36efc1d668447eee63563983385f7a" title="Compute element to processor distribution according to (weighted) physical distribution in an attempt..." alt="" coords="576,512,688,539"/>
+<area shape="rect" id="node18" href="$navier8_8F90.html#a3c68a6cfc47f9c2602ab5029cae20ac8" title="get_vertex" alt="" coords="587,613,677,640"/>
+<area shape="rect" id="node12" href="$classhsmg__routines.html#ac8f9bca9624d5e550d70acabfa8aef73" title="Sets up hybrid Schwarz multi&#45;grid preconditioner. " alt="" coords="1087,662,1241,703"/>
+<area shape="rect" id="node13" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="1827,669,1923,696"/>
+<area shape="rect" id="node15" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="1597,723,1752,765"/>
+<area shape="rect" id="node17" href="$map2_8F90.html#a0a8afb6d7507567621f35bbc8ba36e2c" title="mapelpr" alt="" coords="759,512,833,539"/>
+<area shape="rect" id="node19" href="$navier8_8F90.html#a809b9aa647f2046d09131be2f6074ff6" title="? " alt="" coords="1289,617,1404,644"/>
+<area shape="rect" id="node22" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="1645,789,1704,816"/>
+<area shape="rect" id="node25" href="$prepost_8F90.html#a4a3b0e4ce35b3381281c0839e5846370" title="Store results for later postprocessing. Recent updates: p65 now indicates the number of parallel i/o ..." alt="" coords="597,916,667,943"/>
+<area shape="rect" id="node26" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="1999,941,2085,968"/>
+<area shape="rect" id="node27" href="$prepost_8F90.html#aaf4c0f2e1790302116a4c719c2eb50ff" title="outpost2" alt="" coords="758,916,834,943"/>
+<area shape="rect" id="node28" href="$prepost_8F90.html#aacb528c0b28bc79dff8db48d7ae9ac64" title="outpost" alt="" coords="927,916,995,943"/>
+<area shape="rect" id="node29" href="$coef_8F90.html#ad01cc61ba84d488e68ca9e259c592465" title="Routine to generate mapping data based on mesh 1 (Gauss&#45;Legendre Lobatto meshes). ..." alt="" coords="1125,916,1203,943"/>
+<area shape="rect" id="node30" href="$coef_8F90.html#ac5d2ac0efba4a530fab5387321307d01" title="Routine to generate all elemental geometric data for mesh 1. Velocity formulation : global&#45;to&#45;local m..." alt="" coords="1314,916,1379,943"/>
+<area shape="rect" id="node31" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="1460,941,1541,968"/>
+<area shape="rect" id="node34" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="1452,891,1549,917"/>
+<area shape="rect" id="node32" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="1621,941,1728,968"/>
+<area shape="rect" id="node33" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1800,941,1951,968"/>
+<area shape="rect" id="node36" href="$classio.html#a8f8da23cfb175a121cf25557d58d1c98" title="Load initial condition from a previous multi&#45;file output. " alt="" coords="1459,789,1543,816"/>
+<area shape="rect" id="node38" href="$prepost_8F90.html#abb385320698675796ad307a27f4855af" title="io_init" alt="" coords="767,5,825,32"/>
+</map>

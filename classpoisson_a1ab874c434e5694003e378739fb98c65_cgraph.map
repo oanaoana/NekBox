@@ -1,0 +1,37 @@
+<map id="poisson::spectral_solve" name="poisson::spectral_solve">
+<area shape="rect" id="node2" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="430,6,559,33"/>
+<area shape="rect" id="node4" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="260,57,323,83"/>
+<area shape="rect" id="node7" href="$classfft.html#a7c6e57fe0ec9d9886094d691087156fc" title="Compute a number of 1D FFTs or DCTs. " alt="" coords="675,451,754,478"/>
+<area shape="rect" id="node8" href="$classpoisson.html#a5146b4e21e3dc2027ebeec50a7545e71" title="poisson::grid_to_mesh" alt="" coords="633,721,796,747"/>
+<area shape="rect" id="node12" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="1058,451,1157,478"/>
+<area shape="rect" id="node17" href="$classpoisson.html#ace48c9eb09141b029fd923de91c5cbbc" title="one&#45;time setup of communication infrastructure for poisson_mod " alt="" coords="221,404,361,445"/>
+<area shape="rect" id="node19" href="$classpoisson.html#ac42cd347ca63e3394556370be60d7360" title="poisson::mesh_to_grid" alt="" coords="633,639,796,666"/>
+<area shape="rect" id="node22" href="$classpoisson.html#aa654d9e7cef9d27772d5b04bb61f43ca" title="poisson::poisson_kernel" alt="" coords="628,1025,801,1051"/>
+<area shape="rect" id="node24" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="691,1101,738,1127"/>
+<area shape="rect" id="node29" href="$classfft.html#a66358c1a39eaf63e07eca4b8f822dd6a" title="Global (parallel) transform of grid data. " alt="" coords="647,299,782,326"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="671,6,759,33"/>
+<area shape="rect" id="node5" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="1066,198,1149,225"/>
+<area shape="rect" id="node6" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="1247,198,1340,225"/>
+<area shape="rect" id="node9" href="$classparallel.html#a9a8fe6b8e5cb33426f1ebc5d75ae256f" title="parallel::gllel" alt="" coords="1058,903,1157,930"/>
+<area shape="rect" id="node11" href="$classparallel.html#a07e279fd1cc6f4e9189bcaad37a0d3b6" title="parallel::gllnid" alt="" coords="1054,813,1161,839"/>
+<area shape="rect" id="node14" href="$mpi__dummy_8F90.html#adf2a055de10dc93a671a453c7190fd10" title="mpi_irecv" alt="" coords="877,721,959,747"/>
+<area shape="rect" id="node15" href="$mpi__dummy_8F90.html#a4c6ff99fbf164179b98c120547561b30" title="mpi_isend" alt="" coords="875,771,961,798"/>
+<area shape="rect" id="node16" href="$mpi__dummy_8F90.html#a90b9c69c5b43af73d8821c11b5d8f22d" title="mpi_wait" alt="" coords="879,822,957,849"/>
+<area shape="rect" id="node10" href="$classmesh.html#a383626b86a123c489b00681fcb13d503" title="mesh::ieg_to_xyz" alt="" coords="1228,858,1359,885"/>
+<area shape="rect" id="node13" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="1228,451,1359,478"/>
+<area shape="rect" id="node18" href="$classpoisson.html#a557b9bfb94e35c8716319d8d8145cacc" title="poisson::cos_test" alt="" coords="429,665,560,691"/>
+<area shape="rect" id="node30" href="$mpi__dummy_8F90.html#ac160db4315dd0998ac7f60dd94f35c0e" title="mpi_comm_size" alt="" coords="857,249,979,275"/>
+<area shape="rect" id="node32" href="$mpi__dummy_8F90.html#aa2326aa8aaf5da5197cd924e92ee2a1a" title="mpi_comm_free" alt="" coords="433,563,556,590"/>
+<area shape="rect" id="node33" href="$mpi__dummy_8F90.html#aabc99956c6af4e66cc75f4247046594c" title="mpi_comm_rank" alt="" coords="432,462,557,489"/>
+<area shape="rect" id="node34" href="$mpi__dummy_8F90.html#a77bc397106150d114482c98abefed0af" title="mpi_comm_split" alt="" coords="433,513,556,539"/>
+<area shape="rect" id="node35" href="$classpoisson.html#a54094b5009a26b94189d1f7dc4e3010d" title="poisson::shuffle_test" alt="" coords="420,411,569,438"/>
+<area shape="rect" id="node36" href="$classpoisson.html#af15535fb56b2a956fc12fd7887ad6ef0" title="poisson::transpose_test" alt="" coords="409,361,580,387"/>
+<area shape="rect" id="node20" href="$classpoisson.html#a90f49ac199784d3bf15825d4dff8a5e5" title="poisson::init_mesh\l_to_grid" alt="" coords="849,604,987,645"/>
+<area shape="rect" id="node21" href="$classpoisson.html#a7f3f4d5527547189ab948995a746db9f" title="poisson::xyz_to_pid" alt="" coords="1035,611,1180,638"/>
+<area shape="rect" id="node23" href="$classfft.html#a0e824b36b18446014471a19572c578a2" title="Get the wavenumber of the ith mode. " alt="" coords="859,1025,977,1051"/>
+<area shape="rect" id="node25" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="867,1177,969,1203"/>
+<area shape="rect" id="node26" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="871,1227,965,1254"/>
+<area shape="rect" id="node27" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="869,1075,967,1102"/>
+<area shape="rect" id="node28" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="872,1126,964,1153"/>
+<area shape="rect" id="node31" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="875,299,961,326"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="crs_solve" name="crs_solve">
+<area shape="rect" id="node2" href="$xxt_8c.html#a62b4197f27256eb0b32c8471ab5617f4" title="apply_m_Asl" alt="" coords="136,5,239,32"/>
+<area shape="rect" id="node3" href="$xxt_8c.html#a50b89aae017b2ce1f015cd317bb4189f" title="apply_p_Als" alt="" coords="138,56,237,83"/>
+<area shape="rect" id="node4" href="$xxt_8c.html#a53ae6f738f9515bfe581ee5f427edf87" title="apply_QQt" alt="" coords="142,107,233,133"/>
+<area shape="rect" id="node9" href="$xxt_8c.html#a6a9fc6c35371b82bcd8235fe58c403df" title="apply_X" alt="" coords="151,208,224,235"/>
+<area shape="rect" id="node10" href="$xxt_8c.html#a309cf9dda205bd7ab5c32233b5bcbefe" title="apply_Xt" alt="" coords="149,259,226,285"/>
+<area shape="rect" id="node11" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="164,157,211,184"/>
+<area shape="rect" id="node5" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="287,157,388,184"/>
+<area shape="rect" id="node6" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="290,208,385,235"/>
+<area shape="rect" id="node7" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="288,56,387,83"/>
+<area shape="rect" id="node8" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="291,107,383,133"/>
+</map>

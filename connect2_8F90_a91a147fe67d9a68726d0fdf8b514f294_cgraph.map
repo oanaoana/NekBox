@@ -1,0 +1,21 @@
+<map id="rdicdf" name="rdicdf">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#ae425c1deb2e82d2007c97e1c4be990c8" title="bcast" alt="" coords="130,5,185,32"/>
+<area shape="rect" id="node4" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="273,56,328,83"/>
+<area shape="rect" id="node5" href="$classstring.html#ab234b94aa03c5e163fee20a591cd845e" title="Capitalizes string of length n. " alt="" coords="111,107,204,133"/>
+<area shape="rect" id="node6" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="132,157,183,184"/>
+<area shape="rect" id="node18" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="252,208,349,235"/>
+<area shape="rect" id="node19" href="$classstring.html#a7679c47cd5ea263832feb22dd5a41c82" title="Read IVALUE from LINE and set IFGTIL to .TRUE. if successful, IFGTIL to .FALSE. otherwise. This complicated function is necessary thanks to the Ardent, which won&#39;t allow free formatted reads (*) from internal strings! " alt="" coords="113,259,201,285"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#ae0bd4baaea848988f45664ce0de33350" title="mpi_bcast" alt="" coords="258,5,343,32"/>
+<area shape="rect" id="node7" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="267,107,334,133"/>
+<area shape="rect" id="node8" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="277,157,325,184"/>
+<area shape="rect" id="node9" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="397,31,527,57"/>
+<area shape="rect" id="node11" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="427,81,497,108"/>
+<area shape="rect" id="node12" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="409,132,515,159"/>
+<area shape="rect" id="node13" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="414,183,510,209"/>
+<area shape="rect" id="node14" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="421,233,503,260"/>
+<area shape="rect" id="node16" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="421,284,503,311"/>
+<area shape="rect" id="node10" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="584,31,672,57"/>
+<area shape="rect" id="node15" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="575,233,681,260"/>
+<area shape="rect" id="node17" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="581,284,675,311"/>
+<area shape="rect" id="node20" href="$classstring.html#adb36d16763e75aa5052e0d731a63ad14" title="left justify string " alt="" coords="257,259,344,285"/>
+</map>

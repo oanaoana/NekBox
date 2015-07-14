@@ -1,0 +1,10 @@
+<map id="pw_exec" name="pw_exec">
+<area shape="rect" id="node2" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="148,5,240,32"/>
+<area shape="rect" id="node3" href="$gs_8c.html#a6258675e209794fa9bced9bcf2c93a05" title="gather_noop" alt="" coords="143,56,245,83"/>
+<area shape="rect" id="node4" href="$gs_8c.html#ae08bb673dc13acacd1d0e0263f38b99d" title="pw_exec_recvs" alt="" coords="134,107,254,133"/>
+<area shape="rect" id="node6" href="$gs_8c.html#a54038c308634e6260e581b21d581b1c9" title="pw_exec_sends" alt="" coords="132,157,256,184"/>
+<area shape="rect" id="node8" href="$gs_8c.html#acdf12fed77e0cd5cd272b5fca576d495" title="scatter_noop" alt="" coords="141,208,247,235"/>
+<area shape="rect" id="node9" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="151,259,237,285"/>
+<area shape="rect" id="node5" href="$comm_8h.html#ae47a830e94605168f00226fd25cd578a" title="comm_irecv" alt="" coords="306,107,403,133"/>
+<area shape="rect" id="node7" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="304,157,405,184"/>
+</map>

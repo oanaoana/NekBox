@@ -1,0 +1,10 @@
+<map id="bcmask" name="bcmask">
+<area shape="rect" id="node2" href="$bdry_8F90.html#a44c94289bcac47221ec74aac5cb97097" title="Check direction of normal of an element face for alignment with the X, Y, or Z axis. " alt="" coords="123,5,196,32"/>
+<area shape="rect" id="node3" href="$dssum_8F90.html#a0f12538ccdb70f55f5cd84c1237eb9d4" title="generalization of dssum to other reducers. " alt="" coords="259,56,312,83"/>
+<area shape="rect" id="node6" href="$connect1_8F90.html#a1c96db1fac78d436aaab41482ed01aca" title="Assign the value VAL to face(IFACE,IE) of array A. IFACE is the input in the pre&#45;processor ordering s..." alt="" coords="131,107,187,133"/>
+<area shape="rect" id="node8" href="$navier1_8F90.html#ac796a0447b86c61f9851e9abd09f9e4b" title="opdsop" alt="" coords="125,157,194,184"/>
+<area shape="rect" id="node4" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="375,107,457,133"/>
+<area shape="rect" id="node5" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="505,107,599,133"/>
+<area shape="rect" id="node7" href="$connect1_8F90.html#aa1c9016b4c28e8a8512be6f6d67eefce" title="ifcase in preprocessor notation " alt="" coords="255,107,315,133"/>
+<area shape="rect" id="node9" href="$dssum_8F90.html#ae25c615abe30524ab6ed778fb5b69fb7" title="Direct stiffness summation of the face data, for field U. Boundary condition data corresponds to comp..." alt="" coords="244,157,327,184"/>
+</map>

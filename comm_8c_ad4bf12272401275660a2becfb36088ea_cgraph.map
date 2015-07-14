@@ -1,0 +1,5 @@
+<map id="comm_allreduce" name="comm_allreduce">
+<area shape="rect" id="node2" href="$comm_8c.html#ae9e39c9ae471f5a2723956dfa7cb95e4" title="allreduce_imp" alt="" coords="177,31,287,57"/>
+<area shape="rect" id="node3" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="337,5,431,32"/>
+<area shape="rect" id="node4" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="335,56,433,83"/>
+</map>

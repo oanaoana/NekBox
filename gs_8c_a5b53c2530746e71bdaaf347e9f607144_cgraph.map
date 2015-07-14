@@ -1,0 +1,8 @@
+<map id="dry_run_time" name="dry_run_time">
+<area shape="rect" id="node2" href="$comm_8c.html#ad4bf12272401275660a2becfb36088ea" title="comm_allreduce" alt="" coords="157,31,281,57"/>
+<area shape="rect" id="node6" href="$comm_8h.html#a2f9dfb93828cd0e3316718649ec27cb5" title="comm_barrier" alt="" coords="165,81,273,108"/>
+<area shape="rect" id="node7" href="$comm_8h.html#a9475e74e5f24c4428722059c8261c423" title="comm_time" alt="" coords="173,132,266,159"/>
+<area shape="rect" id="node3" href="$comm_8c.html#ae9e39c9ae471f5a2723956dfa7cb95e4" title="allreduce_imp" alt="" coords="329,31,439,57"/>
+<area shape="rect" id="node4" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="489,5,583,32"/>
+<area shape="rect" id="node5" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="487,56,585,83"/>
+</map>

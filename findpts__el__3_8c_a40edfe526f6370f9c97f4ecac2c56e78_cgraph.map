@@ -1,0 +1,10 @@
+<map id="newton_vol" name="newton_vol">
+<area shape="rect" id="node2" href="$findpts__el__3_8c.html#aba221836cfcda61c89c2f0036a0c924b" title="edge_index" alt="" coords="165,5,261,32"/>
+<area shape="rect" id="node3" href="$findpts__el__3_8c.html#aed02f0a06d189ff25cd1eb50271b6ead" title="face_index" alt="" coords="168,56,259,83"/>
+<area shape="rect" id="node5" href="$findpts__el__3_8c.html#a598095cce4b223db4ae44894913f0ec9" title="lin_solve_3" alt="" coords="167,107,260,133"/>
+<area shape="rect" id="node6" href="$findpts__el__3_8c.html#a95468f294c8ff96f5ba9df04c5c22c3d" title="lin_solve_sym_2" alt="" coords="150,157,277,184"/>
+<area shape="rect" id="node7" href="$findpts__el__3_8c.html#ab1e1697a00c290763fcf744b73cf3b03" title="num_constrained" alt="" coords="148,208,279,235"/>
+<area shape="rect" id="node8" href="$findpts__el__3_8c.html#ae75c629c9c6b00245494c16a42876b71" title="plus_1_mod_3" alt="" coords="156,259,271,285"/>
+<area shape="rect" id="node9" href="$findpts__el__3_8c.html#a0650ddc68d4d42f5c904fe102f6df5fa" title="plus_2_mod_3" alt="" coords="156,309,271,336"/>
+<area shape="rect" id="node4" href="$findpts__el__3_8c.html#adedc72c5a31511f6a6d6df1fcfbd279e" title="which_bit" alt="" coords="327,56,407,83"/>
+</map>

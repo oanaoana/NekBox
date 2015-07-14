@@ -1,0 +1,9 @@
+<map id="findpts_local_data_2" name="findpts_local_data_2">
+<area shape="rect" id="node2" href="$structfindpts__local__hash__data__2.html" title="findpts_local_hash\l_data_2" alt="" coords="5,95,145,136"/>
+<area shape="rect" id="node3" href="$structdbl__range.html" title="dbl_range" alt="" coords="33,5,118,32"/>
+<area shape="rect" id="node4" href="$structobbox__2.html" title="obbox_2" alt="" coords="170,102,245,129"/>
+<area shape="rect" id="node5" href="$structfindpts__el__data__2.html" title="findpts_el_data_2" alt="" coords="289,102,424,129"/>
+<area shape="rect" id="node6" href="$structfindpts__el__gedge__2.html" title="findpts_el_gedge_2" alt="" coords="142,5,289,32"/>
+<area shape="rect" id="node7" href="$structfindpts__el__gpt__2.html" title="findpts_el_gpt_2" alt="" coords="313,5,440,32"/>
+<area shape="rect" id="node8" href="$structfindpts__el__pt__2.html" title="findpts_el_pt_2" alt="" coords="464,5,583,32"/>
+</map>

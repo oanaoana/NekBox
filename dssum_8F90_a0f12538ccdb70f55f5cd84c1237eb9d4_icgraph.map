@@ -1,0 +1,12 @@
+<map id="dsop" name="dsop">
+<area shape="rect" id="node2" href="$bdry_8F90.html#a3dd38c124c25cb2d3f603ecfe2c1b3df" title="Apply Dirichlet boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary ..." alt="" coords="111,5,177,32"/>
+<area shape="rect" id="node9" href="$bdry_8F90.html#aff6088943a1cc02fb036375d9008b4c7" title="Zero out masks corresponding to Dirichlet boundary points. " alt="" coords="109,56,179,83"/>
+<area shape="rect" id="node11" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="107,107,181,133"/>
+<area shape="rect" id="node3" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="233,5,296,32"/>
+<area shape="rect" id="node4" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="348,5,399,32"/>
+<area shape="rect" id="node5" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="447,5,553,32"/>
+<area shape="rect" id="node6" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="601,5,752,32"/>
+<area shape="rect" id="node7" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="800,5,887,32"/>
+<area shape="rect" id="node8" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="935,31,1000,57"/>
+<area shape="rect" id="node10" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="229,56,300,83"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="string::indx1" name="string::indx1">
+<area shape="rect" id="node2" href="$classstring.html#ad39b9aabecc4afbc0b815322e993e6eb" title="string::cscan" alt="" coords="158,917,258,944"/>
+<area shape="rect" id="node5" href="$comm__mpi_8F90.html#a898c3cc227476846bd3216f97a9a8657" title="err_chk" alt="" coords="173,512,243,539"/>
+<area shape="rect" id="node26" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="183,1297,233,1324"/>
+<area shape="rect" id="node35" href="$connect2_8F90.html#a91a147fe67d9a68726d0fdf8b514f294" title="Read Initial Conditions / Drive Force. Broadcast ICFILE to all processors. " alt="" coords="361,1019,418,1045"/>
+<area shape="rect" id="node37" href="$connect2_8F90.html#a530a74e674f77e40a6fe452da105572f" title="Read in parameters supplied by preprocessor and (eventually) echo check. .Broadcast run parameters to..." alt="" coords="352,968,427,995"/>
+<area shape="rect" id="node40" href="$drive2_8F90.html#a29f4f4f29ab462b5dcb910cb6d8a1af1" title="Defines machine specific input and output file names. " alt="" coords="1004,1044,1051,1071"/>
+<area shape="rect" id="node41" href="$classstring.html#a7679c47cd5ea263832feb22dd5a41c82" title="Read IVALUE from LINE and set IFGTIL to .TRUE. if successful, IFGTIL to .FALSE. otherwise. This complicated function is necessary thanks to the Ardent, which won&#39;t allow free formatted reads (*) from internal strings! " alt="" coords="164,1019,252,1045"/>
+<area shape="rect" id="node42" href="$classstring.html#adcf0edc178e1e0699323ed1c85b97187" title="Read VALUE from LINE and set IFGTRL to .TRUE. if successful, IFGTRL to .FALSE. otherwise. This complicated function is necessary thanks to the Ardent, which won&#39;t allow free formatted reads (*) from internal strings! " alt="" coords="163,1525,253,1552"/>
+<area shape="rect" id="node43" href="$ic_8F90.html#a8947b3794015310a5f2962f2c8f1c4cb" title="Set IO flags according to Restart Options File, RSOPTS. " alt="" coords="559,1753,622,1780"/>
+<area shape="rect" id="node44" href="$ic_8F90.html#a06b7034f5e516ccf0207189177967c05" title="Set up logicals for initial conditions. " alt="" coords="786,1829,845,1856"/>
+<area shape="rect" id="node45" href="$classstring.html#ab9c087cc2fb9d2a04e38f1c75fc8e94d" title="INDX_CUT is returned with the location of S2 in S1 (0 if not found) S1 is returned with 1st occurance..." alt="" coords="151,1804,265,1831"/>
+<area shape="rect" id="node47" href="$ic_8F90.html#a68d933fc6454561483fc9fa2bbac444b" title="open blah000.fldnn " alt="" coords="159,157,257,184"/>
+<area shape="rect" id="node49" href="$connect2_8F90.html#a7d2c5b148e4df32ac60d6de7e4b8610c" title="Read Boundary Conditions (and connectivity data). .Disperse boundary condition data to all processors..." alt="" coords="177,867,239,893"/>
+<area shape="rect" id="node50" href="$prepost_8F90.html#ad78dc09010650e7f58be203013c1a0fb" title="Check for Restart option and return proper nfld value. Also, convenient spot to explain restart strat..." alt="" coords="161,56,255,83"/>
+<area shape="rect" id="node3" href="$connect2_8F90.html#a842357ad1d3581135ffacc57139397d2" title="Read in data from preprocessor input file (.rea) " alt="" coords="559,968,622,995"/>
+<area shape="rect" id="node4" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1148,1007,1219,1033"/>
+<area shape="rect" id="node6" href="$singlmesh_8F90.html#a0b340eaa9352e5b5d12ff7d525b30c0a" title="get_session_info" alt="" coords="963,715,1092,741"/>
+<area shape="rect" id="node7" href="$ic_8F90.html#a46a0ff5dd0a6f10aa39215385ba21288" title="mapdmp" alt="" coords="351,1221,427,1248"/>
+<area shape="rect" id="node8" href="$ic_8F90.html#af64028aefb1dff2a9f8a84ff024f44b0" title="driver for restarts (1) Open restart file(s) (2) Check previous spatial discretization (3) Map (K1..." alt="" coords="762,1323,869,1349"/>
+<area shape="rect" id="node10" href="$prepost_8F90.html#a11cc22eaaef2974cda6a66817880cc13" title="mfo_mdatas" alt="" coords="340,411,439,437"/>
+<area shape="rect" id="node11" href="$prepost_8F90.html#a9872fbccba1ed7b2932227287629cf2b" title="mult&#45;file output " alt="" coords="547,259,634,285"/>
+<area shape="rect" id="node12" href="$prepost_8F90.html#a78b0361cf9ff06bfe5020c2114ddc924" title="output .fld file " alt="" coords="787,259,843,285"/>
+<area shape="rect" id="node13" href="$prepost_8F90.html#a4a3b0e4ce35b3381281c0839e5846370" title="Store results for later postprocessing. Recent updates: p65 now indicates the number of parallel i/o ..." alt="" coords="992,157,1063,184"/>
+<area shape="rect" id="node16" href="$prepost_8F90.html#a604e4beb6bdb81fa2e0633e1233bc1fe" title="mfo_mdatav" alt="" coords="340,107,439,133"/>
+<area shape="rect" id="node17" href="$prepost_8F90.html#a719f53cbe469f5bf99a53892de48af29" title="output a scalar field " alt="" coords="350,208,429,235"/>
+<area shape="rect" id="node18" href="$prepost_8F90.html#a3f8a4c9fa971a0386d313d4c79e111f7" title="output a vector field " alt="" coords="350,259,429,285"/>
+<area shape="rect" id="node19" href="$classio.html#a3b8dab7279564c05e092b8194f166d8b" title="Read header and return number of elements and word size. " alt="" coords="313,563,465,589"/>
+<area shape="rect" id="node21" href="$classio.html#a758050a046c3323706e227872dc0bddf" title="Read a scalar field. " alt="" coords="317,613,462,640"/>
+<area shape="rect" id="node22" href="$classio.html#a73b31838c25a62a2d22ccd660b5f26bb" title="Read a vector field. " alt="" coords="316,664,463,691"/>
+<area shape="rect" id="node23" href="$prepost_8F90.html#add41841b0b73cf28554519f93a59c688" title="write hdr, byte key, els. " alt="" coords="333,309,445,336"/>
+<area shape="rect" id="node24" href="$connect2_8F90.html#add840513f6cd7e4b9bb1f669fa3a2fa5" title=".Read history data .Broadcast to all processors " alt="" coords="361,765,418,792"/>
+<area shape="rect" id="node25" href="$connect2_8F90.html#aa74103a17a3ec27306cefb9bd257449e" title="Read objects, Broadcast to all processors. " alt="" coords="363,816,416,843"/>
+<area shape="rect" id="node9" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="998,1297,1057,1324"/>
+<area shape="rect" id="node14" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="1140,183,1227,209"/>
+<area shape="rect" id="node15" href="$prepost_8F90.html#aaf4c0f2e1790302116a4c719c2eb50ff" title="outpost2" alt="" coords="1145,132,1221,159"/>
+<area shape="rect" id="node20" href="$classio.html#a8f8da23cfb175a121cf25557d58d1c98" title="Load initial condition from a previous multi&#45;file output. " alt="" coords="549,613,633,640"/>
+<area shape="rect" id="node27" href="$navier8_8F90.html#a8beadce5e829399452ec13a7ac6b4633" title="assign_gllnid" alt="" coords="337,1373,441,1400"/>
+<area shape="rect" id="node28" href="$fast3d_8F90.html#ab60c76ed10c432bca639d052ca18f115" title="get_fast_bc" alt="" coords="342,1576,437,1603"/>
+<area shape="rect" id="node29" href="$classhsmg__routines.html#a3d85b7d52a610586965a8a3a9e574862" title="hsmg_routines::h1mg\l_setup_mask" alt="" coords="513,1527,668,1569"/>
+<area shape="rect" id="node31" href="$classhsmg__routines.html#aee2a36eea92adb36ec686ee9652216e9" title="not sure " alt="" coords="513,1602,668,1643"/>
+<area shape="rect" id="node33" href="$interp__mod_8F90.html#aef5d48d354e9e03de35748eecb7e42f9" title="Check array limits. " alt="" coords="355,1424,424,1451"/>
+<area shape="rect" id="node34" href="$navier1_8F90.html#a4905d51f51b57bfec184a6b44f858bdb" title="Orthogonalize the residual in the pressure solver with respect to (1,1,...,1)T (only if all Dirichlet..." alt="" coords="788,1272,843,1299"/>
+<area shape="rect" id="node36" href="$connect2_8F90.html#a061023946c9e5de6486814b486b18489" title="Read output specs, broadcast to all processors. " alt="" coords="362,1171,417,1197"/>
+<area shape="rect" id="node38" href="$convect_8F90.html#a9b58d62988f53102b490531b844a1891" title="setup_convect" alt="" coords="534,1373,647,1400"/>
+<area shape="rect" id="node39" href="$genxyz_8F90.html#a87589b3d23bfc65828b0ba8f207b145a" title="setzgml" alt="" coords="354,1475,425,1501"/>
+<area shape="rect" id="node30" href="$classhsmg__routines.html#a10a1b85712e207e590a20ca4221c781d" title="hsmg_routines::mg_set_msk" alt="" coords="716,1535,915,1561"/>
+<area shape="rect" id="node32" href="$classhsmg__routines.html#a58ef718e49a3f4848c3d51307bbccfe0" title="hsmg_routines::h1mg\l_setup_fdm" alt="" coords="738,1602,893,1643"/>
+<area shape="rect" id="node46" href="$classstring.html#a0958ed2be9d8cd448eb924e54212436e" title="split string S1 into two parts, delimited by S2. " alt="" coords="342,1829,437,1856"/>
+<area shape="rect" id="node48" href="$prepost_8F90.html#a3faa39946b56ca71cbb123811e58160d" title="mfo_open_files" alt="" coords="330,5,449,32"/>
+</map>

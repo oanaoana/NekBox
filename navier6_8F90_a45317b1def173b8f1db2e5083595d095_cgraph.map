@@ -1,0 +1,51 @@
+<map id="set_overlap" name="set_overlap">
+<area shape="rect" id="node2" href="$fast3d_8F90.html#a65b70798668bd7b237bc2308bc4daede" title="Generate fast diagonalization matrices for each element. " alt="" coords="159,92,294,119"/>
+<area shape="rect" id="node11" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="149,950,304,992"/>
+<area shape="rect" id="node35" href="$classhsmg__routines.html#ac8f9bca9624d5e550d70acabfa8aef73" title="Sets up hybrid Schwarz multi&#45;grid preconditioner. " alt="" coords="149,506,304,548"/>
+<area shape="rect" id="node43" href="$navier8_8F90.html#a809b9aa647f2046d09131be2f6074ff6" title="? " alt="" coords="169,1456,284,1483"/>
+<area shape="rect" id="node50" href="$fast3d_8F90.html#addd04c0906ff23259d0d42666252029e" title="swap_lengths" alt="" coords="172,194,281,220"/>
+<area shape="rect" id="node3" href="$fast3d_8F90.html#a4de164b9c3a6daa704d34c01e5e0ec22" title="Note that this routine performs the following matrix multiplies after getting the matrices back from ..." alt="" coords="367,42,535,68"/>
+<area shape="rect" id="node6" href="$classspeclib.html#a932ca9ca470532f6bae3ed77ca2e1466" title="Generate NP Gauss Legendre points (Z) and weights (W) associated with Jacobi polynomial P(N)(alpha=0..." alt="" coords="813,118,911,144"/>
+<area shape="rect" id="node8" href="$classspeclib.html#ab649647711dc444ca710b98bf943b0d8" title="speclib::zwgll" alt="" coords="811,30,913,56"/>
+<area shape="rect" id="node10" href="$fast3d_8F90.html#a657bf5a4b87c3e07069aa7bbc7d4ee43" title="Here, spacing is based on harmonic mean. pff 2/10/07. " alt="" coords="400,143,503,170"/>
+<area shape="rect" id="node4" href="$fast3d_8F90.html#a8f29c10a081f6ca77c666190b981496a" title="re&#45;weight jgl and dgl with bgl " alt="" coords="610,42,751,68"/>
+<area shape="rect" id="node5" href="$fast3d_8F90.html#a1ed312943db727bf8a788864dfd14ae3" title="Generate matrices for single element, 1D operators: " alt="" coords="614,143,747,170"/>
+<area shape="rect" id="node7" href="$classspeclib.html#a631f538efe1b48d5b557e06446dcb278" title="speclib::zwgj" alt="" coords="977,118,1075,144"/>
+<area shape="rect" id="node9" href="$classspeclib.html#a7f8bbfa94e61b0b498a78f57a3b2d46d" title="speclib::zwglj" alt="" coords="975,30,1077,56"/>
+<area shape="rect" id="node12" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="403,1082,500,1108"/>
+<area shape="rect" id="node23" href="$classhsmg__routines.html#aeb6dad89b6407e7e2a570a4030b80329" title="hsmg_routines::h1mg\l_setup_mg_nx" alt="" coords="374,885,529,926"/>
+<area shape="rect" id="node24" href="$classhsmg__routines.html#abc50809cf4aae995f61fd0c4ebc44c70" title="SEM hat matrices for each level. " alt="" coords="374,950,529,992"/>
+<area shape="rect" id="node26" href="$classhsmg__routines.html#aedec57d10932b660a84cc498059bb1fe" title="hsmg_routines::hsmg\l_setup_intp" alt="" coords="374,637,529,678"/>
+<area shape="rect" id="node28" href="$classhsmg__routines.html#ae77d2725d2058f12595e58c677dca8f2" title="hsmg_routines::h1mg\l_setup_dssum" alt="" coords="374,1198,529,1240"/>
+<area shape="rect" id="node30" href="$classhsmg__routines.html#a4814c3115aa7273c8ca6fcd57544af17" title="hsmg_routines::h1mg\l_setup_wtmask" alt="" coords="374,1016,529,1057"/>
+<area shape="rect" id="node31" href="$classhsmg__routines.html#a58ef718e49a3f4848c3d51307bbccfe0" title="hsmg_routines::h1mg\l_setup_fdm" alt="" coords="374,1133,529,1174"/>
+<area shape="rect" id="node32" href="$classhsmg__routines.html#adca849fb5d33cee442c5ac183cffca88" title="hsmg_routines::h1mg\l_setup_schwarz_wt" alt="" coords="374,1264,529,1305"/>
+<area shape="rect" id="node33" href="$classhsmg__routines.html#a3fab587edf14b0022fde82b050cd6c9b" title="hsmg_routines::hsmg\l_setup_solve" alt="" coords="374,768,529,809"/>
+<area shape="rect" id="node34" href="$classhsmg__routines.html#a10a1b85712e207e590a20ca4221c781d" title="hsmg_routines::mg_set_msk" alt="" coords="352,834,551,860"/>
+<area shape="rect" id="node13" href="$coef_8F90.html#ac5d2ac0efba4a530fab5387321307d01" title="Routine to generate all elemental geometric data for mesh 1. Velocity formulation : global&#45;to&#45;local m..." alt="" coords="648,1031,713,1058"/>
+<area shape="rect" id="node14" href="$coef_8F90.html#aa1888ed007f00d368349e09888f324ca" title="Routine to generate all elemental geometric data for mesh 2 (Gauss&#45;Legendre mesh). RXM2, RYM2, RZM2 &#45; dr/dx, dr/dy, dr/dz SXM2, SYM2, SZM2 &#45; ds/dx, ds/dy, ds/dz TXM2, TYM2, TZM2 &#45; dt/dx, dt/dy, dt/dz JACM2 &#45; Jacobian BM2 &#45; Mass matrix. " alt="" coords="648,1132,713,1159"/>
+<area shape="rect" id="node15" href="$genxyz_8F90.html#afa4985f57fa5d325c688c82f27af67b3" title="Set up deformed element logical switches. " alt="" coords="650,1183,711,1210"/>
+<area shape="rect" id="node16" href="$coef_8F90.html#a8f030ba29c08d869ce58476a91a06723" title="Invert the mass matrix. 1) Copy BM1 to BINVM1 2) Perform direct stiffness summation on BINVM1 3) Comp..." alt="" coords="645,1082,716,1108"/>
+<area shape="rect" id="node20" href="$hmholtz_8F90.html#aa5b9b0e9c89d1c385f220cafe15fe31b" title="For undeformed elements, set up appropriate elemental matrices and geometric factors for fast evaluat..." alt="" coords="647,1234,714,1260"/>
+<area shape="rect" id="node21" href="$subs1_8F90.html#aa57451cc7f331b193194eadc074dbbba" title="updmsys" alt="" coords="642,930,719,956"/>
+<area shape="rect" id="node22" href="$coef_8F90.html#a9f5bcc9bbca02379fdf1aa0aa77845cf" title="Compute the volume based on mesh M1 and mesh M2. " alt="" coords="647,980,714,1007"/>
+<area shape="rect" id="node17" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="836,1082,888,1108"/>
+<area shape="rect" id="node18" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="831,1031,893,1058"/>
+<area shape="rect" id="node19" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="961,1206,1091,1232"/>
+<area shape="rect" id="node25" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="638,640,723,667"/>
+<area shape="rect" id="node27" href="$classhsmg__routines.html#aedd59f6b56dfd52a36956d01a5cff82b" title="hsmg_routines::hsmg\l_setup_intpm" alt="" coords="603,692,758,733"/>
+<area shape="rect" id="node29" href="$navier8_8F90.html#a3126acd6d2b7a3e63f6f0329d5bae424" title="get_vert" alt="" coords="643,1284,718,1311"/>
+<area shape="rect" id="node36" href="$classhsmg__routines.html#a6166089245e027295fd816bd14a890b3" title="initialize index sets " alt="" coords="374,310,529,352"/>
+<area shape="rect" id="node37" href="$classhsmg__routines.html#ab96182beedfc35e480481ef634f4199f" title="hsmg_routines::hsmg\l_setup_mg_nx" alt="" coords="374,376,529,417"/>
+<area shape="rect" id="node38" href="$classhsmg__routines.html#a4a764754ca94ae800fbced43543c8b58" title="hsmg_routines::hsmg\l_setup_semhat" alt="" coords="374,572,529,613"/>
+<area shape="rect" id="node39" href="$classhsmg__routines.html#ac8ad367a9256351c66da876bb6c8d936" title="hsmg_routines::hsmg\l_setup_dssum" alt="" coords="374,702,529,744"/>
+<area shape="rect" id="node40" href="$classhsmg__routines.html#ab6ca71e235e4e1d2d7b5e0a782706b92" title="hsmg_routines::hsmg\l_setup_wtmask" alt="" coords="374,441,529,482"/>
+<area shape="rect" id="node41" href="$classhsmg__routines.html#a96f7ef907486d4f298d8ac372aeddf5e" title="hsmg_routines::hsmg\l_setup_fdm" alt="" coords="374,506,529,548"/>
+<area shape="rect" id="node42" href="$classhsmg__routines.html#ab039b61096238d0ba36bcbe03a2ad1eb" title="hsmg_routines::hsmg\l_setup_schwarz_wt" alt="" coords="374,245,529,286"/>
+<area shape="rect" id="node44" href="$navier8_8F90.html#a3c68a6cfc47f9c2602ab5029cae20ac8" title="get_vertex" alt="" coords="407,1330,496,1356"/>
+<area shape="rect" id="node45" href="$navier8_8F90.html#a51b2c2d951e069b7ffa9a395b2def117" title="Given global array, vertex, pointing to hex vertices, set up a new array of global pointers for an nx..." alt="" coords="415,1482,488,1508"/>
+<area shape="rect" id="node46" href="$connect1_8F90.html#a1c96db1fac78d436aaab41482ed01aca" title="Assign the value VAL to face(IFACE,IE) of array A. IFACE is the input in the pre&#45;processor ordering s..." alt="" coords="423,1532,479,1559"/>
+<area shape="rect" id="node47" href="$navier8_8F90.html#af3415ba89435a722d569fd62b444255e" title="set_jl_crs_mask" alt="" coords="390,1583,513,1610"/>
+<area shape="rect" id="node48" href="$navier8_8F90.html#aaeec4769efda346366e7e561aa844c88" title="This routine generates Nelv submatrices of order ncl using Galerkin projection. " alt="" coords="599,1431,763,1458"/>
+<area shape="rect" id="node49" href="$navier8_8F90.html#ad2c33128de1c346b8ab975efc32f9e72" title="set_mat_ij" alt="" coords="408,1634,495,1660"/>
+</map>

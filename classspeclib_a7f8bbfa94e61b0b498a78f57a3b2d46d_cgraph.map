@@ -1,0 +1,20 @@
+<map id="speclib::zwglj" name="speclib::zwglj">
+<area shape="rect" id="node2" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="509,157,557,184"/>
+<area shape="rect" id="node12" href="$classspeclib.html#ae2c64cf28960c6e471641deed404e86e" title="speclib::zwgljd" alt="" coords="156,268,267,295"/>
+<area shape="rect" id="node3" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="639,107,768,133"/>
+<area shape="rect" id="node5" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="668,157,739,184"/>
+<area shape="rect" id="node6" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="650,208,757,235"/>
+<area shape="rect" id="node7" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="655,259,751,285"/>
+<area shape="rect" id="node8" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="662,5,745,32"/>
+<area shape="rect" id="node10" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="662,56,745,83"/>
+<area shape="rect" id="node4" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="825,107,913,133"/>
+<area shape="rect" id="node9" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="816,5,923,32"/>
+<area shape="rect" id="node11" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="823,56,916,83"/>
+<area shape="rect" id="node13" href="$classspeclib.html#a70378dbc00d8034b969f6b8143a9f79b" title="speclib::zwgjd" alt="" coords="318,303,425,329"/>
+<area shape="rect" id="node16" href="$classspeclib.html#af7eaf2eb0994474cab3a5582bbf02903" title="speclib::jacobf" alt="" coords="649,309,757,336"/>
+<area shape="rect" id="node18" href="$classspeclib.html#a535035f7b05db7324fa207643849cc2e" title="speclib::endw1" alt="" coords="315,391,428,417"/>
+<area shape="rect" id="node19" href="$classspeclib.html#ac41843ee02e494a1a479da4d307c2db1" title="speclib::endw2" alt="" coords="315,517,428,544"/>
+<area shape="rect" id="node14" href="$classspeclib.html#a92a5edfebc973315d00bf6634c853040" title="speclib::gammaf" alt="" coords="643,461,764,488"/>
+<area shape="rect" id="node15" href="$classspeclib.html#a6e4006c61e176baff378ff31472b6634" title="speclib::jacg" alt="" coords="485,335,582,361"/>
+<area shape="rect" id="node17" href="$classspeclib.html#aca23f78205002060fe2e03c1f9e2adbc" title="speclib::pnormj" alt="" coords="476,385,591,412"/>
+</map>

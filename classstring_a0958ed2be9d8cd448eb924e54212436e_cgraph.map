@@ -1,0 +1,6 @@
+<map id="string::csplit" name="string::csplit">
+<area shape="rect" id="node2" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="178,5,233,32"/>
+<area shape="rect" id="node3" href="$classstring.html#ab9c087cc2fb9d2a04e38f1c75fc8e94d" title="INDX_CUT is returned with the location of S2 in S1 (0 if not found) S1 is returned with 1st occurance..." alt="" coords="148,56,263,83"/>
+<area shape="rect" id="node5" href="$classstring.html#abe4a5cca341d81b7b61695821bcbd913" title="shift string from IPT to the left INPUT : &quot;abcde...... &#160;&#160;&#160;test &#160;&#160;&#160;&quot; OUTPUT: &quot;e...... &#160;&#160;&#160;test &#160;&#160;&#160;&#160;&#160;&#160;&#160;&quot; if ipt.eq.5 " alt="" coords="161,107,250,133"/>
+<area shape="rect" id="node4" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="311,56,408,83"/>
+</map>

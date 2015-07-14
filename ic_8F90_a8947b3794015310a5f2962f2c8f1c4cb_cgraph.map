@@ -1,0 +1,12 @@
+<map id="sioflag" name="sioflag">
+<area shape="rect" id="node2" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="291,35,346,61"/>
+<area shape="rect" id="node3" href="$classstring.html#ab234b94aa03c5e163fee20a591cd845e" title="Capitalizes string of length n. " alt="" coords="118,35,211,61"/>
+<area shape="rect" id="node4" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="131,85,198,112"/>
+<area shape="rect" id="node5" href="$classstring.html#a0958ed2be9d8cd448eb924e54212436e" title="split string S1 into two parts, delimited by S2. " alt="" coords="117,136,212,163"/>
+<area shape="rect" id="node6" href="$classstring.html#ab9c087cc2fb9d2a04e38f1c75fc8e94d" title="INDX_CUT is returned with the location of S2 in S1 (0 if not found) S1 is returned with 1st occurance..." alt="" coords="261,187,376,213"/>
+<area shape="rect" id="node7" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="424,237,521,264"/>
+<area shape="rect" id="node9" href="$classstring.html#adcf0edc178e1e0699323ed1c85b97187" title="Read VALUE from LINE and set IFGTRL to .TRUE. if successful, IFGTRL to .FALSE. otherwise. This complicated function is necessary thanks to the Ardent, which won&#39;t allow free formatted reads (*) from internal strings! " alt="" coords="119,288,210,315"/>
+<area shape="rect" id="node10" href="$classstring.html#adb36d16763e75aa5052e0d731a63ad14" title="left justify string " alt="" coords="275,339,362,365"/>
+<area shape="rect" id="node11" href="$classstring.html#a788cdffdfd5841a6e4117c4b8e80da77" title="string::ltrunc" alt="" coords="116,389,213,416"/>
+<area shape="rect" id="node8" href="$classstring.html#abe4a5cca341d81b7b61695821bcbd913" title="shift string from IPT to the left INPUT : &quot;abcde...... &#160;&#160;&#160;test &#160;&#160;&#160;&quot; OUTPUT: &quot;e...... &#160;&#160;&#160;test &#160;&#160;&#160;&#160;&#160;&#160;&#160;&quot; if ipt.eq.5 " alt="" coords="274,136,363,163"/>
+</map>

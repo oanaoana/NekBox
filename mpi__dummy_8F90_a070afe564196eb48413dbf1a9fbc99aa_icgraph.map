@@ -1,0 +1,51 @@
+<map id="mpi_barrier" name="mpi_barrier">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="147,1225,229,1252"/>
+<area shape="rect" id="node3" href="$classctimer.html#aa60dccc79bd980a4b422bd58d48e0a1b" title="ctimer::dnekclock_sync" alt="" coords="480,309,647,336"/>
+<area shape="rect" id="node6" href="$prepost_8F90.html#a78b0361cf9ff06bfe5020c2114ddc924" title="output .fld file " alt="" coords="891,208,947,235"/>
+<area shape="rect" id="node7" href="$dssum_8F90.html#a0f12538ccdb70f55f5cd84c1237eb9d4" title="generalization of dssum to other reducers. " alt="" coords="537,1069,590,1096"/>
+<area shape="rect" id="node11" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="323,791,386,817"/>
+<area shape="rect" id="node19" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="727,968,785,995"/>
+<area shape="rect" id="node22" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="865,1589,972,1616"/>
+<area shape="rect" id="node29" href="$comm__mpi_8F90.html#a95f7432d962a41c5fe0063d0ef3da3d6" title="exitt" alt="" coords="331,1044,379,1071"/>
+<area shape="rect" id="node30" href="$navier8_8F90.html#a7b711f52527072521e8670492a58ed16" title="get_vert_map" alt="" coords="509,1525,618,1552"/>
+<area shape="rect" id="node31" href="$comm__mpi_8F90.html#a3f652605d55796462e959d17b5a9612b" title="Global vector commutative operation. " alt="" coords="540,1272,587,1299"/>
+<area shape="rect" id="node32" href="$prepost_8F90.html#a719f53cbe469f5bf99a53892de48af29" title="output a scalar field " alt="" coords="524,208,603,235"/>
+<area shape="rect" id="node33" href="$prepost_8F90.html#a3f8a4c9fa971a0386d313d4c79e111f7" title="output a vector field " alt="" coords="524,157,603,184"/>
+<area shape="rect" id="node34" href="$classio.html#a758050a046c3323706e227872dc0bddf" title="Read a scalar field. " alt="" coords="491,1608,636,1635"/>
+<area shape="rect" id="node35" href="$classio.html#a73b31838c25a62a2d22ccd660b5f26bb" title="Read a vector field. " alt="" coords="490,1675,637,1701"/>
+<area shape="rect" id="node36" href="$connect2_8F90.html#a842357ad1d3581135ffacc57139397d2" title="Read in data from preprocessor input file (.rea) " alt="" coords="532,1475,595,1501"/>
+<area shape="rect" id="node37" href="$classhsmg__routines.html#adb1f241321c99f913f53fefefee82c09" title="hsmg_routines::hsmg\l_coarse_solve" alt="" coords="277,1247,432,1289"/>
+<area shape="rect" id="node38" href="$classhsmg__routines.html#aa152a2f16a6d84bdc3abd3dc97812c3a" title="hsmg_routines::hsmg\l_dsprod" alt="" coords="277,1313,432,1354"/>
+<area shape="rect" id="node39" href="$classhsmg__routines.html#a88e7156da5cd6d7172d353620e4b9778" title="hsmg_routines::hsmg\l_dssum" alt="" coords="277,1378,432,1419"/>
+<area shape="rect" id="node40" href="$classhsmg__routines.html#aa16d0aaf949c4b90ef80aca11415af87" title="hsmg_routines::hsmg\l_schwarz_dssum" alt="" coords="277,1443,432,1485"/>
+<area shape="rect" id="node41" href="$classpoisson.html#ace48c9eb09141b029fd923de91c5cbbc" title="one&#45;time setup of communication infrastructure for poisson_mod " alt="" coords="285,1509,425,1550"/>
+<area shape="rect" id="node42" href="$classpoisson.html#a90f49ac199784d3bf15825d4dff8a5e5" title="poisson::init_mesh\l_to_grid" alt="" coords="286,1574,423,1615"/>
+<area shape="rect" id="node43" href="$prepost_8F90.html#a11cc22eaaef2974cda6a66817880cc13" title="mfo_mdatas" alt="" coords="305,5,404,32"/>
+<area shape="rect" id="node44" href="$prepost_8F90.html#a604e4beb6bdb81fa2e0633e1233bc1fe" title="mfo_mdatav" alt="" coords="305,56,404,83"/>
+<area shape="rect" id="node45" href="$classio.html#a3b8dab7279564c05e092b8194f166d8b" title="Read header and return number of elements and word size. " alt="" coords="279,1741,431,1768"/>
+<area shape="rect" id="node46" href="$prepost_8F90.html#add41841b0b73cf28554519f93a59c688" title="write hdr, byte key, els. " alt="" coords="299,107,411,133"/>
+<area shape="rect" id="node47" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="311,1843,398,1869"/>
+<area shape="rect" id="node48" href="$drive2_8F90.html#a584c9fb49aa78285ef4b39ab8bb9014c" title="pretty&#45;print from runstat " alt="" coords="315,1893,395,1920"/>
+<area shape="rect" id="node49" href="$dssum_8F90.html#ae25c615abe30524ab6ed778fb5b69fb7" title="Direct stiffness summation of the face data, for field U. Boundary condition data corresponds to comp..." alt="" coords="313,1944,396,1971"/>
+<area shape="rect" id="node50" href="$dssum_8F90.html#aab5cbea45cf919be4147d3f722cd56c3" title="Direct stiffness summation of the face data, for field U. " alt="" coords="309,1995,401,2021"/>
+<area shape="rect" id="node4" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="883,1019,954,1045"/>
+<area shape="rect" id="node5" href="$prepost_8F90.html#a9872fbccba1ed7b2932227287629cf2b" title="mult&#45;file output " alt="" coords="713,157,799,184"/>
+<area shape="rect" id="node8" href="$bdry_8F90.html#a3dd38c124c25cb2d3f603ecfe2c1b3df" title="Apply Dirichlet boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary ..." alt="" coords="723,1069,789,1096"/>
+<area shape="rect" id="node9" href="$bdry_8F90.html#aff6088943a1cc02fb036375d9008b4c7" title="Zero out masks corresponding to Dirichlet boundary points. " alt="" coords="721,1019,791,1045"/>
+<area shape="rect" id="node10" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="719,1120,793,1147"/>
+<area shape="rect" id="node12" href="$gmres_8F90.html#abb09784e907975584f1a8f4dbf282a79" title="w = A*x for pressure iteration " alt="" coords="544,512,583,539"/>
+<area shape="rect" id="node13" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="729,613,783,640"/>
+<area shape="rect" id="node14" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="883,613,954,640"/>
+<area shape="rect" id="node15" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="1020,537,1149,564"/>
+<area shape="rect" id="node16" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="1197,411,1255,437"/>
+<area shape="rect" id="node17" href="$navier1_8F90.html#ad18040c3ef81864093bb259cf9e52017" title="Compute the pressure tolerance. " alt="" coords="1053,411,1116,437"/>
+<area shape="rect" id="node18" href="$ic_8F90.html#a12fbcc70f37b3490eeda7dfb002dcc7d" title="Take direct stiffness avg of u. " alt="" coords="533,867,593,893"/>
+<area shape="rect" id="node20" href="$eigsolv_8F90.html#a40aa959fb07551b7b3fe2e5bd7ed6fda" title="Compute maximum eigenvalue of the discrete Helmholtz operator. " alt="" coords="520,664,607,691"/>
+<area shape="rect" id="node21" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="715,1385,797,1412"/>
+<area shape="rect" id="node23" href="$classhelmholtz.html#a9609e49232b58a6deb40ed82508c0a45" title="Update the k&#45;th row/column of H_red. " alt="" coords="695,1221,817,1248"/>
+<area shape="rect" id="node24" href="$makeq_8F90.html#ad52d9adde8f010af2d0a8c1a55543eeb" title="Generate forcing function for the solution of a passive scalar. !! NOTE: Do not change the content of..." alt="" coords="531,765,595,792"/>
+<area shape="rect" id="node25" href="$classhelmholtz.html#a52002b3abc9e261d205cb96d49918f05" title="Project out the part of the residual in the approx space. " alt="" coords="696,1272,816,1299"/>
+<area shape="rect" id="node26" href="$coef_8F90.html#a8f030ba29c08d869ce58476a91a06723" title="Invert the mass matrix. 1) Copy BM1 to BINVM1 2) Perform direct stiffness summation on BINVM1 3) Comp..." alt="" coords="528,1373,599,1400"/>
+<area shape="rect" id="node27" href="$hmholtz_8F90.html#ae883228509f56e1f673660daca7a909b" title="Generate diagonal preconditioner for the Helmholtz operator. " alt="" coords="529,613,598,640"/>
+<area shape="rect" id="node28" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="710,867,802,893"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="nek_advance" name="nek_advance">
+<area shape="rect" id="node2" href="$drive2_8F90.html#ab79ec3c35ce2079b236a435feee313c2" title="No need to comment !! " alt="" coords="709,45,788,72"/>
+<area shape="rect" id="node5" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="202,527,249,553"/>
+<area shape="rect" id="node13" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="886,893,969,920"/>
+<area shape="rect" id="node15" href="$drive2_8F90.html#a7f0d055bb47546a4859ac7d63339197e" title="Compute eigenvalues. " alt="" coords="193,957,258,984"/>
+<area shape="rect" id="node18" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="357,856,439,883"/>
+<area shape="rect" id="node27" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="200,375,251,401"/>
+<area shape="rect" id="node30" href="$navier5_8F90.html#a519066c177fc94530849e83d3b9d4cfb" title="filter vx,vy,vz, and p by simple interpolation " alt="" coords="193,1185,258,1212"/>
+<area shape="rect" id="node39" href="$setprop_8F90.html#af114fff998975a6e77422a65106222ca" title="Set variable property arrays. " alt="" coords="190,121,261,148"/>
+<area shape="rect" id="node41" href="$subs1_8F90.html#aede23f2856c88d81d4315ea73f0177e8" title="Set ifsolv = .FALSE. " alt="" coords="192,1236,259,1263"/>
+<area shape="rect" id="node42" href="$drive2_8F90.html#a6f905c80a0a2b0d5ed7f0449eda3e127" title="setup time&#45;stepping " alt="" coords="192,1489,259,1516"/>
+<area shape="rect" id="node47" href="$convect_8F90.html#a9b58d62988f53102b490531b844a1891" title="setup_convect" alt="" coords="169,223,282,249"/>
+<area shape="rect" id="node50" href="$singlmesh_8F90.html#a0960e928ef8c9884daa9faa261b9ebb8" title="Dummy for singlmesh. " alt="" coords="160,1540,291,1567"/>
+<area shape="rect" id="node3" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="863,349,992,376"/>
+<area shape="rect" id="node4" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1043,349,1131,376"/>
+<area shape="rect" id="node6" href="$subs1_8F90.html#a8f2e17fa9df4e1df865aa17b294f867c" title="Norm calculation. " alt="" coords="367,375,429,401"/>
+<area shape="rect" id="node9" href="$ssolv_8F90.html#a2042097d2d5ef6c25e65f059e2c56756" title="Set tolerances for velocity solver. " alt="" coords="367,476,429,503"/>
+<area shape="rect" id="node10" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="369,577,427,604"/>
+<area shape="rect" id="node7" href="$navier1_8F90.html#a99a692f0ae41114b4725a9cf62458f1f" title="Compute error norms of a (vector) field variable (X1,X2,X3) " alt="" coords="715,375,783,401"/>
+<area shape="rect" id="node8" href="$navier1_8F90.html#af8f288bd13e9077cfadcd76c95c59dc5" title="Compute error norms of a (scalar) field variable X defined on mesh 1 or mesh 2. The error norms are n..." alt="" coords="715,324,783,351"/>
+<area shape="rect" id="node11" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="505,527,635,553"/>
+<area shape="rect" id="node12" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="717,653,780,680"/>
+<area shape="rect" id="node14" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="1040,893,1133,920"/>
+<area shape="rect" id="node16" href="$eigsolv_8F90.html#a91ddf7cb5ca6b19d1c736da5bf7386b3" title="Compute the following eigenvalues:. EIGAA = minimum eigenvalue of the matrix A (=Laplacian) EIGAE = m..." alt="" coords="366,957,430,984"/>
+<area shape="rect" id="node17" href="$eigsolv_8F90.html#a1db10d40f8df1de37de90fbff50443f6" title="Estimate eigenvalues. " alt="" coords="368,1008,428,1035"/>
+<area shape="rect" id="node19" href="$coef_8F90.html#ab55eaf97834e39b3a1f2db649b2582a8" title="Lag the mass matrix (matrices) " alt="" coords="533,1033,607,1060"/>
+<area shape="rect" id="node20" href="$genxyz_8F90.html#ac052be67f860f3e498c6200cba496ce6" title="Generate xyz coordinates for all elements. Velocity formulation : mesh 3 is used Stress formulation :..." alt="" coords="533,1084,607,1111"/>
+<area shape="rect" id="node21" href="$coef_8F90.html#ac5d2ac0efba4a530fab5387321307d01" title="Routine to generate all elemental geometric data for mesh 1. Velocity formulation : global&#45;to&#45;local m..." alt="" coords="537,729,603,756"/>
+<area shape="rect" id="node22" href="$coef_8F90.html#aa1888ed007f00d368349e09888f324ca" title="Routine to generate all elemental geometric data for mesh 2 (Gauss&#45;Legendre mesh). RXM2, RYM2, RZM2 &#45; dr/dx, dr/dy, dr/dz SXM2, SYM2, SZM2 &#45; ds/dx, ds/dy, ds/dz TXM2, TYM2, TZM2 &#45; dt/dx, dt/dy, dt/dz JACM2 &#45; Jacobian BM2 &#45; Mass matrix. " alt="" coords="537,780,603,807"/>
+<area shape="rect" id="node23" href="$coef_8F90.html#a9f5bcc9bbca02379fdf1aa0aa77845cf" title="Compute the volume based on mesh M1 and mesh M2. " alt="" coords="537,831,603,857"/>
+<area shape="rect" id="node24" href="$coef_8F90.html#a8f030ba29c08d869ce58476a91a06723" title="Invert the mass matrix. 1) Copy BM1 to BINVM1 2) Perform direct stiffness summation on BINVM1 3) Comp..." alt="" coords="535,932,605,959"/>
+<area shape="rect" id="node25" href="$genxyz_8F90.html#afa4985f57fa5d325c688c82f27af67b3" title="Set up deformed element logical switches. " alt="" coords="539,881,601,908"/>
+<area shape="rect" id="node26" href="$hmholtz_8F90.html#aa5b9b0e9c89d1c385f220cafe15fe31b" title="For undeformed elements, set up appropriate elemental matrices and geometric factors for fast evaluat..." alt="" coords="537,983,603,1009"/>
+<area shape="rect" id="node28" href="$ssolv_8F90.html#a46706a53a1b0d4e826ad1a0722616bed" title="Set tolerances for temerature/passive scalar solver. " alt="" coords="368,324,428,351"/>
+<area shape="rect" id="node29" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="367,425,429,452"/>
+<area shape="rect" id="node31" href="$navier5_8F90.html#a672cdc948324721df77f08e248963192" title="This routing builds a 1D filter with a transfer function that looks like: ^ d_k | | | 1 |__________ v..." alt="" coords="339,1312,457,1339"/>
+<area shape="rect" id="node32" href="$math_8F90.html#a8a2ffe21627ed404094a75d5f5fcf82c" title="Construct A = I_n (identity matrix) " alt="" coords="543,1287,597,1313"/>
+<area shape="rect" id="node33" href="$mxm__wrapper_8F90.html#ab9ec2260a10061af6ce1c52f3c8a41da" title="Compute matrix&#45;matrix product C = A*B. " alt="" coords="545,1363,595,1389"/>
+<area shape="rect" id="node34" href="$classspeclib.html#ab649647711dc444ca710b98bf943b0d8" title="speclib::zwgll" alt="" coords="347,1059,449,1085"/>
+<area shape="rect" id="node35" href="$classspeclib.html#aed07c4b34f0a5d8d08371e2956670608" title="speclib::igllm" alt="" coords="349,1109,447,1136"/>
+<area shape="rect" id="node36" href="$classspeclib.html#a932ca9ca470532f6bae3ed77ca2e1466" title="Generate NP Gauss Legendre points (Z) and weights (W) associated with Jacobi polynomial P(N)(alpha=0..." alt="" coords="349,1160,447,1187"/>
+<area shape="rect" id="node37" href="$classspeclib.html#aa95b32dcea592513d6ad3922873f369d" title="speclib::iglm" alt="" coords="350,1211,446,1237"/>
+<area shape="rect" id="node38" href="$navier5_8F90.html#aca88e3dda3f95f9b212d6e0bfa2b4543" title="filterq" alt="" coords="369,1413,427,1440"/>
+<area shape="rect" id="node40" href="$subs1_8F90.html#a895c417a4106672b662bf2fb96b26f06" title="Set material properties Material type: 0 for default (PARAM and PCOND/PRHOCP) 1 for constant props; 2..." alt="" coords="365,71,431,97"/>
+<area shape="rect" id="node43" href="$subs1_8F90.html#a156860172f4c95a65ff7fb5b447d472e" title="Set the new time step. All cases covered. " alt="" coords="371,1464,425,1491"/>
+<area shape="rect" id="node44" href="$navier1_8F90.html#a89c75c05d50853b69faee420ccfa6c71" title="Set up parameters for backward differentiation scheme. " alt="" coords="359,1515,437,1541"/>
+<area shape="rect" id="node45" href="$navier1_8F90.html#a9fd820e79a347554aa280e9956f8797b" title="Compute backwards&#45;difference (BDF) coefficients, order NBD. " alt="" coords="370,1565,426,1592"/>
+<area shape="rect" id="node46" href="$navier1_8F90.html#aa71f20507ee0dc93df08d95490287fca" title="Compute Adams&#45;Bashforth coefficients (order NAB, less or equal to 3). NBD .EQ. 1 Standard Adams&#45;Bashf..." alt="" coords="363,1616,433,1643"/>
+<area shape="rect" id="node48" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="373,172,423,199"/>
+<area shape="rect" id="node49" href="$convect_8F90.html#a768d72f963bbcaf77ab9725ad7847c72" title="Put vxd,vyd,vzd into rst form on fine mesh For rst form, see eq. (4.8.5) in Deville, Fischer, Mund (2002). " alt="" coords="683,223,815,249"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lobatto_nodes" name="lobatto_nodes">
+<area shape="rect" id="node2" href="$poly_8c.html#af8181537ece5c4b11f1f9457718e2ba4" title="lobatto_nodes_fix" alt="" coords="164,5,297,32"/>
+<area shape="rect" id="node3" href="$poly_8c.html#ae27c4d73cd9e441073dd67d2c8dcc112" title="lobatto_nodes_n" alt="" coords="167,56,294,83"/>
+<area shape="rect" id="node4" href="$poly_8c.html#aae6f8c006085fce0bc34322d7caa65dc" title="lobatto_nodes_aux" alt="" coords="345,56,487,83"/>
+<area shape="rect" id="node5" href="$poly_8c.html#a0432fba41a3bc3494adcd475b085d1d7" title="legendre_d1" alt="" coords="535,31,637,57"/>
+<area shape="rect" id="node6" href="$poly_8c.html#a5785d447dd0f2d2f247bb586f2c05130" title="legendre_d2" alt="" coords="535,81,637,108"/>
+</map>

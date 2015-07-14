@@ -1,0 +1,4 @@
+<map id="allreduce_imp" name="allreduce_imp">
+<area shape="rect" id="node2" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="165,5,259,32"/>
+<area shape="rect" id="node3" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="163,56,261,83"/>
+</map>

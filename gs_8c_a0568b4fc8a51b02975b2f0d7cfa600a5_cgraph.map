@@ -1,0 +1,12 @@
+<map id="cr_setup_aux" name="cr_setup_aux">
+<area shape="rect" id="node2" href="$gs_8c.html#a64ee086705df1aa7451b2a634a99d4f4" title="cr_learn" alt="" coords="173,157,248,184"/>
+<area shape="rect" id="node10" href="$gs_8c.html#ae81e15e60aa3385b2d7b6ae3b00a1e25" title="cr_schedule" alt="" coords="161,208,260,235"/>
+<area shape="rect" id="node11" href="$gs_8c.html#af5e7058c7c5662fdd53b7733e7f8630a" title="crl_work_init" alt="" coords="160,259,261,285"/>
+<area shape="rect" id="node3" href="$comm_8h.html#ae47a830e94605168f00226fd25cd578a" title="comm_irecv" alt="" coords="317,5,414,32"/>
+<area shape="rect" id="node4" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="315,56,416,83"/>
+<area shape="rect" id="node5" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="319,107,411,133"/>
+<area shape="rect" id="node6" href="$gs_8c.html#a662fe6bcd8a41472fa52c55b42e7ec0f" title="crl_bi_to_si" alt="" coords="319,157,412,184"/>
+<area shape="rect" id="node7" href="$gs_8c.html#aca3191ac6bccb1c6a991e96845e933dd" title="crl_maps" alt="" coords="469,259,548,285"/>
+<area shape="rect" id="node8" href="$gs_8c.html#a5d2a5529b5fa9cda0e7d4b66706736e2" title="crl_ri_to_bi" alt="" coords="320,259,411,285"/>
+<area shape="rect" id="node9" href="$gs_8c.html#ad6e56cff749f6558ea60cf1d2bed2ffa" title="crl_work_label" alt="" coords="309,309,421,336"/>
+</map>

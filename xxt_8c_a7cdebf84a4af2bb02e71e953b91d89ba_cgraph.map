@@ -1,0 +1,8 @@
+<map id="discover_sep_ids" name="discover_sep_ids">
+<area shape="rect" id="node2" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="197,5,292,32"/>
+<area shape="rect" id="node3" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="195,56,294,83"/>
+<area shape="rect" id="node4" href="$xxt_8c.html#abbbbc76a4298edade6d9d872ba7acae0" title="find_perm_x2c" alt="" coords="187,107,302,133"/>
+<area shape="rect" id="node5" href="$xxt_8c.html#ac55359a395468233fd55a76094165c6c" title="init_sep_ids" alt="" coords="196,157,293,184"/>
+<area shape="rect" id="node6" href="$xxt_8c.html#a6b77f7a2e2b827bd9db0ab38f3629d3e" title="merge_sep_ids" alt="" coords="185,208,304,235"/>
+<area shape="rect" id="node7" href="$xxt_8c.html#ad31080e36cc77af6407240d9f8035269" title="unique_nonzero" alt="" coords="352,208,475,235"/>
+</map>

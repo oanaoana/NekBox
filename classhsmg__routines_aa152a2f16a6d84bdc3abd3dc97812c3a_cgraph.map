@@ -1,0 +1,4 @@
+<map id="hsmg_routines::hsmg_dsprod" name="hsmg_routines::hsmg_dsprod">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="208,13,291,39"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="339,13,432,39"/>
+</map>

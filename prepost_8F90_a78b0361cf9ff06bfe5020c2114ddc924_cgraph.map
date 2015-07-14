@@ -1,0 +1,46 @@
+<map id="outfld" name="outfld">
+<area shape="rect" id="node2" href="$comm__mpi_8F90.html#ae425c1deb2e82d2007c97e1c4be990c8" title="bcast" alt="" coords="302,180,357,207"/>
+<area shape="rect" id="node4" href="$math_8F90.html#a692155d1d2ec380a9fdb2d81ef221625" title="blank a string " alt="" coords="663,484,717,511"/>
+<area shape="rect" id="node5" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="657,276,723,303"/>
+<area shape="rect" id="node6" href="$comm__mpi_8F90.html#a243c9bed2592e7cd159fb36be4fda037" title="crecv" alt="" coords="473,839,529,866"/>
+<area shape="rect" id="node15" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="845,966,927,992"/>
+<area shape="rect" id="node18" href="$comm__mpi_8F90.html#abd95004b45059acdcc13614c52e60eae" title="csend" alt="" coords="471,788,531,815"/>
+<area shape="rect" id="node20" href="$comm__mpi_8F90.html#a898c3cc227476846bd3216f97a9a8657" title="err_chk" alt="" coords="465,535,536,562"/>
+<area shape="rect" id="node22" href="$classparallel.html#a9a8fe6b8e5cb33426f1ebc5d75ae256f" title="parallel::gllel" alt="" coords="113,1346,212,1372"/>
+<area shape="rect" id="node24" href="$classparallel.html#a07e279fd1cc6f4e9189bcaad37a0d3b6" title="parallel::gllnid" alt="" coords="109,1396,216,1423"/>
+<area shape="rect" id="node25" href="$prepost_8F90.html#ad9a82de080272c6836842a7b47d589e7" title="i_find_prefix" alt="" coords="113,1295,212,1322"/>
+<area shape="rect" id="node26" href="$classstring.html#a788cdffdfd5841a6e4117c4b8e80da77" title="string::ltrunc" alt="" coords="641,92,739,119"/>
+<area shape="rect" id="node27" href="$prepost_8F90.html#a9872fbccba1ed7b2932227287629cf2b" title="mult&#45;file output " alt="" coords="119,712,206,739"/>
+<area shape="rect" id="node45" href="$math_8F90.html#ad5c06bb433c914d43789589612326167" title="Yields MOD(I,N) with the exception that if I=K*N, result is N. " alt="" coords="134,1447,191,1474"/>
+<area shape="rect" id="node3" href="$mpi__dummy_8F90.html#ae0bd4baaea848988f45664ce0de33350" title="mpi_bcast" alt="" coords="458,28,543,55"/>
+<area shape="rect" id="node7" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="666,1194,714,1220"/>
+<area shape="rect" id="node17" href="$mpi__dummy_8F90.html#a709ef20e522dddac7afb17999141cfd4" title="mpi_recv" alt="" coords="651,839,729,866"/>
+<area shape="rect" id="node8" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="821,1219,951,1246"/>
+<area shape="rect" id="node10" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="851,1270,921,1296"/>
+<area shape="rect" id="node11" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="833,1067,939,1094"/>
+<area shape="rect" id="node12" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="838,1168,934,1195"/>
+<area shape="rect" id="node13" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="845,1118,927,1144"/>
+<area shape="rect" id="node9" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1008,1270,1096,1296"/>
+<area shape="rect" id="node14" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="999,1118,1105,1144"/>
+<area shape="rect" id="node16" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="1005,966,1099,992"/>
+<area shape="rect" id="node19" href="$mpi__dummy_8F90.html#af98c20c7332635506f852083f7ee504a" title="mpi_send" alt="" coords="649,788,731,815"/>
+<area shape="rect" id="node21" href="$classstring.html#ac6aad97d698bcdbf5c11ffa52d947ad8" title="string::indx1" alt="" coords="641,219,739,246"/>
+<area shape="rect" id="node23" href="$classmesh.html#a383626b86a123c489b00681fcb13d503" title="mesh::ieg_to_xyz" alt="" coords="264,1396,395,1423"/>
+<area shape="rect" id="node28" href="$byte__mpi_8F90.html#ad3bd4b2e53becc49947fba3e0738f789" title="byte_close_mpi" alt="" coords="270,687,389,714"/>
+<area shape="rect" id="node29" href="$byte__mpi_8F90.html#ad62e65c087d45367b00222a7b05890eb" title="byte_set_view" alt="" coords="445,1194,556,1220"/>
+<area shape="rect" id="node30" href="$classctimer.html#aa60dccc79bd980a4b422bd58d48e0a1b" title="ctimer::dnekclock_sync" alt="" coords="607,1295,773,1322"/>
+<area shape="rect" id="node31" href="$prepost_8F90.html#a11cc22eaaef2974cda6a66817880cc13" title="mfo_mdatas" alt="" coords="280,586,379,612"/>
+<area shape="rect" id="node33" href="$prepost_8F90.html#a604e4beb6bdb81fa2e0633e1233bc1fe" title="mfo_mdatav" alt="" coords="280,738,379,764"/>
+<area shape="rect" id="node34" href="$prepost_8F90.html#a3faa39946b56ca71cbb123811e58160d" title="mfo_open_files" alt="" coords="270,231,389,258"/>
+<area shape="rect" id="node38" href="$prepost_8F90.html#a719f53cbe469f5bf99a53892de48af29" title="output a scalar field " alt="" coords="290,890,369,916"/>
+<area shape="rect" id="node41" href="$prepost_8F90.html#a3f8a4c9fa971a0386d313d4c79e111f7" title="output a vector field " alt="" coords="290,966,369,992"/>
+<area shape="rect" id="node42" href="$prepost_8F90.html#add41841b0b73cf28554519f93a59c688" title="write hdr, byte key, els. " alt="" coords="273,636,385,663"/>
+<area shape="rect" id="node32" href="$byte__mpi_8F90.html#a7243a5d153454c75d56636681519a0bb" title="byte_write_mpi" alt="" coords="443,484,559,511"/>
+<area shape="rect" id="node35" href="$ic_8F90.html#a68d933fc6454561483fc9fa2bbac444b" title="open blah000.fldnn " alt="" coords="451,180,550,207"/>
+<area shape="rect" id="node37" href="$prepost_8F90.html#ad78dc09010650e7f58be203013c1a0fb" title="Check for Restart option and return proper nfld value. Also, convenient spot to explain restart strat..." alt="" coords="453,130,548,156"/>
+<area shape="rect" id="node36" href="$byte__mpi_8F90.html#a709c5eb7eaa2afa254a0e8bd62915bfb" title="byte_open_mpi" alt="" coords="631,168,749,195"/>
+<area shape="rect" id="node39" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="475,991,527,1018"/>
+<area shape="rect" id="node40" href="$prepost_8F90.html#a91be720c5e5090ee2c5641ca594c2a92" title="copyx4" alt="" coords="467,1042,534,1068"/>
+<area shape="rect" id="node43" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="451,687,550,714"/>
+<area shape="rect" id="node44" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="625,687,755,714"/>
+</map>

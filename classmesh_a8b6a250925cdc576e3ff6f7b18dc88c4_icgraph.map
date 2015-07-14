@@ -1,0 +1,51 @@
+<map id="mesh::xyz_to_ieg" name="mesh::xyz_to_ieg">
+<area shape="rect" id="node2" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="184,613,283,640"/>
+<area shape="rect" id="node3" href="$bdry_8F90.html#a8988b35c52124e8bd28cae74f255e98d" title="Apply Neumann boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary co..." alt="" coords="370,56,443,83"/>
+<area shape="rect" id="node8" href="$coef_8F90.html#a4e59f8cc10a4a398a357e3527e44b8e5" title="Check the array JAC for a change in sign. " alt="" coords="375,107,438,133"/>
+<area shape="rect" id="node11" href="$conduct_8F90.html#acb64f74e02714984eec1179c3293fbcc" title="Generate user&#45;specified volumetric source term (temp./p.s.) " alt="" coords="377,157,437,184"/>
+<area shape="rect" id="node14" href="$connect1_8F90.html#a7e7fe242629fbe522f2dba66076aeaaa" title="Verify right&#45;handedness of given elements. 8 Mar 1989 21:58:26 PFF. " alt="" coords="375,309,438,336"/>
+<area shape="rect" id="node19" href="$connect2_8F90.html#ad7c0c899841c497a8ce9e9c20a734c11" title="Generate local mesh elements. " alt="" coords="367,360,447,387"/>
+<area shape="rect" id="node21" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="1021,431,1095,457"/>
+<area shape="rect" id="node22" href="$fast3d_8F90.html#ab60c76ed10c432bca639d052ca18f115" title="get_fast_bc" alt="" coords="359,613,454,640"/>
+<area shape="rect" id="node27" href="$ic_8F90.html#a5b4e9125206f5ed1b277fdea8756ac22" title="User specified fortran function (=0 if not specified) " alt="" coords="581,481,643,508"/>
+<area shape="rect" id="node29" href="$classio.html#a3b8dab7279564c05e092b8194f166d8b" title="Read header and return number of elements and word size. " alt="" coords="331,563,483,589"/>
+<area shape="rect" id="node31" href="$map2_8F90.html#a0a8afb6d7507567621f35bbc8ba36e2c" title="mapelpr" alt="" coords="370,411,443,437"/>
+<area shape="rect" id="node32" href="$navier1_8F90.html#acfa4c928e27d1e43ed8622586e4ed7e8" title="nekuf" alt="" coords="379,664,435,691"/>
+<area shape="rect" id="node34" href="$navier8_8F90.html#a7b711f52527072521e8670492a58ed16" title="get_vert_map" alt="" coords="557,259,667,285"/>
+<area shape="rect" id="node36" href="$navier8_8F90.html#a928aff746415692c89ffdfbaf08fd98d" title="setup unique ids for dssum. note: total number of unique vertices, edges and faces has to be smaller ..." alt="" coords="366,715,447,741"/>
+<area shape="rect" id="node38" href="$classparallel.html#a4ec9d2a0bf252d26709cff49bdf4b277" title="parallel::init_gllnid" alt="" coords="340,208,473,235"/>
+<area shape="rect" id="node39" href="$classparallel.html#aed4347148744645440c4790b279cacb2" title="parallel::my_ieg" alt="" coords="347,765,466,792"/>
+<area shape="rect" id="node40" href="$classpoisson.html#a1ab874c434e5694003e378739fb98c65" title="poisson::spectral_solve" alt="" coords="1176,1013,1344,1040"/>
+<area shape="rect" id="node42" href="$classpoisson.html#a90f49ac199784d3bf15825d4dff8a5e5" title="poisson::init_mesh\l_to_grid" alt="" coords="338,918,475,959"/>
+<area shape="rect" id="node43" href="$classpoisson.html#ac42cd347ca63e3394556370be60d7360" title="poisson::mesh_to_grid" alt="" coords="531,984,693,1011"/>
+<area shape="rect" id="node44" href="$classpoisson.html#a54094b5009a26b94189d1f7dc4e3010d" title="poisson::shuffle_test" alt="" coords="766,1085,915,1112"/>
+<area shape="rect" id="node46" href="$classpoisson.html#af15535fb56b2a956fc12fd7887ad6ef0" title="poisson::transpose_test" alt="" coords="755,933,926,960"/>
+<area shape="rect" id="node47" href="$classpoisson.html#a557b9bfb94e35c8716319d8d8145cacc" title="poisson::cos_test" alt="" coords="775,1035,906,1061"/>
+<area shape="rect" id="node48" href="$classpoisson.html#a5146b4e21e3dc2027ebeec50a7545e71" title="poisson::grid_to_mesh" alt="" coords="531,1085,693,1112"/>
+<area shape="rect" id="node49" href="$prepost_8F90.html#add41841b0b73cf28554519f93a59c688" title="write hdr, byte key, els. " alt="" coords="351,1187,463,1213"/>
+<area shape="rect" id="node4" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="1027,31,1089,57"/>
+<area shape="rect" id="node6" href="$navier1_8F90.html#a08e5b36029e39242bd7344bd10ed472c" title="compute weak form of the laplacian operator including the boundary contribution " alt="" coords="568,5,656,32"/>
+<area shape="rect" id="node5" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="1235,31,1285,57"/>
+<area shape="rect" id="node7" href="$makeq_8F90.html#ad52d9adde8f010af2d0a8c1a55543eeb" title="Generate forcing function for the solution of a passive scalar. !! NOTE: Do not change the content of..." alt="" coords="809,5,873,32"/>
+<area shape="rect" id="node9" href="$coef_8F90.html#ad01cc61ba84d488e68ca9e259c592465" title="Routine to generate mapping data based on mesh 1 (Gauss&#45;Legendre Lobatto meshes). ..." alt="" coords="573,107,651,133"/>
+<area shape="rect" id="node10" href="$coef_8F90.html#ac5d2ac0efba4a530fab5387321307d01" title="Routine to generate all elemental geometric data for mesh 1. Velocity formulation : global&#45;to&#45;local m..." alt="" coords="808,107,873,133"/>
+<area shape="rect" id="node12" href="$conduct_8F90.html#af0e288fad495f966ca997a13837ba9f0" title="Set user specified volumetric forcing function (e.g. heat source). " alt="" coords="579,157,645,184"/>
+<area shape="rect" id="node13" href="$conduct_8F90.html#aa167d71e770cd729d61c955a42f4a2bd" title="Fill up user defined forcing function and collocate will the mass matrix on the Gauss&#45;Lobatto mesh..." alt="" coords="805,157,876,184"/>
+<area shape="rect" id="node15" href="$connect1_8F90.html#ad2fa64ec84d1358545061390d925ff77" title="Verify right&#45;handedness of elements. .Verify element&#45;to&#45;element reciprocity of BC&#39;s ..." alt="" coords="813,309,869,336"/>
+<area shape="rect" id="node16" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="1012,309,1104,336"/>
+<area shape="rect" id="node17" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1225,405,1295,432"/>
+<area shape="rect" id="node18" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="1437,405,1502,432"/>
+<area shape="rect" id="node20" href="$connect2_8F90.html#a842357ad1d3581135ffacc57139397d2" title="Read in data from preprocessor input file (.rea) " alt="" coords="581,380,643,407"/>
+<area shape="rect" id="node23" href="$classhsmg__routines.html#a3d85b7d52a610586965a8a3a9e574862" title="hsmg_routines::h1mg\l_setup_mask" alt="" coords="535,649,689,690"/>
+<area shape="rect" id="node25" href="$classhsmg__routines.html#aee2a36eea92adb36ec686ee9652216e9" title="not sure " alt="" coords="535,583,689,625"/>
+<area shape="rect" id="node24" href="$classhsmg__routines.html#a10a1b85712e207e590a20ca4221c781d" title="hsmg_routines::mg_set_msk" alt="" coords="741,656,940,683"/>
+<area shape="rect" id="node26" href="$classhsmg__routines.html#a58ef718e49a3f4848c3d51307bbccfe0" title="hsmg_routines::h1mg\l_setup_fdm" alt="" coords="763,583,918,625"/>
+<area shape="rect" id="node28" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="811,481,870,508"/>
+<area shape="rect" id="node30" href="$classio.html#a8f8da23cfb175a121cf25557d58d1c98" title="Load initial condition from a previous multi&#45;file output. " alt="" coords="570,532,654,559"/>
+<area shape="rect" id="node33" href="$navier1_8F90.html#a04edbb4ba3cfada4513a76a4e65a5561" title="Compute and add: (1) user specified forcing function (FX,FY,FZ) " alt="" coords="579,715,645,741"/>
+<area shape="rect" id="node35" href="$navier8_8F90.html#a3126acd6d2b7a3e63f6f0329d5bae424" title="get_vert" alt="" coords="803,259,878,285"/>
+<area shape="rect" id="node37" href="$navier8_8F90.html#a51b2c2d951e069b7ffa9a395b2def117" title="Given global array, vertex, pointing to hex vertices, set up a new array of global pointers for an nx..." alt="" coords="575,765,649,792"/>
+<area shape="rect" id="node41" href="$classhsmg__routines.html#adb1f241321c99f913f53fefefee82c09" title="hsmg_routines::hsmg\l_coarse_solve" alt="" coords="1392,1006,1547,1047"/>
+<area shape="rect" id="node45" href="$classpoisson.html#ace48c9eb09141b029fd923de91c5cbbc" title="one&#45;time setup of communication infrastructure for poisson_mod " alt="" coords="988,1035,1128,1077"/>
+<area shape="rect" id="node50" href="$prepost_8F90.html#a9872fbccba1ed7b2932227287629cf2b" title="mult&#45;file output " alt="" coords="569,1187,655,1213"/>
+</map>

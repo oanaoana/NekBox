@@ -1,0 +1,28 @@
+<map id="hsmg_routines::hsmg_setup_semhat" name="hsmg_routines::hsmg_setup_semhat">
+<area shape="rect" id="node2" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="249,81,301,108"/>
+<area shape="rect" id="node3" href="$fast3d_8F90.html#a1ed312943db727bf8a788864dfd14ae3" title="Generate matrices for single element, 1D operators: " alt="" coords="208,132,341,159"/>
+<area shape="rect" id="node27" href="$navier1_8F90.html#a17c0ecae12cc5c6096939885da90ad2b" title="transpose" alt="" coords="232,183,317,209"/>
+<area shape="rect" id="node4" href="$fast3d_8F90.html#ad007f6eca12b1b9307f46e56bcc40a59" title="This routine evaluates the derivative based on all points in the stencils. It is more memory efficien..." alt="" coords="389,81,504,108"/>
+<area shape="rect" id="node5" href="$classspeclib.html#a932ca9ca470532f6bae3ed77ca2e1466" title="Generate NP Gauss Legendre points (Z) and weights (W) associated with Jacobi polynomial P(N)(alpha=0..." alt="" coords="397,183,496,209"/>
+<area shape="rect" id="node22" href="$classspeclib.html#ab649647711dc444ca710b98bf943b0d8" title="speclib::zwgll" alt="" coords="395,132,498,159"/>
+<area shape="rect" id="node6" href="$classspeclib.html#a631f538efe1b48d5b557e06446dcb278" title="speclib::zwgj" alt="" coords="709,183,807,209"/>
+<area shape="rect" id="node7" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="1056,157,1104,184"/>
+<area shape="rect" id="node17" href="$classspeclib.html#a70378dbc00d8034b969f6b8143a9f79b" title="speclib::zwgjd" alt="" coords="865,309,971,336"/>
+<area shape="rect" id="node8" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="1185,208,1315,235"/>
+<area shape="rect" id="node10" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="1215,259,1285,285"/>
+<area shape="rect" id="node11" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="1197,5,1303,32"/>
+<area shape="rect" id="node12" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="1202,56,1298,83"/>
+<area shape="rect" id="node13" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="1209,107,1291,133"/>
+<area shape="rect" id="node15" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="1209,157,1291,184"/>
+<area shape="rect" id="node9" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1372,208,1460,235"/>
+<area shape="rect" id="node14" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="1363,107,1469,133"/>
+<area shape="rect" id="node16" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="1369,157,1463,184"/>
+<area shape="rect" id="node18" href="$classspeclib.html#a92a5edfebc973315d00bf6634c853040" title="speclib::gammaf" alt="" coords="1189,487,1311,513"/>
+<area shape="rect" id="node19" href="$classspeclib.html#a6e4006c61e176baff378ff31472b6634" title="speclib::jacg" alt="" coords="1031,360,1129,387"/>
+<area shape="rect" id="node20" href="$classspeclib.html#af7eaf2eb0994474cab3a5582bbf02903" title="speclib::jacobf" alt="" coords="1196,309,1304,336"/>
+<area shape="rect" id="node21" href="$classspeclib.html#aca23f78205002060fe2e03c1f9e2adbc" title="speclib::pnormj" alt="" coords="1023,411,1137,437"/>
+<area shape="rect" id="node23" href="$classspeclib.html#a7f8bbfa94e61b0b498a78f57a3b2d46d" title="speclib::zwglj" alt="" coords="552,132,655,159"/>
+<area shape="rect" id="node24" href="$classspeclib.html#ae2c64cf28960c6e471641deed404e86e" title="speclib::zwgljd" alt="" coords="703,284,813,311"/>
+<area shape="rect" id="node25" href="$classspeclib.html#a535035f7b05db7324fa207643849cc2e" title="speclib::endw1" alt="" coords="861,397,975,424"/>
+<area shape="rect" id="node26" href="$classspeclib.html#ac41843ee02e494a1a479da4d307c2db1" title="speclib::endw2" alt="" coords="861,524,975,551"/>
+</map>

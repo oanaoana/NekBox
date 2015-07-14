@@ -1,0 +1,51 @@
+<map id="cdscal" name="cdscal">
+<area shape="rect" id="node2" href="$hmholtz_8F90.html#aa576b5bd623cce50fd6323db12ba5376" title="Compute the (Helmholtz) matrix&#45;vector product, AU = helm1*[A]u + helm2*[B]u, for NEL elements..." alt="" coords="822,765,889,792"/>
+<area shape="rect" id="node3" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="1087,791,1217,817"/>
+<area shape="rect" id="node15" href="$bdry_8F90.html#a3dd38c124c25cb2d3f603ecfe2c1b3df" title="Apply Dirichlet boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary ..." alt="" coords="676,563,743,589"/>
+<area shape="rect" id="node20" href="$bdry_8F90.html#a8988b35c52124e8bd28cae74f255e98d" title="Apply Neumann boundary conditions to surface of scalar, S. Use IFIELD as a guide to which boundary co..." alt="" coords="819,107,892,133"/>
+<area shape="rect" id="node24" href="$subs1_8F90.html#a4a7a49f2b10c08dee56798c23dbfbe5a" title="Check convergence for non&#45;linear passisve scalar solver. Relevant for solving heat transport problems..." alt="" coords="145,537,216,564"/>
+<area shape="rect" id="node28" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="116,1095,245,1121"/>
+<area shape="rect" id="node43" href="$conduct_8F90.html#acb622305abc4fe92c813db8b4f298459" title="Keep old passive scalar field(s) " alt="" coords="147,1461,214,1488"/>
+<area shape="rect" id="node44" href="$makeq_8F90.html#ad52d9adde8f010af2d0a8c1a55543eeb" title="Generate forcing function for the solution of a passive scalar. !! NOTE: Do not change the content of..." alt="" coords="499,385,563,412"/>
+<area shape="rect" id="node50" href="$subs1_8F90.html#ae2376b70f309c6118b4e43df9cbe66b1" title="Set the variable property arrays H1 and H2 in the Helmholtz equation. (associated with variable IFIEL..." alt="" coords="149,1323,212,1349"/>
+<area shape="rect" id="node5" href="$hmholtz_8F90.html#a0f322d39d4bdffa3f9ba901f72d4a1d0" title="Set logicals for fast evaluation of A*x. " alt="" coords="957,816,1021,843"/>
+<area shape="rect" id="node6" href="$mxm__wrapper_8F90.html#ab9ec2260a10061af6ce1c52f3c8a41da" title="Compute matrix&#45;matrix product C = A*B. " alt="" coords="964,1424,1015,1451"/>
+<area shape="rect" id="node4" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="1265,791,1353,817"/>
+<area shape="rect" id="node7" href="$mxm__bgq_8F90.html#a8faaef428336095704ece51624bbfe92" title="mxm_bgq_8" alt="" coords="1103,1551,1201,1577"/>
+<area shape="rect" id="node8" href="$mxm__bgq_8F90.html#a27529ace9834454b8906f29e02718629" title="mxm_bgq_12" alt="" coords="1099,1601,1205,1628"/>
+<area shape="rect" id="node9" href="$mxm__bgq_8F90.html#a3fda9ea4bc7a5713a19d6939fa2b541f" title="mxm_bgq_16" alt="" coords="1099,1247,1205,1273"/>
+<area shape="rect" id="node10" href="$mxm__bgq_8F90.html#a8a70163b4dbfdbfcce7bff170597fcad" title="mxm_bgq_10" alt="" coords="1099,1297,1205,1324"/>
+<area shape="rect" id="node11" href="$mxm__bgq_8F90.html#af192c3c8b982aa5bbc2a757156718a91" title="mxm_bgq_6" alt="" coords="1103,1348,1201,1375"/>
+<area shape="rect" id="node12" href="$mxm__std_8F90.html#af07f4b22fdc3488ca321736743f14b01" title="mxm44_2" alt="" coords="1111,1399,1193,1425"/>
+<area shape="rect" id="node13" href="$mxm__std_8F90.html#ac63fe7516a18dc57dfe913ad2c1453be" title="mxm44_0" alt="" coords="1268,1475,1351,1501"/>
+<area shape="rect" id="node14" href="$mxm__std_8F90.html#aa9e8685c4a72f18fb5d1ee88ed17a3d6" title="unrolled loop version " alt="" coords="1121,1500,1183,1527"/>
+<area shape="rect" id="node16" href="$dssum_8F90.html#a0f12538ccdb70f55f5cd84c1237eb9d4" title="generalization of dssum to other reducers. " alt="" coords="829,664,882,691"/>
+<area shape="rect" id="node18" href="$connect1_8F90.html#a1c96db1fac78d436aaab41482ed01aca" title="Assign the value VAL to face(IFACE,IE) of array A. IFACE is the input in the pre&#45;processor ordering s..." alt="" coords="827,208,883,235"/>
+<area shape="rect" id="node17" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="948,1069,1031,1096"/>
+<area shape="rect" id="node19" href="$connect1_8F90.html#aa1c9016b4c28e8a8512be6f6d67eefce" title="ifcase in preprocessor notation " alt="" coords="959,208,1019,235"/>
+<area shape="rect" id="node21" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="940,5,1039,32"/>
+<area shape="rect" id="node23" href="$bdry_8F90.html#a2426a0c5d510c19b0aa48112922383c3" title="Assign NEKTON variables for definition (by user) of boundary conditions at collocation point (IX..." alt="" coords="951,56,1027,83"/>
+<area shape="rect" id="node22" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="1087,5,1217,32"/>
+<area shape="rect" id="node25" href="$subs1_8F90.html#a8f2e17fa9df4e1df865aa17b294f867c" title="Norm calculation. " alt="" coords="500,537,561,564"/>
+<area shape="rect" id="node26" href="$navier1_8F90.html#a99a692f0ae41114b4725a9cf62458f1f" title="Compute error norms of a (vector) field variable (X1,X2,X3) " alt="" coords="821,512,889,539"/>
+<area shape="rect" id="node27" href="$navier1_8F90.html#af8f288bd13e9077cfadcd76c95c59dc5" title="Compute error norms of a (scalar) field variable X defined on mesh 1 or mesh 2. The error norms are n..." alt="" coords="675,613,743,640"/>
+<area shape="rect" id="node29" href="$classstring.html#ab234b94aa03c5e163fee20a591cd845e" title="Capitalizes string of length n. " alt="" coords="307,1171,400,1197"/>
+<area shape="rect" id="node30" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="676,1069,743,1096"/>
+<area shape="rect" id="node31" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="495,993,566,1020"/>
+<area shape="rect" id="node32" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="824,1069,887,1096"/>
+<area shape="rect" id="node37" href="$classhelmholtz.html#a52002b3abc9e261d205cb96d49918f05" title="Project out the part of the residual in the approx space. " alt="" coords="293,1221,413,1248"/>
+<area shape="rect" id="node41" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="463,892,598,919"/>
+<area shape="rect" id="node42" href="$classhelmholtz.html#a5077d115c2aaad42d80aaa089651bb25" title="Reconstruct the solution to the original problem by adding back the approximate solution, add solution to approximation space. " alt="" coords="467,1424,594,1451"/>
+<area shape="rect" id="node33" href="$hmholtz_8F90.html#a1d25ae22b38fb86936fcd9c68dab702f" title="Check that the tolerances are not too small for the CG&#45;solver. Important when calling the CG&#45;solver (..." alt="" coords="674,867,745,893"/>
+<area shape="rect" id="node34" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="683,917,736,944"/>
+<area shape="rect" id="node35" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="963,1475,1015,1501"/>
+<area shape="rect" id="node36" href="$comm__mpi_8F90.html#a3f652605d55796462e959d17b5a9612b" title="Global vector commutative operation. " alt="" coords="832,1221,879,1248"/>
+<area shape="rect" id="node38" href="$classhelmholtz.html#a3e09d3a986ea4fbbadab98d300bf9371" title="Recompute H_red if dt has changed. " alt="" coords="461,1221,600,1248"/>
+<area shape="rect" id="node40" href="$math_8F90.html#a587bbc0d515f4908e972e57fee9bdace" title="Perform inner&#45;product in double precision. " alt="" coords="503,1323,558,1349"/>
+<area shape="rect" id="node39" href="$classhelmholtz.html#a9609e49232b58a6deb40ed82508c0a45" title="Update the k&#45;th row/column of H_red. " alt="" coords="648,1221,771,1248"/>
+<area shape="rect" id="node45" href="$makeq__aux_8F90.html#a5175a1919b169361f171b8909a169863" title="makeq_aux" alt="" coords="662,309,757,336"/>
+<area shape="rect" id="node46" href="$conduct_8F90.html#af2b8d8c53a101a9edd117d1a78a08069" title="Eulerian scheme, add convection term to forcing function at current time step. " alt="" coords="676,360,743,387"/>
+<area shape="rect" id="node47" href="$navier1_8F90.html#a08e5b36029e39242bd7344bd10ed472c" title="compute weak form of the laplacian operator including the boundary contribution " alt="" coords="665,461,753,488"/>
+<area shape="rect" id="node48" href="$conduct_8F90.html#af506b06fb9a4d5ca07bf3dfc1d162a7b" title="Sum up contributions to 3rd order Adams&#45;Bashforth scheme. " alt="" coords="670,411,749,437"/>
+<area shape="rect" id="node49" href="$conduct_8F90.html#aefef2e26961c961631b6a731ae6c5052" title="Add contributions to F from lagged BD terms. " alt="" coords="670,259,749,285"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rand_fld_h1" name="rand_fld_h1">
+<area shape="rect" id="node2" href="$ic_8F90.html#a12fbcc70f37b3490eeda7dfb002dcc7d" title="Take direct stiffness avg of u. " alt="" coords="152,31,212,57"/>
+<area shape="rect" id="node3" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="260,31,323,57"/>
+<area shape="rect" id="node4" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="371,5,500,32"/>
+<area shape="rect" id="node6" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="394,56,477,83"/>
+<area shape="rect" id="node5" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="551,5,639,32"/>
+<area shape="rect" id="node7" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="548,56,641,83"/>
+</map>

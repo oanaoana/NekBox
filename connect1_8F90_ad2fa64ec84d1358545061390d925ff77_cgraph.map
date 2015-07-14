@@ -1,0 +1,23 @@
+<map id="verify" name="verify">
+<area shape="rect" id="node2" href="$connect1_8F90.html#a7e7fe242629fbe522f2dba66076aeaaa" title="Verify right&#45;handedness of given elements. 8 Mar 1989 21:58:26 PFF. " alt="" coords="109,120,172,147"/>
+<area shape="rect" id="node3" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="220,69,319,96"/>
+<area shape="rect" id="node5" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="576,107,624,133"/>
+<area shape="rect" id="node15" href="$math_8F90.html#ac055b7944cdc827520b7cc61d0d2edd6" title="If ANY LA=LB, then ALL LA=LB. " alt="" coords="243,183,295,209"/>
+<area shape="rect" id="node4" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="367,69,497,96"/>
+<area shape="rect" id="node6" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="743,208,872,235"/>
+<area shape="rect" id="node8" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="772,5,843,32"/>
+<area shape="rect" id="node9" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="754,56,861,83"/>
+<area shape="rect" id="node10" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="759,107,855,133"/>
+<area shape="rect" id="node11" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="766,157,849,184"/>
+<area shape="rect" id="node13" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="766,259,849,285"/>
+<area shape="rect" id="node7" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="969,208,1057,235"/>
+<area shape="rect" id="node12" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="960,157,1067,184"/>
+<area shape="rect" id="node14" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="967,259,1060,285"/>
+<area shape="rect" id="node16" href="$comm__mpi_8F90.html#a3f652605d55796462e959d17b5a9612b" title="Global vector commutative operation. " alt="" coords="409,196,455,223"/>
+<area shape="rect" id="node17" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="574,157,626,184"/>
+<area shape="rect" id="node18" href="$mpi__dummy_8F90.html#acd9229b5fb6a4d16f9917a5b5c2f0909" title="mpi_allreduce" alt="" coords="545,360,655,387"/>
+<area shape="rect" id="node19" href="$mpi__dummy_8F90.html#a64285f5ce9bed08bfd13bc27264db185" title="mpi_reduce_double_precision" alt="" coords="703,309,912,336"/>
+<area shape="rect" id="node20" href="$mpi__dummy_8F90.html#aa549a352c5ab9ce53b8dfd222da38fa6" title="mpi_reduce_integer" alt="" coords="734,360,881,387"/>
+<area shape="rect" id="node21" href="$mpi__dummy_8F90.html#abbddc050d7faafb34959984f69652e0a" title="mpi_reduce_integer8" alt="" coords="730,411,885,437"/>
+<area shape="rect" id="node22" href="$mpi__dummy_8F90.html#a47f146895b36dc21100a1c42d343762c" title="mpi_reduce_real" alt="" coords="744,461,871,488"/>
+</map>

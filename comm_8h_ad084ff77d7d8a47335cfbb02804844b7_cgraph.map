@@ -1,0 +1,7 @@
+<map id="comm_init_check_" name="comm_init_check_">
+<area shape="rect" id="node2" href="$comm_8h.html#af89752ef1ebb5f0fc77baed5bfb92c45" title="comm_init" alt="" coords="192,5,277,32"/>
+<area shape="rect" id="node3" href="$fail_8c.html#a9e0caa24596d5da82c0d6e25260e2ef0" title="fail" alt="" coords="215,56,255,83"/>
+<area shape="rect" id="node4" href="$fail_8c.html#a016d8836ade99456457a913955d1dc3b" title="vfail" alt="" coords="325,56,372,83"/>
+<area shape="rect" id="node5" href="$fail_8c.html#a92d8c60ba2ef526cc6aca428bc8770ce" title="vdiagnostic" alt="" coords="420,31,513,57"/>
+<area shape="rect" id="node6" href="$fail_8c.html#a6a96bcb04cc5efcd64cbeed06a292419" title="die" alt="" coords="446,81,487,108"/>
+</map>

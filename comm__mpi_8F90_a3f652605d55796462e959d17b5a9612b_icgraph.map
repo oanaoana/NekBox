@@ -1,0 +1,47 @@
+<map id="gop" name="gop">
+<area shape="rect" id="node2" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="313,87,367,114"/>
+<area shape="rect" id="node14" href="$math_8F90.html#a620542faffe239d5d4c8dac1356075b1" title="glamax" alt="" coords="128,37,195,63"/>
+<area shape="rect" id="node15" href="$math_8F90.html#ac055b7944cdc827520b7cc61d0d2edd6" title="If ANY LA=LB, then ALL LA=LB. " alt="" coords="824,543,876,570"/>
+<area shape="rect" id="node21" href="$math_8F90.html#a2ae7758acef4b66358f4eec152433197" title="glmax" alt="" coords="495,602,554,629"/>
+<area shape="rect" id="node24" href="$math_8F90.html#ab46d81a4d2e51b187850d73fada6fb75" title="glmin" alt="" coords="134,189,189,215"/>
+<area shape="rect" id="node25" href="$math_8F90.html#a587bbc0d515f4908e972e57fee9bdace" title="Perform inner&#45;product in double precision. " alt="" coords="313,290,367,317"/>
+<area shape="rect" id="node26" href="$classhelmholtz.html#a52002b3abc9e261d205cb96d49918f05" title="Project out the part of the residual in the approx space. " alt="" coords="465,239,585,266"/>
+<area shape="rect" id="node27" href="$math_8F90.html#ab4c838732ea3bde3cc41875436c2a205" title="Perform inner&#45;product x*x*y*z. " alt="" coords="130,341,193,367"/>
+<area shape="rect" id="node28" href="$math_8F90.html#af5f9f85cd8180d774722564779342d5e" title="Perform inner&#45;product in double precision. " alt="" coords="134,391,189,418"/>
+<area shape="rect" id="node29" href="$math_8F90.html#ac65fc9905d59d5dfc123bb961ad75eb8" title="glsum" alt="" coords="132,442,191,469"/>
+<area shape="rect" id="node30" href="$classhelmholtz.html#a9609e49232b58a6deb40ed82508c0a45" title="Update the k&#45;th row/column of H_red. " alt="" coords="100,138,223,165"/>
+<area shape="rect" id="node33" href="$gmres_8F90.html#a377d8578c6ccd4fddffb699c7a18f603" title="Solve the Helmholtz equation by right&#45;preconditioned GMRES iteration. " alt="" coords="113,87,209,114"/>
+<area shape="rect" id="node34" href="$drive2_8F90.html#ae3e6cc31f5e6b6b2b5062d80ca77519f" title="init opcounter " alt="" coords="669,710,741,737"/>
+<area shape="rect" id="node35" href="$prepost_8F90.html#a4a3b0e4ce35b3381281c0839e5846370" title="Store results for later postprocessing. Recent updates: p65 now indicates the number of parallel i/o ..." alt="" coords="126,493,197,519"/>
+<area shape="rect" id="node44" href="$drive2_8F90.html#a6637d27bdf1984d5964bd31465cd304a" title="print run statistics from ctimer " alt="" coords="307,761,373,787"/>
+<area shape="rect" id="node46" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="667,658,742,685"/>
+<area shape="rect" id="node3" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="489,138,560,165"/>
+<area shape="rect" id="node13" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="457,87,592,114"/>
+<area shape="rect" id="node4" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="640,189,769,215"/>
+<area shape="rect" id="node5" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="819,239,881,266"/>
+<area shape="rect" id="node11" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="821,189,879,215"/>
+<area shape="rect" id="node6" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="954,239,1005,266"/>
+<area shape="rect" id="node7" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="1100,239,1207,266"/>
+<area shape="rect" id="node8" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1279,239,1429,266"/>
+<area shape="rect" id="node9" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="1477,290,1564,317"/>
+<area shape="rect" id="node10" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="1612,534,1677,561"/>
+<area shape="rect" id="node12" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="956,189,1003,215"/>
+<area shape="rect" id="node16" href="$bdry_8F90.html#a951bdf0cc92491425c58d31404dca3ad" title="Subroutine to initialize logical flags. " alt="" coords="1324,509,1384,535"/>
+<area shape="rect" id="node18" href="$connect1_8F90.html#a7e7fe242629fbe522f2dba66076aeaaa" title="Verify right&#45;handedness of given elements. 8 Mar 1989 21:58:26 PFF. " alt="" coords="948,559,1011,586"/>
+<area shape="rect" id="node17" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1485,534,1556,561"/>
+<area shape="rect" id="node19" href="$connect1_8F90.html#ad2fa64ec84d1358545061390d925ff77" title="Verify right&#45;handedness of elements. .Verify element&#45;to&#45;element reciprocity of BC&#39;s ..." alt="" coords="1125,559,1181,586"/>
+<area shape="rect" id="node20" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="1308,559,1400,586"/>
+<area shape="rect" id="node22" href="$ic_8F90.html#af64028aefb1dff2a9f8a84ff024f44b0" title="driver for restarts (1) Open restart file(s) (2) Check previous spatial discretization (3) Map (K1..." alt="" coords="651,603,758,630"/>
+<area shape="rect" id="node23" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="1124,610,1183,637"/>
+<area shape="rect" id="node31" href="$classhelmholtz.html#a5077d115c2aaad42d80aaa089651bb25" title="Reconstruct the solution to the original problem by adding back the approximate solution, add solution to approximation space. " alt="" coords="461,189,588,215"/>
+<area shape="rect" id="node32" href="$classhelmholtz.html#a3e09d3a986ea4fbbadab98d300bf9371" title="Recompute H_red if dt has changed. " alt="" coords="271,189,409,215"/>
+<area shape="rect" id="node36" href="$prepost_8F90.html#aaf4c0f2e1790302116a4c719c2eb50ff" title="outpost2" alt="" coords="302,475,378,502"/>
+<area shape="rect" id="node37" href="$prepost_8F90.html#aacb528c0b28bc79dff8db48d7ae9ac64" title="outpost" alt="" coords="491,471,559,498"/>
+<area shape="rect" id="node38" href="$coef_8F90.html#ad01cc61ba84d488e68ca9e259c592465" title="Routine to generate mapping data based on mesh 1 (Gauss&#45;Legendre Lobatto meshes). ..." alt="" coords="665,466,744,493"/>
+<area shape="rect" id="node39" href="$coef_8F90.html#ac5d2ac0efba4a530fab5387321307d01" title="Routine to generate all elemental geometric data for mesh 1. Velocity formulation : global&#45;to&#45;local m..." alt="" coords="817,458,883,485"/>
+<area shape="rect" id="node40" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="939,341,1020,367"/>
+<area shape="rect" id="node41" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="931,458,1028,485"/>
+<area shape="rect" id="node42" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="1076,392,1231,433"/>
+<area shape="rect" id="node43" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="1306,403,1402,430"/>
+<area shape="rect" id="node45" href="$drive1_8F90.html#a10055f031c0ac540cc534ab2b0363206" title="perform any end&#45;of&#45;run reporting " alt="" coords="1482,661,1559,687"/>
+</map>

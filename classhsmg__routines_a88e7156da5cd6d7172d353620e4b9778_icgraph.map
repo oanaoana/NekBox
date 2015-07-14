@@ -1,0 +1,29 @@
+<map id="hsmg_routines::hsmg_dssum" name="hsmg_routines::hsmg_dssum">
+<area shape="rect" id="node2" href="$classhsmg__routines.html#a6e79e13064790d22b12b32f86d5fc52d" title="r =J r, l is coarse level " alt="" coords="208,5,392,32"/>
+<area shape="rect" id="node17" href="$classhsmg__routines.html#a4a6db215f45240aeea2ec2541872b472" title="hsmg_routines::h1mg\l_schwarz_part1" alt="" coords="223,57,377,98"/>
+<area shape="rect" id="node19" href="$classhsmg__routines.html#a13c1cb2ecf3853e551896970bb5c87b5" title="hsmg_routines::h1mg\l_setup_schwarz_wt_1" alt="" coords="219,122,381,163"/>
+<area shape="rect" id="node26" href="$classhsmg__routines.html#a8cd19d8e20a7c2d3db0ff9ef8586c8ae" title="hsmg_routines::hsmg\l_setup_rstr_wt" alt="" coords="223,253,377,294"/>
+<area shape="rect" id="node3" href="$classhsmg__routines.html#abaa25315b11254629ed79c12c169c52f" title="Solve preconditioner: z = M rhs, where . " alt="" coords="643,49,797,90"/>
+<area shape="rect" id="node4" href="$gmres_8F90.html#a377d8578c6ccd4fddffb699c7a18f603" title="Solve the Helmholtz equation by right&#45;preconditioned GMRES iteration. " alt="" coords="845,56,941,83"/>
+<area shape="rect" id="node5" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="989,56,1043,83"/>
+<area shape="rect" id="node6" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="1123,27,1193,53"/>
+<area shape="rect" id="node16" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="1091,77,1225,104"/>
+<area shape="rect" id="node7" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="1273,77,1403,104"/>
+<area shape="rect" id="node8" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="1451,47,1513,73"/>
+<area shape="rect" id="node14" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="1453,97,1511,124"/>
+<area shape="rect" id="node9" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="1561,47,1612,73"/>
+<area shape="rect" id="node10" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="1660,97,1767,124"/>
+<area shape="rect" id="node11" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1815,97,1965,124"/>
+<area shape="rect" id="node12" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="2013,97,2100,124"/>
+<area shape="rect" id="node13" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="2148,123,2213,149"/>
+<area shape="rect" id="node15" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="1563,97,1610,124"/>
+<area shape="rect" id="node18" href="$classhsmg__routines.html#ae8264b46dc5298c58a281e55ef3b2bc5" title="hsmg_routines::h1mg\l_schwarz" alt="" coords="440,57,595,98"/>
+<area shape="rect" id="node20" href="$classhsmg__routines.html#adca849fb5d33cee442c5ac183cffca88" title="hsmg_routines::h1mg\l_setup_schwarz_wt" alt="" coords="440,122,595,163"/>
+<area shape="rect" id="node24" href="$classhsmg__routines.html#ab039b61096238d0ba36bcbe03a2ad1eb" title="hsmg_routines::hsmg\l_setup_schwarz_wt" alt="" coords="440,187,595,229"/>
+<area shape="rect" id="node21" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="643,131,797,173"/>
+<area shape="rect" id="node22" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="845,148,941,175"/>
+<area shape="rect" id="node23" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1303,148,1373,175"/>
+<area shape="rect" id="node25" href="$classhsmg__routines.html#ac8f9bca9624d5e550d70acabfa8aef73" title="Sets up hybrid Schwarz multi&#45;grid preconditioner. " alt="" coords="643,197,797,238"/>
+<area shape="rect" id="node27" href="$classhsmg__routines.html#a4814c3115aa7273c8ca6fcd57544af17" title="hsmg_routines::h1mg\l_setup_wtmask" alt="" coords="440,253,595,294"/>
+<area shape="rect" id="node28" href="$classhsmg__routines.html#ab6ca71e235e4e1d2d7b5e0a782706b92" title="hsmg_routines::hsmg\l_setup_wtmask" alt="" coords="440,318,595,359"/>
+</map>

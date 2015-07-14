@@ -1,0 +1,42 @@
+<map id="dssum" name="dssum">
+<area shape="rect" id="node2" href="$gmres_8F90.html#abb09784e907975584f1a8f4dbf282a79" title="w = A*x for pressure iteration " alt="" coords="593,163,631,189"/>
+<area shape="rect" id="node4" href="$hmholtz_8F90.html#a8734f3cc2d37d6a2ccd1daa8db57513d" title="Solve the Helmholtz equation, H*U = RHS, using preconditioned conjugate gradient iteration. Preconditioner: diag(H). " alt="" coords="926,244,979,271"/>
+<area shape="rect" id="node5" href="$hmholtz_8F90.html#a52dcac1fe733719d4987d36aac022e4d" title="hmholtz" alt="" coords="1073,244,1144,271"/>
+<area shape="rect" id="node6" href="$classhelmholtz.html#abf98ad104d11790462e9f07b3fa91848" title="Either std. Helmholtz solve, or a projection + Helmholtz solve. " alt="" coords="1224,369,1353,396"/>
+<area shape="rect" id="node13" href="$plan4_8F90.html#a5cbf852b67e73bfa44e028338c4d57ad" title="Splitting scheme . " alt="" coords="1404,597,1461,624"/>
+<area shape="rect" id="node16" href="$navier1_8F90.html#ad18040c3ef81864093bb259cf9e52017" title="Compute the pressure tolerance. " alt="" coords="1257,623,1320,649"/>
+<area shape="rect" id="node17" href="$ic_8F90.html#a12fbcc70f37b3490eeda7dfb002dcc7d" title="Take direct stiffness avg of u. " alt="" coords="170,724,230,751"/>
+<area shape="rect" id="node19" href="$ic_8F90.html#acaefa33e86633e4a7a4b28347d4620d1" title="Set initial conditions. " alt="" coords="583,927,641,953"/>
+<area shape="rect" id="node22" href="$eigsolv_8F90.html#a641903cf1502c362e017e07dcb6cae02" title="Compute startvector for finding an eigenvalue on mesh 1. Normalization: XT*B*X = 1. " alt="" coords="579,736,645,763"/>
+<area shape="rect" id="node23" href="$eigsolv_8F90.html#a40aa959fb07551b7b3fe2e5bd7ed6fda" title="Compute maximum eigenvalue of the discrete Helmholtz operator. " alt="" coords="757,736,844,763"/>
+<area shape="rect" id="node26" href="$drive2_8F90.html#aefc07385d7e7539fb57662470f694136" title="Generate geometry data. " alt="" coords="912,851,993,877"/>
+<area shape="rect" id="node27" href="$classhelmholtz.html#a9609e49232b58a6deb40ed82508c0a45" title="Update the k&#45;th row/column of H_red. " alt="" coords="139,420,261,447"/>
+<area shape="rect" id="node30" href="$classhelmholtz.html#a52002b3abc9e261d205cb96d49918f05" title="Project out the part of the residual in the approx space. " alt="" coords="552,420,672,447"/>
+<area shape="rect" id="node31" href="$makeq_8F90.html#ad52d9adde8f010af2d0a8c1a55543eeb" title="Generate forcing function for the solution of a passive scalar. !! NOTE: Do not change the content of..." alt="" coords="1077,521,1141,548"/>
+<area shape="rect" id="node32" href="$coef_8F90.html#a8f030ba29c08d869ce58476a91a06723" title="Invert the mass matrix. 1) Copy BM1 to BINVM1 2) Perform direct stiffness summation on BINVM1 3) Comp..." alt="" coords="165,876,235,903"/>
+<area shape="rect" id="node36" href="$hmholtz_8F90.html#ae883228509f56e1f673660daca7a909b" title="Generate diagonal preconditioner for the Helmholtz operator. " alt="" coords="165,344,235,371"/>
+<area shape="rect" id="node37" href="$connect1_8F90.html#ad619b0e5766c6f9dd44ae5c8b6f485f0" title="Parallel compatible routine to find connectivity of element structure. On Processor 0: ..." alt="" coords="755,1116,847,1143"/>
+<area shape="rect" id="node38" href="$classpoisson.html#a1ab874c434e5694003e378739fb98c65" title="poisson::spectral_solve" alt="" coords="116,264,284,291"/>
+<area shape="rect" id="node40" href="$fast3d_8F90.html#addd04c0906ff23259d0d42666252029e" title="swap_lengths" alt="" coords="355,1087,464,1113"/>
+<area shape="rect" id="node41" href="$connect2_8F90.html#adba820f37df281408554a1a442ed658d" title="Verify that mesh and dssum are properly defined by performing a direct stiffness operation on the X..." alt="" coords="915,1187,990,1213"/>
+<area shape="rect" id="node3" href="$gmres_8F90.html#a377d8578c6ccd4fddffb699c7a18f603" title="Solve the Helmholtz equation by right&#45;preconditioned GMRES iteration. " alt="" coords="753,235,849,261"/>
+<area shape="rect" id="node15" href="$classhelmholtz.html#ae307c08c70cdc6428553cb85ce68cbbb" title="helmholtz::hmhzpf" alt="" coords="1041,303,1176,329"/>
+<area shape="rect" id="node7" href="$conduct_8F90.html#a74a7f053381975ed36df8ea959f3aa01" title="Solve the convection&#45;diffusion equation for passive scalar IPSCAL. " alt="" coords="1401,521,1464,548"/>
+<area shape="rect" id="node8" href="$drive2_8F90.html#acce80cd37f20e9b52729eb52d86a9c86" title="Driver for temperature or passive scalar. " alt="" coords="1512,552,1563,579"/>
+<area shape="rect" id="node9" href="$drive1_8F90.html#ae177ea7efac97f35241521b782a671c0" title="take a single time&#45;step " alt="" coords="1611,745,1717,772"/>
+<area shape="rect" id="node10" href="$drive1_8F90.html#a18d3e839786263fc4cf91f7eeb714371" title="take a chunk of time&#45;steps " alt="" coords="1765,805,1916,832"/>
+<area shape="rect" id="node11" href="$drive1_8F90.html#a6ad57e0cf728f343e371ef8c9a02cd8a" title="integrate the governing equations in time " alt="" coords="1964,836,2051,863"/>
+<area shape="rect" id="node12" href="$drive_8F90.html#a13048bf28dd0734640412d69349e3857" title="NEK5000: Spectral Element Computational Fluid Dynamics Solver COPYRIGHT (c) 2008&#45;2010 UCHICAGO ARGONN..." alt="" coords="2099,876,2164,903"/>
+<area shape="rect" id="node14" href="$drive2_8F90.html#ab0aeca9ad3db8be87a01ba29d069d71e" title="Driver for solving the incompressible Navier&#45;Stokes equations. " alt="" coords="1514,664,1561,691"/>
+<area shape="rect" id="node18" href="$classhsmg__routines.html#abaa25315b11254629ed79c12c169c52f" title="Solve preconditioner: z = M rhs, where . " alt="" coords="535,227,689,269"/>
+<area shape="rect" id="node21" href="$navier5_8F90.html#a0a5183b7f1b1b44e49ac619b15930223" title="rand_fld_h1" alt="" coords="360,724,459,751"/>
+<area shape="rect" id="node20" href="$drive1_8F90.html#a87bd37ae2c18426f28f35cc3f24e4355" title="initialize nek " alt="" coords="1253,952,1324,979"/>
+<area shape="rect" id="node24" href="$eigsolv_8F90.html#a91ddf7cb5ca6b19d1c736da5bf7386b3" title="Compute the following eigenvalues:. EIGAA = minimum eigenvalue of the matrix A (=Laplacian) EIGAE = m..." alt="" coords="921,743,985,769"/>
+<area shape="rect" id="node25" href="$drive2_8F90.html#a7f0d055bb47546a4859ac7d63339197e" title="Compute eigenvalues. " alt="" coords="1076,745,1141,772"/>
+<area shape="rect" id="node28" href="$classhelmholtz.html#a5077d115c2aaad42d80aaa089651bb25" title="Reconstruct the solution to the original problem by adding back the approximate solution, add solution to approximation space. " alt="" coords="737,369,864,396"/>
+<area shape="rect" id="node29" href="$classhelmholtz.html#a3e09d3a986ea4fbbadab98d300bf9371" title="Recompute H_red if dt has changed. " alt="" coords="340,420,479,447"/>
+<area shape="rect" id="node33" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="361,1028,458,1055"/>
+<area shape="rect" id="node34" href="$classhsmg__routines.html#a91e8aa59d56bbf05d75aa9c48bcd8977" title="Sets up Poisson preconditioner. " alt="" coords="535,1029,689,1070"/>
+<area shape="rect" id="node35" href="$navier6_8F90.html#a45317b1def173b8f1db2e5083595d095" title="Set up arrays for overlapping Schwartz algorithm for pressure solver " alt="" coords="753,1036,849,1063"/>
+<area shape="rect" id="node39" href="$classhsmg__routines.html#adb1f241321c99f913f53fefefee82c09" title="hsmg_routines::hsmg\l_coarse_solve" alt="" coords="332,202,487,243"/>
+</map>

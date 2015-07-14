@@ -1,0 +1,9 @@
+<map id="apply_S" name="apply_S">
+<area shape="rect" id="node2" href="$xxt_8c.html#a62b4197f27256eb0b32c8471ab5617f4" title="apply_m_Asl" alt="" coords="127,5,229,32"/>
+<area shape="rect" id="node3" href="$xxt_8c.html#a50b89aae017b2ce1f015cd317bb4189f" title="apply_p_Als" alt="" coords="129,56,227,83"/>
+<area shape="rect" id="node4" href="$xxt_8c.html#a4c650e6ff94275a07fdde3ccc8faf7c4" title="sum" alt="" coords="155,107,201,133"/>
+<area shape="rect" id="node5" href="$comm_8h.html#aadc6a8cdf4984083417952ebfbc0ee00" title="comm_send" alt="" coords="279,31,377,57"/>
+<area shape="rect" id="node6" href="$comm_8h.html#a61f3037ecf23cd5609e3eac2ce0e1b01" title="comm_recv" alt="" coords="281,81,375,108"/>
+<area shape="rect" id="node7" href="$comm_8h.html#a33c610b70409697426693f5d98a8e084" title="comm_isend" alt="" coords="277,132,379,159"/>
+<area shape="rect" id="node8" href="$comm_8h.html#a0f6e578048ebdc9f0869f9f5af2fd08b" title="comm_wait" alt="" coords="282,183,374,209"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="makeq_aux" name="makeq_aux">
+<area shape="rect" id="node2" href="$conduct_8F90.html#aa167d71e770cd729d61c955a42f4a2bd" title="Fill up user defined forcing function and collocate will the mass matrix on the Gauss&#45;Lobatto mesh..." alt="" coords="148,56,219,83"/>
+<area shape="rect" id="node8" href="$setprop_8F90.html#af114fff998975a6e77422a65106222ca" title="Set variable property arrays. " alt="" coords="148,107,219,133"/>
+<area shape="rect" id="node3" href="$conduct_8F90.html#af0e288fad495f966ca997a13837ba9f0" title="Set user specified volumetric forcing function (e.g. heat source). " alt="" coords="267,56,333,83"/>
+<area shape="rect" id="node4" href="$conduct_8F90.html#acb64f74e02714984eec1179c3293fbcc" title="Generate user&#45;specified volumetric source term (temp./p.s.) " alt="" coords="381,56,441,83"/>
+<area shape="rect" id="node5" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="505,5,603,32"/>
+<area shape="rect" id="node7" href="$bdry_8F90.html#a2426a0c5d510c19b0aa48112922383c3" title="Assign NEKTON variables for definition (by user) of boundary conditions at collocation point (IX..." alt="" coords="516,56,592,83"/>
+<area shape="rect" id="node6" href="$classmesh.html#a8b6a250925cdc576e3ff6f7b18dc88c4" title="mesh::xyz_to_ieg" alt="" coords="667,5,797,32"/>
+<area shape="rect" id="node9" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="489,107,619,133"/>
+<area shape="rect" id="node11" href="$subs1_8F90.html#a895c417a4106672b662bf2fb96b26f06" title="Set material properties Material type: 0 for default (PARAM and PCOND/PRHOCP) 1 for constant props; 2..." alt="" coords="267,183,333,209"/>
+<area shape="rect" id="node10" href="$mpi__dummy_8F90.html#ae6a5ef945f87c2c27849696b70f3af2a" title="mpi_wtime" alt="" coords="688,107,776,133"/>
+<area shape="rect" id="node12" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="387,208,435,235"/>
+<area shape="rect" id="node13" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="519,157,589,184"/>
+<area shape="rect" id="node14" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="501,208,607,235"/>
+<area shape="rect" id="node15" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="506,259,602,285"/>
+<area shape="rect" id="node16" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="513,309,595,336"/>
+<area shape="rect" id="node18" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="513,360,595,387"/>
+<area shape="rect" id="node17" href="$papi_8F90.html#a838be3d39e287e29002d5a68c6ad2dd8" title="getflops_papi" alt="" coords="679,309,785,336"/>
+<area shape="rect" id="node19" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="685,360,779,387"/>
+</map>

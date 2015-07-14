@@ -1,0 +1,5 @@
+<map id="opdsop" name="opdsop">
+<area shape="rect" id="node2" href="$dssum_8F90.html#ae25c615abe30524ab6ed778fb5b69fb7" title="Direct stiffness summation of the face data, for field U. Boundary condition data corresponds to comp..." alt="" coords="123,5,205,32"/>
+<area shape="rect" id="node3" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="253,5,336,32"/>
+<area shape="rect" id="node4" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="384,5,477,32"/>
+</map>

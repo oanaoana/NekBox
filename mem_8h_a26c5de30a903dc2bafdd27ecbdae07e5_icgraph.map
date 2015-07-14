@@ -1,0 +1,6 @@
+<map id="srealloc" name="srealloc">
+<area shape="rect" id="node2" href="$mem_8h.html#af00024f2f513ee3aeb5c11ff7057626b" title="array_resize_" alt="" coords="124,31,233,57"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae8987de29908d81ee663ab67d4635dad" title="array_reserve_" alt="" coords="281,31,400,57"/>
+<area shape="rect" id="node4" href="$mem_8h.html#af25cc60e366fa6bbaa4b4cd3fa24c159" title="array_cat_" alt="" coords="483,5,574,32"/>
+<area shape="rect" id="node5" href="$sarray__transfer_8h.html#adc44e0c45eec7d8055ccc6cd6fb5f86b" title="sarray_transfer_many" alt="" coords="448,56,609,83"/>
+</map>

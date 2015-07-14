@@ -1,0 +1,51 @@
+<map id="setics" name="setics">
+<area shape="rect" id="node2" href="$ic_8F90.html#a12fbcc70f37b3490eeda7dfb002dcc7d" title="Take direct stiffness avg of u. " alt="" coords="135,58,195,85"/>
+<area shape="rect" id="node3" href="$dssum_8F90.html#a0b9da6f19f8f42c7aa2fd9ca723a63ef" title="Direct stiffness sum. " alt="" coords="489,159,551,186"/>
+<area shape="rect" id="node5" href="$comm__mpi_8F90.html#a4acb4d8e379294232e9219bec063d8f3" title="nekgsync" alt="" coords="825,767,907,794"/>
+<area shape="rect" id="node7" href="$byte_8c.html#a2da8eeb074dfd3ffbfb3e9a4d301cda4" title="exitt" alt="" coords="663,1021,711,1047"/>
+<area shape="rect" id="node12" href="$ic_8F90.html#aaf47b255d1cfac3451a8473ee6876b4f" title="Generate geometry data. " alt="" coords="117,337,214,363"/>
+<area shape="rect" id="node21" href="$navier1_8F90.html#a83d718e9b1893670bcd6f299a7751366" title="Keep old velocity field(s) " alt="" coords="136,666,195,693"/>
+<area shape="rect" id="node22" href="$navier1_8F90.html#a55f0c02db80925df02a6998e17985478" title="opcopy" alt="" coords="309,615,377,642"/>
+<area shape="rect" id="node23" href="$classio.html#a8f8da23cfb175a121cf25557d58d1c98" title="Load initial condition from a previous multi&#45;file output. " alt="" coords="123,919,207,946"/>
+<area shape="rect" id="node34" href="$ic_8F90.html#a5b4e9125206f5ed1b277fdea8756ac22" title="User specified fortran function (=0 if not specified) " alt="" coords="134,717,197,743"/>
+<area shape="rect" id="node36" href="$navier1_8F90.html#a968374df04841450c737483b598fa474" title="opcolv" alt="" coords="134,1654,197,1681"/>
+<area shape="rect" id="node37" href="$navier1_8F90.html#a2f89b54d1ceda6fb201432d7a61bc907" title="opdssum" alt="" coords="126,514,205,541"/>
+<area shape="rect" id="node39" href="$navier1_8F90.html#a4905d51f51b57bfec184a6b44f858bdb" title="Orthogonalize the residual in the pressure solver with respect to (1,1,...,1)T (only if all Dirichlet..." alt="" coords="138,1097,193,1123"/>
+<area shape="rect" id="node41" href="$ic_8F90.html#af64028aefb1dff2a9f8a84ff024f44b0" title="driver for restarts (1) Open restart file(s) (2) Check previous spatial discretization (3) Map (K1..." alt="" coords="112,1401,219,1427"/>
+<area shape="rect" id="node47" href="$convect_8F90.html#a9b58d62988f53102b490531b844a1891" title="setup_convect" alt="" coords="286,1021,399,1047"/>
+<area shape="rect" id="node50" href="$ic_8F90.html#a06b7034f5e516ccf0207189177967c05" title="Set up logicals for initial conditions. " alt="" coords="136,1603,195,1630"/>
+<area shape="rect" id="node4" href="$classctimer.html#abcecbc845c8ee72e13a19eaa30b80d77" title="ctimer::dnekclock" alt="" coords="801,919,931,946"/>
+<area shape="rect" id="node6" href="$mpi__dummy_8F90.html#a070afe564196eb48413dbf1a9fbc99aa" title="mpi_barrier" alt="" coords="979,767,1072,794"/>
+<area shape="rect" id="node8" href="$subs1_8F90.html#a339739b88994e5bb12bd923147f94983" title="flush_io" alt="" coords="831,970,901,997"/>
+<area shape="rect" id="node9" href="$singlmesh_8F90.html#aef78ff219741b83c1ca784b869e9cacf" title="Dummy for singlmesh. " alt="" coords="813,1021,919,1047"/>
+<area shape="rect" id="node10" href="$mpi__dummy_8F90.html#a55e9a1619aadb638b14211ce21d7d566" title="mpi_finalize" alt="" coords="818,1071,914,1098"/>
+<area shape="rect" id="node11" href="$papi_8F90.html#a3a75ccdfbe05912fda48c3b134d114c0" title="nek_flops" alt="" coords="825,1122,907,1149"/>
+<area shape="rect" id="node13" href="$coef_8F90.html#ac5d2ac0efba4a530fab5387321307d01" title="Routine to generate all elemental geometric data for mesh 1. Velocity formulation : global&#45;to&#45;local m..." alt="" coords="310,261,375,287"/>
+<area shape="rect" id="node14" href="$coef_8F90.html#aa1888ed007f00d368349e09888f324ca" title="Routine to generate all elemental geometric data for mesh 2 (Gauss&#45;Legendre mesh). RXM2, RYM2, RZM2 &#45; dr/dx, dr/dy, dr/dz SXM2, SYM2, SZM2 &#45; ds/dx, ds/dy, ds/dz TXM2, TYM2, TZM2 &#45; dt/dx, dt/dy, dt/dz JACM2 &#45; Jacobian BM2 &#45; Mass matrix. " alt="" coords="310,311,375,338"/>
+<area shape="rect" id="node15" href="$genxyz_8F90.html#afa4985f57fa5d325c688c82f27af67b3" title="Set up deformed element logical switches. " alt="" coords="312,362,373,389"/>
+<area shape="rect" id="node16" href="$coef_8F90.html#a8f030ba29c08d869ce58476a91a06723" title="Invert the mass matrix. 1) Copy BM1 to BINVM1 2) Perform direct stiffness summation on BINVM1 3) Comp..." alt="" coords="307,159,378,186"/>
+<area shape="rect" id="node18" href="$hmholtz_8F90.html#aa5b9b0e9c89d1c385f220cafe15fe31b" title="For undeformed elements, set up appropriate elemental matrices and geometric factors for fast evaluat..." alt="" coords="309,413,376,439"/>
+<area shape="rect" id="node19" href="$subs1_8F90.html#aa57451cc7f331b193194eadc074dbbba" title="updmsys" alt="" coords="304,463,381,490"/>
+<area shape="rect" id="node20" href="$coef_8F90.html#a9f5bcc9bbca02379fdf1aa0aa77845cf" title="Compute the volume based on mesh M1 and mesh M2. " alt="" coords="309,210,376,237"/>
+<area shape="rect" id="node17" href="$math_8F90.html#a3b43508554f14bdea8e14473d7d0803c" title="copy" alt="" coords="494,666,546,693"/>
+<area shape="rect" id="node24" href="$classio.html#a7b9fab509eb3310e470c7998ff63c888" title="io::get_restart_name" alt="" coords="267,1325,418,1351"/>
+<area shape="rect" id="node27" href="$ic_8F90.html#a68d933fc6454561483fc9fa2bbac444b" title="open blah000.fldnn " alt="" coords="293,1274,392,1301"/>
+<area shape="rect" id="node28" href="$classio.html#a3b8dab7279564c05e092b8194f166d8b" title="Read header and return number of elements and word size. " alt="" coords="267,970,419,997"/>
+<area shape="rect" id="node32" href="$classio.html#a73b31838c25a62a2d22ccd660b5f26bb" title="Read a vector field. " alt="" coords="269,869,416,895"/>
+<area shape="rect" id="node33" href="$classio.html#a758050a046c3323706e227872dc0bddf" title="Read a scalar field. " alt="" coords="270,818,415,845"/>
+<area shape="rect" id="node25" href="$classstring.html#a788cdffdfd5841a6e4117c4b8e80da77" title="string::ltrunc" alt="" coords="471,1578,569,1605"/>
+<area shape="rect" id="node26" href="$math_8F90.html#ad7fb480cea001849621405f37167aab1" title="chcopy" alt="" coords="654,1299,721,1326"/>
+<area shape="rect" id="node29" href="$classparallel.html#ac36680315d0622d84df5d5baf3fb0acc" title="parallel::lglel" alt="" coords="471,919,569,946"/>
+<area shape="rect" id="node30" href="$comm__mpi_8F90.html#ae425c1deb2e82d2007c97e1c4be990c8" title="bcast" alt="" coords="493,1477,547,1503"/>
+<area shape="rect" id="node31" href="$comm__mpi_8F90.html#a898c3cc227476846bd3216f97a9a8657" title="err_chk" alt="" coords="485,1071,555,1098"/>
+<area shape="rect" id="node35" href="$bdry_8F90.html#a2426a0c5d510c19b0aa48112922383c3" title="Assign NEKTON variables for definition (by user) of boundary conditions at collocation point (IX..." alt="" coords="305,717,381,743"/>
+<area shape="rect" id="node38" href="$dssum_8F90.html#aab5cbea45cf919be4147d3f722cd56c3" title="Direct stiffness summation of the face data, for field U. " alt="" coords="641,919,733,946"/>
+<area shape="rect" id="node40" href="$comm__mpi_8F90.html#a59fcf8a02fe54ab37f61050e3ca6b197" title="exitti" alt="" coords="495,1122,545,1149"/>
+<area shape="rect" id="node42" href="$classparallel.html#a07e279fd1cc6f4e9189bcaad37a0d3b6" title="parallel::gllnid" alt="" coords="467,1527,573,1554"/>
+<area shape="rect" id="node43" href="$math_8F90.html#a2ae7758acef4b66358f4eec152433197" title="glmax" alt="" coords="313,1629,372,1655"/>
+<area shape="rect" id="node44" href="$classstring.html#ab171e2e20b34aec88fe3938a45596f50" title="string::i1_from_char" alt="" coords="269,1375,416,1402"/>
+<area shape="rect" id="node45" href="$comm__mpi_8F90.html#aaa2c579a3b72b7a20446818d166bc7cc" title="Broadcast logical variable to all processors. " alt="" coords="313,1527,372,1554"/>
+<area shape="rect" id="node46" href="$ic_8F90.html#a46a0ff5dd0a6f10aa39215385ba21288" title="mapdmp" alt="" coords="305,1173,381,1199"/>
+<area shape="rect" id="node49" href="$ic_8F90.html#a8947b3794015310a5f2962f2c8f1c4cb" title="Set IO flags according to Restart Options File, RSOPTS. " alt="" coords="311,1730,374,1757"/>
+<area shape="rect" id="node48" href="$convect_8F90.html#a768d72f963bbcaf77ab9725ad7847c72" title="Put vxd,vyd,vzd into rst form on fine mesh For rst form, see eq. (4.8.5) in Deville, Fischer, Mund (2002). " alt="" coords="621,970,753,997"/>
+</map>
