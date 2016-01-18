@@ -637,7 +637,7 @@ subroutine settime
   if (irst > 0) nbd = nbdinp
   bd = 0._dp
   CALL SETBD (BD,DTLAG,NBD)
-  NAB = 3
+  NAB = nbdinp
   IF (ISTEP <= 2 .AND. irst <= 0) NAB = ISTEP
   ab = 0._dp
   CALL SETABBD (AB,DTLAG,NAB,NBD)

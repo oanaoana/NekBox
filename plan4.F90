@@ -496,10 +496,18 @@ subroutine v_extrap(vext)
     vext(:,:,:,:,1) = ab0*vx + ab1*vxlag(:,:,:,:,1) + ab2*vxlag(:,:,:,:,2)
     vext(:,:,:,:,2) = ab0*vy + ab1*vylag(:,:,:,:,1) + ab2*vylag(:,:,:,:,2)
     vext(:,:,:,:,3) = ab0*vz + ab1*vzlag(:,:,:,:,1) + ab2*vzlag(:,:,:,:,2)
-  else
+  else if (nab == 2) then
+    othr_flop = othr_flop + lx1*ly1*lz1*lelv*9
+    othr_mop = othr_mop + lx1*ly1*lz1*lelv*9
     vext(:,:,:,:,1) = ab0*vx + ab1*vxlag(:,:,:,:,1)
     vext(:,:,:,:,2) = ab0*vy + ab1*vylag(:,:,:,:,1)
     vext(:,:,:,:,3) = ab0*vz + ab1*vzlag(:,:,:,:,1)
+  else
+    othr_flop = othr_flop + lx1*ly1*lz1*lelv*3
+    othr_mop = othr_mop + lx1*ly1*lz1*lelv*6
+    vext(:,:,:,:,1) = ab0*vx 
+    vext(:,:,:,:,2) = ab0*vy 
+    vext(:,:,:,:,3) = ab0*vz 
   endif
 
   return
