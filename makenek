@@ -17,7 +17,7 @@ CC="mpicc "
 
 # pre-processor symbol list 
 # (set PPLIST=? to get a list of available symbols)
-PPLIST="LIBGS"
+#PPLIST="LIBGS"
 
 # plug-in list
 #PLUGIN_LIST=""
@@ -36,7 +36,7 @@ PPLIST="LIBGS"
 
 # linking flags
 #USR_LFLAGS="-lmkl_intel_lp64  -lmkl_sequential -lmkl_core"
-USR_LFLAGS="-lblas -llapack -lfftw3 -L${HOME}/gslib -lgs"
+USR_LFLAGS="-lblas -llapack -lfftw3"
 
 
 # generic compiler flags
